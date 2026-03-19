@@ -1,0 +1,5001 @@
+User ID,Group,Page Views,Time Spent,Conversion,Device,Location,Conversion_binary
+14292,B,3,424,No,Mobile,Northern Ireland,0
+11682,A,9,342,No,Mobile,Scotland,0
+19825,A,2,396,No,Desktop,Northern Ireland,0
+16080,B,4,318,No,Desktop,Wales,0
+18851,A,1,338,Yes,Desktop,Scotland,1
+13134,B,2,93,No,Desktop,Scotland,0
+16702,A,5,106,No,Mobile,Northern Ireland,0
+10041,B,9,292,No,Mobile,Northern Ireland,0
+13191,B,8,434,No,Desktop,Northern Ireland,0
+14427,B,12,271,No,Desktop,England,0
+12776,A,14,351,No,Desktop,Wales,0
+11457,A,9,347,No,Mobile,England,0
+16270,B,12,123,No,Desktop,Wales,0
+17608,A,2,41,No,Mobile,Scotland,0
+10019,B,8,84,No,Desktop,England,0
+13853,B,6,349,No,Desktop,Scotland,0
+14091,A,7,377,No,Mobile,Wales,0
+18448,B,12,95,No,Mobile,Wales,0
+19217,A,11,292,No,Mobile,England,0
+17897,B,14,327,No,Desktop,Wales,0
+14212,A,7,315,No,Mobile,England,0
+10026,A,11,394,No,Mobile,England,0
+18361,B,3,80,No,Mobile,England,0
+15775,A,4,420,No,Mobile,Scotland,0
+14575,A,12,230,No,Desktop,Wales,0
+19369,B,2,137,No,Mobile,Northern Ireland,0
+16330,A,11,182,No,Mobile,Wales,0
+16296,B,11,77,No,Desktop,Wales,0
+13528,B,9,430,No,Desktop,Wales,0
+19498,B,14,418,No,Desktop,Scotland,0
+11951,B,9,197,Yes,Mobile,Northern Ireland,1
+12482,B,13,227,No,Mobile,Scotland,0
+13970,A,5,263,No,Mobile,England,0
+19487,A,10,41,No,Desktop,Northern Ireland,0
+12647,B,7,204,No,Desktop,Scotland,0
+11334,A,6,358,No,Mobile,Northern Ireland,0
+14393,B,10,101,Yes,Desktop,Northern Ireland,1
+10435,A,10,222,No,Mobile,Northern Ireland,0
+14356,A,12,365,No,Mobile,England,0
+10628,A,10,427,No,Desktop,England,0
+18524,A,14,90,No,Desktop,Scotland,0
+13100,B,5,126,No,Desktop,Wales,0
+18153,A,9,77,No,Mobile,Wales,0
+10042,A,11,433,No,Desktop,England,0
+19566,B,7,388,No,Desktop,Northern Ireland,0
+18487,A,11,380,No,Desktop,Scotland,0
+17406,A,7,301,No,Desktop,Northern Ireland,0
+10071,A,5,326,No,Desktop,Scotland,0
+10448,B,14,56,No,Mobile,Northern Ireland,0
+11063,A,14,368,No,Mobile,England,0
+15726,B,13,140,No,Desktop,England,0
+14439,A,12,152,No,Mobile,Wales,0
+10268,A,7,289,Yes,Mobile,Scotland,1
+19819,A,2,215,No,Desktop,England,0
+15774,A,9,434,No,Desktop,Northern Ireland,0
+10553,A,4,401,Yes,Desktop,Northern Ireland,1
+14777,A,9,345,No,Desktop,Wales,0
+11184,A,1,396,No,Mobile,Wales,0
+17191,A,7,314,No,Mobile,England,0
+13264,B,1,135,No,Desktop,Northern Ireland,0
+14603,B,9,155,No,Mobile,Scotland,0
+13551,A,11,265,Yes,Desktop,Scotland,1
+16861,B,1,337,No,Mobile,Wales,0
+11803,A,7,124,No,Mobile,Wales,0
+10920,A,8,88,No,Desktop,England,0
+17539,A,1,151,No,Mobile,Scotland,0
+13537,B,3,229,No,Mobile,Northern Ireland,0
+12238,B,4,117,No,Desktop,Wales,0
+16160,A,14,234,No,Mobile,Wales,0
+18467,A,11,181,No,Mobile,Scotland,0
+14792,A,9,144,No,Desktop,Northern Ireland,0
+13675,B,3,434,No,Desktop,Wales,0
+11244,B,5,156,No,Desktop,England,0
+13909,A,7,348,No,Mobile,Scotland,0
+14568,B,12,204,Yes,Desktop,England,1
+13888,B,4,59,No,Mobile,Northern Ireland,0
+17730,A,11,241,No,Desktop,England,0
+17033,B,8,282,No,Desktop,Wales,0
+14737,A,12,371,No,Mobile,Wales,0
+11731,A,10,101,No,Mobile,Scotland,0
+19838,B,11,337,Yes,Desktop,Northern Ireland,1
+12610,B,7,50,No,Mobile,England,0
+17869,B,12,210,No,Mobile,Wales,0
+11517,A,9,59,No,Mobile,Scotland,0
+12107,A,11,70,No,Desktop,England,0
+16125,A,1,390,No,Desktop,Scotland,0
+15835,A,9,94,No,Mobile,Northern Ireland,0
+19401,B,9,91,Yes,Desktop,Wales,1
+18255,A,14,187,No,Desktop,Wales,0
+13928,A,5,79,No,Mobile,England,0
+18089,A,14,313,No,Desktop,England,0
+11047,B,10,159,No,Mobile,Northern Ireland,0
+17558,A,13,205,Yes,Desktop,Northern Ireland,1
+10142,B,14,295,No,Desktop,Northern Ireland,0
+16024,B,1,298,No,Desktop,England,0
+18073,B,6,279,No,Mobile,Wales,0
+14001,B,9,360,No,Desktop,Wales,0
+16174,A,2,336,No,Desktop,Wales,0
+18149,B,1,178,No,Mobile,Wales,0
+18669,B,7,80,No,Mobile,Scotland,0
+10869,B,11,362,No,Mobile,Wales,0
+14207,A,9,45,No,Mobile,Wales,0
+17412,A,5,319,No,Mobile,Wales,0
+14220,A,14,422,No,Mobile,England,0
+13555,B,8,372,No,Desktop,Northern Ireland,0
+10632,A,11,302,No,Desktop,Northern Ireland,0
+13974,B,2,305,Yes,Mobile,Northern Ireland,1
+12612,A,14,238,No,Desktop,Scotland,0
+11432,B,11,202,No,Desktop,England,0
+15983,A,11,357,No,Mobile,Wales,0
+14964,A,9,281,No,Desktop,Wales,0
+16445,B,2,100,No,Mobile,Wales,0
+12524,B,5,324,No,Mobile,Northern Ireland,0
+19961,B,10,227,No,Mobile,Wales,0
+12405,A,6,213,No,Mobile,Scotland,0
+11375,B,13,186,No,Desktop,Northern Ireland,0
+16652,B,7,48,No,Desktop,England,0
+16474,B,8,187,No,Mobile,Wales,0
+16872,B,2,238,No,Mobile,England,0
+14643,B,8,304,No,Mobile,Scotland,0
+13304,A,11,285,No,Mobile,Scotland,0
+17358,B,8,314,No,Desktop,Scotland,0
+11846,B,14,299,No,Desktop,Wales,0
+14248,B,10,140,Yes,Mobile,England,1
+10728,B,11,419,No,Desktop,Wales,0
+17854,B,9,199,No,Mobile,Wales,0
+17973,B,13,419,No,Desktop,England,0
+19497,A,11,412,No,Mobile,Wales,0
+11642,B,12,127,No,Desktop,Wales,0
+18392,A,8,440,No,Mobile,Scotland,0
+17004,B,8,372,Yes,Desktop,Wales,1
+16546,B,4,434,No,Mobile,Scotland,0
+10171,A,14,179,No,Desktop,Northern Ireland,0
+16653,A,7,84,No,Desktop,England,0
+17336,B,14,145,Yes,Desktop,Scotland,1
+11220,A,1,385,No,Mobile,Northern Ireland,0
+16104,B,3,409,No,Mobile,Northern Ireland,0
+19145,A,8,239,No,Desktop,Wales,0
+10260,A,11,264,No,Mobile,Wales,0
+15640,B,8,43,No,Desktop,Northern Ireland,0
+18888,B,6,249,No,Mobile,England,0
+18776,A,13,81,No,Desktop,Northern Ireland,0
+18508,B,2,45,Yes,Mobile,Wales,1
+18312,A,14,260,No,Mobile,Northern Ireland,0
+15917,B,1,349,Yes,Desktop,Northern Ireland,1
+15743,B,8,113,No,Desktop,Wales,0
+13942,B,6,308,No,Desktop,Northern Ireland,0
+11639,A,4,345,No,Mobile,Northern Ireland,0
+19692,B,7,447,No,Desktop,Wales,0
+12221,A,1,225,No,Mobile,Wales,0
+19460,A,2,49,No,Mobile,Northern Ireland,0
+19347,A,13,150,No,Desktop,Wales,0
+14656,B,13,174,No,Desktop,Wales,0
+10788,A,8,384,No,Desktop,Wales,0
+13025,A,13,189,No,Mobile,Northern Ireland,0
+15534,B,12,311,No,Desktop,England,0
+10410,A,8,291,No,Mobile,Wales,0
+12010,A,9,67,No,Desktop,Northern Ireland,0
+19264,A,12,70,No,Desktop,Wales,0
+17257,A,8,262,No,Desktop,Scotland,0
+11221,B,4,315,No,Desktop,Wales,0
+13116,A,14,139,No,Mobile,Scotland,0
+17722,B,9,173,No,Desktop,Scotland,0
+18192,A,1,305,No,Mobile,Scotland,0
+16757,B,5,409,No,Desktop,England,0
+17014,B,14,403,No,Desktop,Northern Ireland,0
+15849,B,4,312,No,Mobile,Scotland,0
+14654,A,1,384,No,Mobile,Scotland,0
+13496,A,13,266,No,Desktop,England,0
+19792,A,6,71,No,Mobile,Scotland,0
+16632,A,5,352,No,Mobile,Wales,0
+13010,B,12,216,No,Desktop,Northern Ireland,0
+15903,A,11,197,No,Desktop,Wales,0
+17964,B,5,349,No,Desktop,Northern Ireland,0
+11636,A,6,447,No,Mobile,Northern Ireland,0
+12191,B,5,355,No,Desktop,England,0
+12406,B,11,365,No,Mobile,Northern Ireland,0
+11734,B,6,67,No,Mobile,Wales,0
+11477,B,7,112,Yes,Desktop,Wales,1
+15141,A,13,157,No,Mobile,Northern Ireland,0
+17886,B,1,77,No,Desktop,Northern Ireland,0
+11123,A,5,370,No,Desktop,Wales,0
+18881,A,13,237,No,Desktop,England,0
+19189,A,4,93,No,Desktop,Northern Ireland,0
+16747,B,11,437,No,Desktop,England,0
+12845,B,1,109,No,Desktop,Wales,0
+18171,B,7,201,No,Desktop,Scotland,0
+19130,B,7,247,No,Desktop,Northern Ireland,0
+13188,B,12,369,No,Mobile,Northern Ireland,0
+12186,B,7,369,No,Desktop,Wales,0
+17011,B,11,244,No,Mobile,Scotland,0
+16828,B,5,57,No,Desktop,England,0
+11111,B,8,253,No,Mobile,Scotland,0
+19707,A,1,392,No,Mobile,Scotland,0
+19270,A,6,397,No,Mobile,Northern Ireland,0
+15153,A,7,243,No,Desktop,England,0
+11606,B,7,385,No,Mobile,Wales,0
+12485,B,11,379,No,Desktop,Wales,0
+15381,A,14,349,No,Mobile,Scotland,0
+12995,A,14,282,No,Mobile,Scotland,0
+19814,A,6,230,No,Mobile,Northern Ireland,0
+19360,A,4,148,No,Desktop,Scotland,0
+16493,A,12,336,No,Desktop,Wales,0
+12152,B,5,428,Yes,Mobile,Wales,1
+13764,A,5,250,No,Desktop,England,0
+15819,B,1,152,No,Mobile,Northern Ireland,0
+14490,A,4,436,No,Mobile,Northern Ireland,0
+13111,A,8,404,No,Desktop,Wales,0
+10972,A,13,423,No,Desktop,Wales,0
+14458,A,12,144,No,Mobile,Scotland,0
+19018,A,1,234,No,Mobile,Northern Ireland,0
+17642,A,9,409,No,Mobile,Northern Ireland,0
+12996,A,10,420,No,Desktop,Scotland,0
+12542,B,8,216,No,Mobile,England,0
+14330,B,7,101,No,Mobile,Scotland,0
+14790,A,10,137,No,Mobile,Northern Ireland,0
+10339,B,13,208,No,Mobile,Wales,0
+10422,A,6,137,No,Desktop,Northern Ireland,0
+11292,A,7,344,No,Desktop,Northern Ireland,0
+12543,B,12,305,No,Mobile,England,0
+14707,A,2,42,No,Desktop,Northern Ireland,0
+13065,A,4,297,No,Mobile,England,0
+13366,B,5,99,Yes,Desktop,England,1
+16166,A,11,330,No,Mobile,England,0
+14675,B,7,101,No,Desktop,Wales,0
+18035,A,10,208,No,Mobile,Scotland,0
+16538,B,4,381,No,Mobile,Northern Ireland,0
+10508,B,6,263,No,Mobile,England,0
+11135,B,7,79,Yes,Desktop,Wales,1
+11950,B,7,312,No,Mobile,Northern Ireland,0
+17266,B,9,131,No,Mobile,Northern Ireland,0
+14287,A,7,357,No,Desktop,Northern Ireland,0
+19398,B,2,106,No,Mobile,Scotland,0
+16738,A,6,136,No,Mobile,Wales,0
+12851,A,1,304,No,Mobile,Scotland,0
+12857,A,13,421,No,Desktop,Wales,0
+12073,A,5,157,No,Desktop,England,0
+18856,B,10,127,No,Desktop,Scotland,0
+18240,A,13,122,No,Desktop,Wales,0
+10428,B,4,347,No,Mobile,Scotland,0
+19252,A,2,126,No,Desktop,Wales,0
+11391,B,5,52,No,Desktop,Scotland,0
+14442,B,7,401,No,Desktop,Scotland,0
+19608,A,2,438,No,Desktop,Wales,0
+17039,B,6,225,No,Desktop,Scotland,0
+15427,A,4,128,No,Desktop,Scotland,0
+16465,B,8,423,No,Mobile,England,0
+10582,B,2,93,No,Desktop,England,0
+12134,B,1,347,No,Mobile,Scotland,0
+17490,B,4,122,No,Desktop,Wales,0
+16223,B,5,59,No,Mobile,Wales,0
+10688,B,13,137,No,Desktop,Wales,0
+16551,A,12,156,No,Desktop,Scotland,0
+19075,B,9,246,Yes,Desktop,Wales,1
+16526,B,5,320,No,Mobile,Northern Ireland,0
+18453,A,9,207,No,Desktop,England,0
+19539,A,5,267,No,Mobile,Scotland,0
+13578,A,12,376,No,Mobile,England,0
+19277,A,3,45,No,Mobile,Scotland,0
+11376,A,5,75,No,Desktop,Scotland,0
+12068,B,2,366,No,Desktop,Wales,0
+11329,B,9,416,No,Mobile,England,0
+16241,B,9,346,No,Mobile,Northern Ireland,0
+17892,B,5,49,No,Desktop,Scotland,0
+17223,A,12,223,No,Mobile,Wales,0
+12026,A,2,223,No,Mobile,Wales,0
+19477,B,10,129,No,Mobile,Wales,0
+13382,B,13,382,No,Desktop,Wales,0
+15832,B,10,198,Yes,Mobile,Wales,1
+17393,B,11,236,No,Desktop,Scotland,0
+15091,A,10,226,No,Desktop,Northern Ireland,0
+16091,B,4,117,No,Desktop,Wales,0
+16966,B,9,138,No,Desktop,England,0
+16011,B,11,402,No,Desktop,Scotland,0
+10176,A,1,372,No,Mobile,Northern Ireland,0
+16477,A,12,164,No,Desktop,Wales,0
+15822,A,1,251,No,Mobile,Northern Ireland,0
+13964,B,9,88,No,Desktop,England,0
+19328,A,8,307,No,Mobile,England,0
+18950,B,12,370,No,Desktop,England,0
+13600,A,5,75,No,Mobile,Wales,0
+17501,A,8,118,No,Mobile,England,0
+18781,B,6,337,Yes,Desktop,Wales,1
+19273,B,9,298,No,Mobile,Northern Ireland,0
+19724,B,12,265,No,Desktop,England,0
+18557,A,12,235,No,Desktop,Scotland,0
+16239,A,13,312,No,Mobile,Scotland,0
+13013,A,11,187,No,Mobile,England,0
+19482,B,14,383,No,Desktop,England,0
+14325,B,5,433,Yes,Mobile,Northern Ireland,1
+11097,A,9,435,No,Mobile,England,0
+13566,B,14,117,No,Desktop,Scotland,0
+17386,A,11,230,No,Desktop,Scotland,0
+12546,A,13,322,No,Mobile,Northern Ireland,0
+15480,A,14,118,No,Mobile,England,0
+15759,A,11,114,No,Mobile,Scotland,0
+15690,B,12,274,No,Desktop,England,0
+15525,A,14,322,No,Desktop,Northern Ireland,0
+17464,A,1,225,No,Desktop,Wales,0
+19345,B,3,40,No,Mobile,Wales,0
+10968,B,14,186,No,Desktop,Northern Ireland,0
+15880,B,11,65,No,Mobile,Scotland,0
+14955,A,8,378,No,Desktop,England,0
+17151,A,7,301,No,Mobile,Wales,0
+10421,B,7,275,No,Desktop,Scotland,0
+11282,B,2,59,No,Mobile,Northern Ireland,0
+19880,A,5,373,No,Mobile,Wales,0
+10104,A,1,256,No,Mobile,Wales,0
+18501,B,5,354,Yes,Desktop,Scotland,1
+14453,B,2,293,No,Desktop,Scotland,0
+15151,A,10,304,No,Desktop,Wales,0
+12416,A,13,354,No,Desktop,Scotland,0
+16899,B,11,79,Yes,Desktop,England,1
+12395,A,5,218,No,Desktop,Northern Ireland,0
+10115,A,9,157,No,Desktop,Wales,0
+15328,A,14,73,No,Mobile,Scotland,0
+14006,A,5,127,No,Desktop,Scotland,0
+15613,B,14,360,Yes,Desktop,England,1
+14038,A,13,393,No,Mobile,England,0
+16237,A,6,106,No,Desktop,Northern Ireland,0
+19913,B,13,432,No,Mobile,England,0
+13622,A,1,178,No,Desktop,Scotland,0
+17237,B,6,436,No,Mobile,England,0
+11545,A,1,92,No,Mobile,Wales,0
+16754,B,6,134,Yes,Mobile,Wales,1
+10930,B,12,324,No,Mobile,England,0
+14430,A,4,120,No,Desktop,Northern Ireland,0
+15421,A,11,217,No,Mobile,Scotland,0
+10418,B,11,258,Yes,Mobile,Northern Ireland,1
+18223,A,6,328,No,Mobile,Northern Ireland,0
+12188,B,3,140,No,Desktop,Northern Ireland,0
+18855,A,12,256,No,Desktop,Scotland,0
+11996,B,4,363,No,Desktop,Scotland,0
+14262,A,13,252,No,Mobile,Wales,0
+18383,A,13,303,No,Desktop,Wales,0
+19202,B,6,408,No,Mobile,Wales,0
+18979,B,13,43,No,Mobile,England,0
+15680,A,2,81,No,Desktop,Scotland,0
+12935,A,6,247,No,Mobile,Scotland,0
+17538,A,8,205,No,Desktop,Scotland,0
+16400,A,1,446,No,Mobile,Wales,0
+18513,A,6,368,No,Mobile,Scotland,0
+17562,B,7,377,No,Desktop,England,0
+12388,A,14,218,No,Desktop,Wales,0
+14739,A,13,120,No,Desktop,Wales,0
+16409,A,7,372,No,Desktop,Wales,0
+11318,B,1,59,No,Mobile,Northern Ireland,0
+15373,A,11,187,No,Desktop,Scotland,0
+17614,A,3,395,No,Desktop,Northern Ireland,0
+12980,B,6,59,No,Mobile,England,0
+16115,A,2,132,No,Mobile,England,0
+17848,B,1,150,No,Desktop,Wales,0
+17425,B,4,211,No,Mobile,Scotland,0
+10405,A,11,268,No,Desktop,England,0
+14461,B,4,408,No,Desktop,Wales,0
+14368,B,6,244,No,Mobile,Northern Ireland,0
+14515,A,7,56,No,Mobile,Wales,0
+18619,A,2,66,No,Mobile,Scotland,0
+14158,A,2,195,No,Desktop,England,0
+17334,B,6,189,No,Desktop,Scotland,0
+18393,B,14,343,No,Mobile,England,0
+11701,B,6,125,No,Desktop,England,0
+17487,A,4,238,No,Mobile,England,0
+14703,A,5,82,No,Desktop,Northern Ireland,0
+11156,A,11,152,No,Mobile,England,0
+16018,B,2,308,No,Mobile,Wales,0
+12321,A,14,83,No,Mobile,Scotland,0
+11256,A,11,260,No,Mobile,Northern Ireland,0
+11858,A,7,176,No,Desktop,Northern Ireland,0
+18514,B,8,51,No,Mobile,Wales,0
+19489,B,14,58,No,Mobile,England,0
+11963,A,2,432,No,Desktop,England,0
+17810,A,4,326,No,Mobile,England,0
+15232,B,10,126,No,Desktop,Wales,0
+16452,B,2,319,No,Mobile,Northern Ireland,0
+10463,A,13,249,No,Mobile,Wales,0
+19297,B,10,116,No,Desktop,Wales,0
+17809,A,12,354,No,Mobile,Scotland,0
+11791,A,12,150,No,Mobile,Scotland,0
+15080,B,9,361,No,Desktop,Northern Ireland,0
+14588,B,6,160,No,Mobile,Scotland,0
+11169,B,4,167,No,Mobile,Wales,0
+19375,A,11,301,No,Mobile,Wales,0
+14621,A,13,380,No,Mobile,Northern Ireland,0
+15230,B,2,442,No,Mobile,Wales,0
+13633,A,2,399,No,Mobile,Wales,0
+11246,A,14,305,No,Desktop,Scotland,0
+14326,A,3,196,No,Desktop,Scotland,0
+19107,B,14,376,No,Desktop,Wales,0
+13501,B,8,376,No,Desktop,England,0
+11368,A,10,364,No,Mobile,Scotland,0
+17270,B,14,361,No,Desktop,England,0
+11440,B,6,301,No,Mobile,Wales,0
+11267,B,9,160,No,Desktop,Northern Ireland,0
+17833,A,5,284,No,Desktop,Scotland,0
+17846,A,5,329,Yes,Desktop,Northern Ireland,1
+17706,B,3,353,No,Desktop,Northern Ireland,0
+11000,B,4,194,No,Mobile,Wales,0
+19472,B,11,395,No,Desktop,Northern Ireland,0
+11882,B,8,387,No,Desktop,Scotland,0
+11660,B,5,259,No,Mobile,Wales,0
+16371,A,3,413,No,Mobile,Scotland,0
+14891,B,12,328,No,Mobile,England,0
+10199,A,14,295,No,Desktop,Wales,0
+15828,A,7,169,No,Mobile,England,0
+14195,A,7,84,No,Mobile,Scotland,0
+14529,B,1,277,No,Mobile,Scotland,0
+17744,B,1,198,No,Mobile,England,0
+10313,A,6,282,No,Desktop,Scotland,0
+11795,A,14,235,No,Desktop,England,0
+13844,A,6,78,No,Desktop,Scotland,0
+16361,A,5,298,No,Desktop,England,0
+12880,A,11,338,No,Desktop,Northern Ireland,0
+18241,B,14,312,No,Mobile,Wales,0
+18706,B,8,281,No,Mobile,Scotland,0
+19674,A,13,432,No,Desktop,Wales,0
+10824,B,12,253,Yes,Mobile,England,1
+15797,A,4,379,No,Mobile,England,0
+10338,A,5,383,No,Desktop,Scotland,0
+16619,B,7,384,No,Desktop,England,0
+10547,A,3,164,No,Desktop,Scotland,0
+11166,B,14,199,No,Mobile,Scotland,0
+19325,A,6,81,No,Mobile,Northern Ireland,0
+15269,B,12,292,No,Desktop,Scotland,0
+16433,A,8,277,No,Mobile,Northern Ireland,0
+13996,B,13,134,Yes,Desktop,Scotland,1
+13543,A,2,258,No,Desktop,England,0
+15501,A,7,228,Yes,Desktop,England,1
+10327,A,8,336,No,Mobile,Wales,0
+11474,B,3,380,No,Desktop,England,0
+13591,A,4,102,No,Desktop,England,0
+19181,A,5,179,Yes,Desktop,Wales,1
+14361,B,5,193,No,Desktop,England,0
+17550,A,9,180,No,Desktop,England,0
+14134,B,3,360,No,Desktop,Wales,0
+14555,B,11,348,No,Desktop,Northern Ireland,0
+19084,B,5,390,No,Mobile,Northern Ireland,0
+12570,B,13,201,No,Mobile,England,0
+14282,A,1,381,No,Desktop,England,0
+12258,B,11,440,No,Desktop,Northern Ireland,0
+15019,A,9,338,No,Desktop,Northern Ireland,0
+18740,A,5,407,No,Desktop,Wales,0
+12562,A,1,203,No,Mobile,Scotland,0
+14999,B,7,140,Yes,Desktop,England,1
+19508,B,14,358,No,Desktop,Scotland,0
+10931,B,10,103,No,Desktop,Scotland,0
+19901,B,2,406,No,Desktop,England,0
+10335,B,3,228,Yes,Mobile,England,1
+19053,B,2,322,No,Mobile,Wales,0
+18612,A,10,142,No,Mobile,Scotland,0
+19589,B,1,175,Yes,Desktop,Northern Ireland,1
+11248,B,14,241,No,Mobile,Wales,0
+17102,B,5,239,No,Desktop,Scotland,0
+14189,A,6,197,No,Mobile,Scotland,0
+10057,B,8,217,No,Desktop,Wales,0
+14355,A,2,428,No,Desktop,Northern Ireland,0
+12781,A,1,388,Yes,Mobile,England,1
+10940,A,9,44,No,Mobile,Wales,0
+16782,B,11,408,No,Mobile,England,0
+11384,B,12,261,No,Mobile,Wales,0
+16008,A,11,248,No,Desktop,Northern Ireland,0
+12322,A,7,431,No,Mobile,Wales,0
+14768,A,2,114,No,Desktop,England,0
+18440,A,7,132,No,Mobile,England,0
+12921,A,4,157,Yes,Mobile,Wales,1
+14395,A,8,62,No,Desktop,England,0
+13613,B,9,292,No,Desktop,Scotland,0
+12761,A,13,267,No,Desktop,Scotland,0
+11699,B,7,239,No,Desktop,England,0
+16144,B,6,246,No,Desktop,England,0
+19469,A,8,305,No,Desktop,Scotland,0
+16262,B,9,327,Yes,Mobile,England,1
+19049,A,2,253,No,Desktop,Scotland,0
+13355,A,8,124,Yes,Desktop,England,1
+17166,A,5,203,No,Mobile,Northern Ireland,0
+13470,A,3,242,No,Desktop,Scotland,0
+14839,A,10,75,No,Mobile,Wales,0
+16349,A,4,268,No,Desktop,Wales,0
+15068,B,8,132,No,Mobile,Northern Ireland,0
+13368,B,14,364,No,Mobile,England,0
+19039,A,4,340,No,Mobile,Wales,0
+16636,A,5,79,No,Mobile,England,0
+14649,A,4,244,No,Desktop,Wales,0
+12687,B,10,187,No,Desktop,Scotland,0
+12852,A,6,99,Yes,Mobile,England,1
+18233,A,9,433,No,Mobile,England,0
+11060,B,5,199,No,Mobile,Northern Ireland,0
+18132,A,13,252,No,Mobile,Scotland,0
+15847,A,13,243,No,Desktop,Northern Ireland,0
+11508,B,6,387,No,Mobile,Scotland,0
+17229,A,10,115,No,Desktop,Scotland,0
+19784,B,13,111,Yes,Mobile,Northern Ireland,1
+15310,B,6,426,No,Desktop,England,0
+17948,A,7,144,No,Mobile,Northern Ireland,0
+10532,A,5,340,No,Mobile,England,0
+14080,B,3,164,No,Mobile,Scotland,0
+17354,A,12,86,No,Desktop,Wales,0
+17006,A,2,121,No,Mobile,Wales,0
+12551,B,6,238,No,Mobile,England,0
+17136,A,10,419,No,Desktop,Wales,0
+15304,B,2,249,Yes,Desktop,England,1
+13685,A,2,329,No,Mobile,Northern Ireland,0
+10536,B,6,46,No,Desktop,Northern Ireland,0
+12136,B,7,398,No,Desktop,Northern Ireland,0
+14812,A,8,438,No,Desktop,Wales,0
+17290,B,14,290,Yes,Mobile,England,1
+18923,B,10,315,No,Desktop,Wales,0
+13044,B,6,296,No,Desktop,England,0
+17991,A,2,195,No,Desktop,England,0
+11774,A,13,47,No,Mobile,Wales,0
+11742,A,6,58,No,Mobile,England,0
+13649,A,12,123,No,Mobile,Wales,0
+16998,B,8,109,No,Mobile,Northern Ireland,0
+18462,B,8,45,No,Mobile,Scotland,0
+18135,A,9,384,No,Mobile,England,0
+11280,B,8,381,No,Mobile,Scotland,0
+15434,B,4,311,No,Desktop,Scotland,0
+10280,B,1,109,No,Desktop,Northern Ireland,0
+12893,B,13,146,No,Desktop,Northern Ireland,0
+16584,A,6,390,No,Mobile,England,0
+13736,B,14,56,No,Desktop,Scotland,0
+19476,A,6,183,No,Mobile,Wales,0
+19494,A,11,113,No,Mobile,England,0
+13801,B,1,257,No,Mobile,Scotland,0
+17630,A,9,142,No,Mobile,Scotland,0
+10775,B,11,293,No,Mobile,Northern Ireland,0
+10885,B,11,194,Yes,Desktop,Scotland,1
+13572,B,3,111,No,Desktop,Scotland,0
+15389,A,7,288,No,Mobile,Scotland,0
+15796,A,12,110,No,Mobile,Northern Ireland,0
+11966,B,5,176,Yes,Desktop,Wales,1
+19797,B,2,159,No,Mobile,England,0
+16968,A,10,420,No,Desktop,Scotland,0
+14990,B,10,393,No,Mobile,Northern Ireland,0
+14779,A,13,256,No,Desktop,England,0
+18778,A,3,284,Yes,Mobile,Wales,1
+16962,A,6,82,Yes,Desktop,Scotland,1
+15898,B,13,284,No,Desktop,Scotland,0
+17585,A,9,332,No,Mobile,Wales,0
+17365,A,5,114,No,Desktop,England,0
+18894,A,10,138,No,Desktop,Wales,0
+12360,A,14,264,No,Mobile,England,0
+12006,A,9,126,No,Mobile,Wales,0
+17822,A,12,331,No,Mobile,Wales,0
+12945,A,8,165,No,Mobile,Scotland,0
+19019,A,7,143,No,Desktop,Northern Ireland,0
+14122,A,3,157,No,Desktop,England,0
+18864,A,2,66,No,Desktop,England,0
+18674,A,3,403,No,Mobile,Wales,0
+19023,B,3,426,No,Mobile,England,0
+17872,B,9,362,No,Desktop,Scotland,0
+12736,B,7,126,No,Desktop,England,0
+18731,B,1,318,No,Mobile,Northern Ireland,0
+19374,A,4,367,No,Desktop,England,0
+12730,A,6,214,No,Mobile,England,0
+11394,A,11,317,No,Desktop,Wales,0
+14697,A,12,153,No,Mobile,Scotland,0
+10558,B,3,161,No,Mobile,Northern Ireland,0
+19308,A,6,99,No,Mobile,England,0
+17372,A,3,301,No,Desktop,Wales,0
+13269,B,6,354,No,Mobile,Wales,0
+13431,A,6,254,No,Mobile,England,0
+10778,B,14,359,Yes,Mobile,Northern Ireland,1
+10494,A,9,113,No,Desktop,Wales,0
+15224,A,6,113,No,Mobile,England,0
+19017,A,8,174,No,Desktop,Scotland,0
+16238,A,11,330,No,Mobile,Wales,0
+18527,A,14,358,No,Mobile,Scotland,0
+18749,B,2,416,Yes,Desktop,Wales,1
+15559,A,13,99,No,Desktop,Wales,0
+17983,B,1,377,No,Mobile,Scotland,0
+11728,A,12,312,No,Mobile,Scotland,0
+10036,A,10,419,No,Mobile,Wales,0
+12153,A,8,113,No,Desktop,Wales,0
+19180,A,10,229,No,Mobile,Northern Ireland,0
+16848,A,14,265,No,Desktop,England,0
+15216,B,6,323,No,Desktop,Wales,0
+10638,A,13,353,No,Desktop,Wales,0
+17366,B,10,103,No,Mobile,Scotland,0
+16306,A,9,198,No,Desktop,Scotland,0
+15659,B,6,74,Yes,Mobile,Northern Ireland,1
+10956,A,1,281,No,Desktop,Northern Ireland,0
+18320,A,5,44,No,Desktop,England,0
+19295,A,8,215,No,Mobile,Wales,0
+13921,A,5,89,No,Desktop,England,0
+17070,B,4,71,No,Desktop,Scotland,0
+15804,A,6,291,No,Desktop,Wales,0
+19934,B,14,134,Yes,Mobile,Northern Ireland,1
+15253,A,8,292,No,Desktop,Scotland,0
+19852,A,7,129,No,Mobile,Northern Ireland,0
+13327,A,3,208,No,Desktop,England,0
+10630,B,10,409,Yes,Desktop,Scotland,1
+15904,B,1,130,Yes,Desktop,Scotland,1
+13535,A,6,165,No,Desktop,Northern Ireland,0
+10301,A,14,43,No,Desktop,Northern Ireland,0
+17889,B,5,415,No,Desktop,Northern Ireland,0
+16149,A,4,373,No,Desktop,Scotland,0
+19106,A,2,446,No,Mobile,Wales,0
+11588,A,4,310,No,Mobile,Scotland,0
+14673,A,8,142,No,Mobile,Scotland,0
+14519,B,6,304,No,Desktop,England,0
+17769,B,11,100,No,Mobile,Northern Ireland,0
+14465,B,3,441,No,Mobile,Wales,0
+10188,A,10,284,No,Desktop,Scotland,0
+13488,A,1,273,No,Mobile,Northern Ireland,0
+19588,A,11,323,No,Mobile,Northern Ireland,0
+17498,B,5,172,No,Mobile,Scotland,0
+14002,B,3,328,No,Mobile,Wales,0
+11613,A,14,324,No,Desktop,England,0
+13671,A,3,293,No,Desktop,England,0
+18578,A,7,426,Yes,Desktop,Northern Ireland,1
+11036,B,9,392,No,Desktop,Wales,0
+14745,A,14,188,No,Desktop,Scotland,0
+14616,B,13,104,No,Mobile,Northern Ireland,0
+17307,A,2,385,No,Mobile,Wales,0
+12429,A,4,164,No,Mobile,Wales,0
+16264,A,14,342,No,Mobile,England,0
+18698,A,1,301,No,Desktop,England,0
+18521,A,2,449,No,Mobile,Northern Ireland,0
+19976,B,5,263,No,Mobile,Wales,0
+18691,A,11,91,No,Mobile,Scotland,0
+17576,B,11,177,Yes,Desktop,Wales,1
+13748,B,7,264,No,Desktop,England,0
+12386,A,9,375,No,Mobile,Wales,0
+10794,B,12,271,No,Desktop,Northern Ireland,0
+17631,A,7,212,Yes,Mobile,Wales,1
+18896,A,8,260,No,Mobile,England,0
+11038,B,2,92,No,Desktop,Scotland,0
+11533,B,5,409,No,Desktop,Wales,0
+18238,B,4,206,No,Mobile,England,0
+19730,B,13,157,No,Mobile,Wales,0
+14721,A,3,263,No,Mobile,England,0
+10620,A,9,212,Yes,Mobile,Scotland,1
+18718,A,13,84,Yes,Mobile,Northern Ireland,1
+14683,B,11,290,No,Mobile,England,0
+16563,B,10,363,No,Mobile,England,0
+14599,B,4,109,No,Mobile,England,0
+19411,A,1,312,No,Mobile,Northern Ireland,0
+12454,B,4,376,Yes,Mobile,Scotland,1
+15053,B,2,288,No,Desktop,Northern Ireland,0
+19458,A,7,115,Yes,Desktop,England,1
+19142,A,6,188,Yes,Mobile,Scotland,1
+13153,A,8,279,No,Desktop,England,0
+12961,A,7,308,No,Mobile,England,0
+12974,A,10,47,No,Mobile,Scotland,0
+12036,A,9,393,No,Desktop,Scotland,0
+14454,A,7,345,Yes,Mobile,England,1
+18370,A,5,442,No,Desktop,Scotland,0
+17235,B,5,439,No,Mobile,Wales,0
+11866,A,1,257,No,Mobile,Scotland,0
+17182,B,5,111,No,Desktop,Northern Ireland,0
+14550,B,4,59,Yes,Mobile,Scotland,1
+10952,B,3,413,No,Desktop,Northern Ireland,0
+11183,B,12,155,No,Desktop,Scotland,0
+13666,B,4,84,No,Mobile,Northern Ireland,0
+18075,A,13,396,No,Mobile,England,0
+10919,B,11,230,No,Desktop,England,0
+16162,B,9,218,Yes,Desktop,Northern Ireland,1
+11438,B,11,427,No,Desktop,England,0
+16038,A,2,320,No,Desktop,Wales,0
+18597,A,14,128,No,Mobile,Scotland,0
+19486,A,4,123,No,Mobile,Northern Ireland,0
+14902,A,13,181,No,Desktop,Scotland,0
+10345,B,10,126,No,Mobile,England,0
+15712,A,6,257,No,Desktop,Scotland,0
+11120,B,13,136,No,Desktop,Scotland,0
+10174,A,6,393,No,Mobile,Wales,0
+14876,B,11,251,No,Desktop,Scotland,0
+18468,A,10,165,No,Mobile,Northern Ireland,0
+13766,A,12,445,No,Mobile,England,0
+17083,B,11,99,No,Mobile,England,0
+16685,B,4,424,No,Desktop,Scotland,0
+17841,B,14,229,Yes,Desktop,Northern Ireland,1
+14722,A,9,47,No,Mobile,England,0
+17950,B,10,174,No,Mobile,England,0
+10674,A,12,130,No,Desktop,Scotland,0
+16345,B,10,200,No,Desktop,England,0
+10503,A,7,445,No,Desktop,Scotland,0
+10858,B,12,219,No,Desktop,Wales,0
+10305,A,2,410,No,Desktop,Northern Ireland,0
+17190,A,10,54,No,Desktop,England,0
+11322,A,5,242,No,Mobile,Wales,0
+10449,A,13,70,No,Mobile,Wales,0
+11071,B,11,146,No,Desktop,England,0
+12581,A,10,210,No,Mobile,Northern Ireland,0
+12443,A,7,293,No,Desktop,Scotland,0
+16441,A,6,322,No,Mobile,Wales,0
+15636,B,3,286,No,Mobile,England,0
+14217,A,13,379,No,Desktop,Scotland,0
+11529,A,11,271,No,Desktop,England,0
+15950,A,8,81,No,Desktop,Northern Ireland,0
+13097,A,9,424,No,Mobile,Scotland,0
+14909,A,12,262,Yes,Desktop,England,1
+19785,A,5,355,No,Desktop,Scotland,0
+15769,A,12,122,No,Desktop,England,0
+12726,B,3,233,No,Mobile,England,0
+16824,A,7,292,No,Mobile,England,0
+17122,A,4,422,No,Mobile,Northern Ireland,0
+10161,B,5,231,No,Mobile,Northern Ireland,0
+12863,A,4,226,No,Mobile,Wales,0
+13598,A,7,324,No,Desktop,England,0
+19759,B,6,211,Yes,Mobile,Scotland,1
+10367,B,13,184,No,Mobile,Scotland,0
+15065,B,7,48,No,Mobile,Wales,0
+16643,A,2,163,No,Mobile,Scotland,0
+18435,A,13,218,No,Desktop,Scotland,0
+15321,A,10,43,No,Mobile,Scotland,0
+16523,A,13,306,No,Desktop,England,0
+11137,A,10,152,No,Desktop,England,0
+14980,A,6,201,No,Desktop,Northern Ireland,0
+15736,B,4,117,No,Desktop,England,0
+12780,B,12,60,No,Desktop,Northern Ireland,0
+11841,A,4,434,No,Mobile,England,0
+11247,B,7,185,No,Mobile,Scotland,0
+19016,B,12,398,Yes,Desktop,England,1
+10359,A,1,422,No,Mobile,England,0
+18746,B,12,279,No,Desktop,Scotland,0
+12621,B,2,344,No,Mobile,Northern Ireland,0
+17852,A,11,99,No,Mobile,Wales,0
+18373,A,12,265,No,Desktop,England,0
+15335,B,10,285,No,Desktop,Scotland,0
+11681,A,1,412,No,Mobile,Wales,0
+18326,A,13,95,No,Desktop,Wales,0
+16049,A,9,211,No,Mobile,Wales,0
+16609,B,6,66,Yes,Desktop,England,1
+12218,A,13,315,No,Mobile,Wales,0
+18321,B,9,383,No,Mobile,Northern Ireland,0
+11938,A,14,109,No,Mobile,Northern Ireland,0
+13420,A,6,309,No,Mobile,Northern Ireland,0
+10312,B,10,220,No,Desktop,Northern Ireland,0
+17297,B,6,132,No,Desktop,Scotland,0
+13754,A,4,322,No,Mobile,Scotland,0
+13004,B,13,121,No,Desktop,Northern Ireland,0
+18346,A,9,320,No,Mobile,England,0
+13018,B,8,174,No,Desktop,Wales,0
+12199,A,1,313,No,Mobile,England,0
+17657,A,6,302,No,Desktop,Scotland,0
+19238,B,8,253,No,Desktop,Northern Ireland,0
+15406,B,10,113,No,Mobile,Wales,0
+16372,A,6,49,No,Mobile,England,0
+18172,A,13,117,No,Desktop,Wales,0
+13426,B,8,252,No,Mobile,Northern Ireland,0
+19807,A,1,148,Yes,Desktop,Wales,1
+10290,B,14,76,Yes,Mobile,Wales,1
+12368,B,8,51,No,Desktop,Scotland,0
+12245,A,12,156,No,Mobile,Scotland,0
+11297,B,14,399,No,Mobile,Northern Ireland,0
+11630,B,4,294,No,Desktop,Northern Ireland,0
+16337,B,13,171,No,Desktop,Northern Ireland,0
+17364,A,10,389,No,Mobile,England,0
+17401,B,8,181,No,Desktop,England,0
+14436,A,13,61,No,Desktop,Scotland,0
+15479,B,12,346,No,Desktop,England,0
+17547,A,14,350,No,Desktop,Scotland,0
+15697,B,3,306,Yes,Mobile,Northern Ireland,1
+12358,B,1,336,No,Mobile,Wales,0
+19492,B,11,100,No,Desktop,Scotland,0
+13780,A,1,267,No,Mobile,Scotland,0
+17385,B,7,73,No,Mobile,Scotland,0
+11736,B,11,316,No,Desktop,Scotland,0
+11157,A,9,142,Yes,Desktop,Scotland,1
+19596,B,9,197,No,Desktop,Wales,0
+15314,B,6,377,No,Mobile,England,0
+12408,A,11,68,No,Mobile,Scotland,0
+14257,A,11,237,No,Desktop,Northern Ireland,0
+10243,A,11,169,No,Desktop,Northern Ireland,0
+16665,B,6,449,No,Desktop,England,0
+15853,A,12,73,No,Mobile,Wales,0
+10693,B,6,403,No,Mobile,Scotland,0
+17255,B,1,182,No,Desktop,Scotland,0
+16405,B,11,207,No,Desktop,Northern Ireland,0
+19800,B,5,428,No,Desktop,Northern Ireland,0
+16101,A,11,148,No,Desktop,Northern Ireland,0
+13596,B,4,160,No,Desktop,England,0
+17946,B,1,440,No,Desktop,Northern Ireland,0
+14242,B,10,209,No,Mobile,Scotland,0
+12746,B,6,89,No,Mobile,Scotland,0
+17733,A,10,134,No,Mobile,Scotland,0
+18913,A,4,320,No,Mobile,Scotland,0
+17443,A,14,385,Yes,Desktop,Wales,1
+15148,B,2,358,No,Desktop,Northern Ireland,0
+12130,A,12,286,No,Desktop,Scotland,0
+18400,A,13,263,No,Desktop,England,0
+18758,A,2,150,No,Desktop,England,0
+17981,B,3,316,No,Desktop,Northern Ireland,0
+15170,B,2,290,No,Desktop,England,0
+12157,A,2,322,No,Desktop,Wales,0
+16437,B,12,379,No,Mobile,Wales,0
+17310,A,4,232,No,Desktop,Wales,0
+13298,A,12,67,No,Desktop,Northern Ireland,0
+18543,A,2,68,No,Mobile,Scotland,0
+13607,A,8,414,No,Desktop,Northern Ireland,0
+14981,A,7,372,No,Mobile,England,0
+14046,B,4,387,No,Desktop,Wales,0
+15751,B,3,202,No,Desktop,Scotland,0
+18874,A,1,159,No,Desktop,Wales,0
+16797,B,3,404,No,Mobile,Scotland,0
+11915,A,3,116,No,Desktop,England,0
+10054,B,8,279,No,Mobile,Northern Ireland,0
+17272,B,5,327,No,Mobile,England,0
+12118,A,3,250,No,Desktop,Scotland,0
+17818,A,4,262,No,Mobile,Scotland,0
+16508,A,2,49,No,Desktop,Wales,0
+11320,B,11,118,No,Mobile,Wales,0
+11889,A,11,304,No,Desktop,England,0
+19911,A,14,145,No,Desktop,Scotland,0
+10957,B,13,117,No,Mobile,Northern Ireland,0
+19024,A,10,118,No,Desktop,Northern Ireland,0
+10382,A,10,194,Yes,Desktop,Northern Ireland,1
+16805,A,9,421,No,Mobile,Northern Ireland,0
+18531,A,8,403,No,Mobile,England,0
+15186,B,2,241,No,Desktop,England,0
+16108,A,3,371,No,Desktop,England,0
+17496,A,1,338,No,Desktop,Scotland,0
+13118,A,1,385,No,Desktop,Scotland,0
+17409,A,2,358,No,Desktop,Northern Ireland,0
+12170,A,6,355,No,Mobile,Wales,0
+15579,A,13,240,No,Desktop,Northern Ireland,0
+13479,B,14,340,No,Desktop,Wales,0
+15120,A,14,401,No,Desktop,England,0
+18652,A,4,426,No,Desktop,Northern Ireland,0
+16479,B,11,161,No,Desktop,Northern Ireland,0
+12364,A,7,291,No,Desktop,Scotland,0
+16669,A,14,159,No,Desktop,Wales,0
+13934,B,11,131,Yes,Mobile,Scotland,1
+13141,B,6,73,Yes,Mobile,Scotland,1
+17731,B,9,248,Yes,Desktop,Northern Ireland,1
+16082,B,13,300,No,Mobile,Northern Ireland,0
+10478,B,1,255,No,Desktop,Wales,0
+11340,B,1,277,No,Mobile,Wales,0
+11750,A,2,395,No,Desktop,Scotland,0
+12091,B,8,223,No,Desktop,Scotland,0
+11443,B,8,127,No,Desktop,Scotland,0
+15473,B,1,118,Yes,Desktop,Scotland,1
+18646,A,12,179,No,Desktop,Scotland,0
+15229,B,8,321,No,Desktop,Scotland,0
+13826,A,10,207,Yes,Mobile,England,1
+13303,A,11,258,No,Mobile,Wales,0
+17704,B,8,309,No,Desktop,Northern Ireland,0
+12767,A,6,235,No,Desktop,England,0
+10724,A,10,205,No,Desktop,England,0
+13183,A,12,93,No,Desktop,Northern Ireland,0
+10942,A,14,210,No,Mobile,Northern Ireland,0
+16784,B,3,298,No,Mobile,Wales,0
+12722,B,9,379,No,Mobile,Northern Ireland,0
+11583,A,1,349,No,Desktop,Wales,0
+19877,A,6,310,Yes,Mobile,Northern Ireland,1
+16882,B,3,381,No,Desktop,Wales,0
+19616,A,6,279,No,Mobile,Wales,0
+18130,B,12,259,Yes,Desktop,Scotland,1
+11944,A,8,285,No,Mobile,Wales,0
+17508,A,9,54,No,Mobile,Northern Ireland,0
+11106,A,6,396,Yes,Mobile,Scotland,1
+10324,A,7,93,No,Mobile,Northern Ireland,0
+19684,B,2,166,No,Mobile,England,0
+13639,A,1,226,No,Desktop,England,0
+18918,B,13,47,No,Mobile,Wales,0
+10329,B,5,294,No,Desktop,England,0
+15622,B,13,55,No,Desktop,Scotland,0
+13354,A,1,274,No,Mobile,England,0
+11425,A,2,91,No,Desktop,Scotland,0
+13395,A,5,305,No,Mobile,Scotland,0
+14223,B,7,191,No,Mobile,Wales,0
+10551,B,4,235,No,Desktop,Northern Ireland,0
+16825,B,1,115,No,Desktop,Scotland,0
+10802,A,9,209,No,Desktop,Northern Ireland,0
+12330,A,1,220,No,Mobile,Scotland,0
+14933,A,1,219,No,Mobile,Scotland,0
+11104,B,14,338,No,Desktop,England,0
+19307,A,12,433,No,Desktop,Northern Ireland,0
+16645,A,10,301,No,Desktop,England,0
+14431,B,12,357,Yes,Desktop,England,1
+15507,B,10,112,No,Mobile,Wales,0
+13332,A,3,257,No,Desktop,Northern Ireland,0
+13740,A,1,201,No,Mobile,Scotland,0
+14769,A,9,59,No,Desktop,England,0
+12664,A,14,112,No,Mobile,Northern Ireland,0
+18576,B,9,338,Yes,Mobile,Scotland,1
+11615,B,5,408,Yes,Mobile,Scotland,1
+14202,A,11,233,No,Desktop,Scotland,0
+16070,A,1,279,No,Desktop,England,0
+17298,A,4,318,No,Desktop,Wales,0
+16973,B,8,56,No,Desktop,England,0
+13455,A,11,417,No,Mobile,Scotland,0
+14414,A,9,391,No,Desktop,Scotland,0
+15761,B,7,403,No,Desktop,Wales,0
+16434,B,6,444,No,Mobile,England,0
+12407,B,13,360,No,Desktop,Scotland,0
+14005,B,7,339,No,Desktop,England,0
+16767,B,11,50,Yes,Desktop,Northern Ireland,1
+13717,A,11,374,No,Desktop,Northern Ireland,0
+14457,A,7,204,No,Desktop,England,0
+19940,B,12,378,No,Mobile,Northern Ireland,0
+11809,B,5,266,No,Mobile,Northern Ireland,0
+15349,A,6,66,No,Mobile,Wales,0
+16593,A,8,111,Yes,Desktop,England,1
+15171,B,8,87,No,Desktop,Northern Ireland,0
+16671,B,5,374,No,Mobile,England,0
+10350,B,10,357,No,Desktop,Scotland,0
+16497,A,9,221,No,Desktop,Scotland,0
+12903,A,4,311,No,Desktop,Scotland,0
+10278,A,2,215,No,Desktop,Wales,0
+18734,B,12,377,No,Desktop,England,0
+17588,B,7,372,No,Mobile,Scotland,0
+17677,A,12,175,No,Desktop,Northern Ireland,0
+16378,B,14,446,No,Mobile,Northern Ireland,0
+10777,A,8,277,No,Desktop,England,0
+10892,A,8,280,No,Mobile,Wales,0
+13008,B,9,146,No,Desktop,Wales,0
+17680,B,12,303,No,Desktop,England,0
+17723,B,5,316,No,Desktop,Scotland,0
+11652,B,14,361,No,Mobile,Northern Ireland,0
+19078,A,1,256,No,Mobile,Wales,0
+12284,B,10,375,No,Mobile,Northern Ireland,0
+12591,A,11,314,No,Desktop,Scotland,0
+12272,B,1,415,Yes,Mobile,Northern Ireland,1
+10383,A,2,301,No,Desktop,Scotland,0
+18096,A,14,46,No,Desktop,Scotland,0
+16318,B,7,170,No,Mobile,Scotland,0
+14635,A,14,426,No,Mobile,England,0
+12754,B,3,136,No,Mobile,Northern Ireland,0
+14228,B,9,389,No,Desktop,Wales,0
+16482,B,10,112,No,Desktop,Northern Ireland,0
+10256,A,11,305,No,Mobile,Wales,0
+19729,B,3,327,No,Desktop,Scotland,0
+11618,A,10,375,No,Desktop,Northern Ireland,0
+16167,A,10,98,No,Mobile,England,0
+10330,A,10,407,No,Desktop,Wales,0
+19139,A,2,393,Yes,Mobile,Wales,1
+19598,A,11,40,No,Mobile,England,0
+11449,A,1,176,No,Desktop,Northern Ireland,0
+19691,A,14,84,No,Desktop,Northern Ireland,0
+12138,A,5,244,No,Desktop,Northern Ireland,0
+14897,A,2,288,No,Desktop,Scotland,0
+17097,B,10,296,No,Desktop,England,0
+15208,B,3,394,No,Desktop,Northern Ireland,0
+14308,B,6,427,No,Desktop,Northern Ireland,0
+10974,B,1,150,No,Mobile,Scotland,0
+16180,A,6,124,No,Mobile,Northern Ireland,0
+10391,A,10,255,No,Desktop,Northern Ireland,0
+12888,A,9,199,No,Mobile,Wales,0
+15466,B,2,246,Yes,Desktop,England,1
+13802,B,7,337,No,Desktop,Scotland,0
+11152,A,3,109,No,Desktop,Northern Ireland,0
+17783,B,4,232,No,Desktop,England,0
+10955,A,5,48,No,Desktop,England,0
+12853,A,11,305,No,Desktop,Wales,0
+13546,B,6,144,No,Desktop,Scotland,0
+13975,B,14,46,No,Mobile,Scotland,0
+11895,B,4,100,Yes,Mobile,Scotland,1
+15325,A,7,296,No,Desktop,England,0
+19711,A,13,235,No,Mobile,Northern Ireland,0
+16634,B,5,62,No,Desktop,Scotland,0
+17086,A,1,360,No,Mobile,Wales,0
+11170,A,3,329,No,Mobile,England,0
+15512,A,10,200,No,Mobile,Scotland,0
+14031,A,7,431,No,Desktop,Scotland,0
+15442,B,10,78,No,Desktop,England,0
+15154,A,3,197,No,Mobile,Scotland,0
+15451,A,14,70,No,Desktop,Wales,0
+15390,B,14,283,Yes,Desktop,Wales,1
+10904,B,1,293,No,Desktop,Northern Ireland,0
+11181,B,6,61,No,Mobile,Wales,0
+18751,B,3,360,No,Desktop,Scotland,0
+12985,B,5,133,Yes,Desktop,Scotland,1
+12269,B,8,72,No,Mobile,Scotland,0
+18841,B,3,360,No,Desktop,Wales,0
+18701,A,3,180,No,Mobile,Northern Ireland,0
+11305,B,13,142,No,Mobile,Northern Ireland,0
+15997,B,5,415,No,Desktop,Wales,0
+19151,A,9,328,No,Desktop,Scotland,0
+15572,B,7,119,Yes,Mobile,Wales,1
+14644,B,6,405,No,Desktop,England,0
+19228,B,1,48,No,Desktop,Wales,0
+10899,B,2,149,No,Mobile,England,0
+15762,A,1,135,No,Mobile,Northern Ireland,0
+16604,B,6,384,No,Mobile,Scotland,0
+10615,B,3,263,No,Desktop,Wales,0
+13087,B,4,144,Yes,Mobile,Scotland,1
+13641,B,4,351,No,Desktop,Northern Ireland,0
+11142,A,6,318,No,Desktop,Wales,0
+16999,B,11,190,Yes,Mobile,Scotland,1
+18300,A,13,355,No,Desktop,England,0
+17450,A,9,102,Yes,Desktop,Wales,1
+13328,A,12,78,No,Mobile,England,0
+11987,A,3,302,No,Desktop,Northern Ireland,0
+13715,A,5,250,No,Mobile,England,0
+19844,B,3,286,No,Desktop,Wales,0
+12236,A,8,167,No,Desktop,England,0
+14733,A,7,257,No,Mobile,England,0
+12135,B,6,358,No,Desktop,Scotland,0
+19905,B,14,259,No,Mobile,Northern Ireland,0
+12827,A,2,179,No,Mobile,Scotland,0
+12166,B,2,180,No,Desktop,Scotland,0
+19104,A,10,246,No,Mobile,Northern Ireland,0
+10386,A,14,384,No,Mobile,Wales,0
+12724,B,4,329,Yes,Mobile,Scotland,1
+15839,B,3,117,Yes,Desktop,Northern Ireland,1
+16061,B,6,61,No,Desktop,Scotland,0
+17927,A,6,261,No,Desktop,England,0
+19093,B,6,193,No,Mobile,Wales,0
+11829,A,4,251,No,Mobile,England,0
+17726,A,10,215,No,Desktop,Northern Ireland,0
+15276,B,14,303,No,Mobile,Northern Ireland,0
+16491,A,2,274,No,Desktop,Scotland,0
+15398,A,13,215,No,Mobile,England,0
+13608,A,6,316,No,Mobile,Northern Ireland,0
+10216,A,12,250,Yes,Desktop,Northern Ireland,1
+13106,B,9,107,No,Mobile,England,0
+11041,B,11,377,No,Desktop,Scotland,0
+13424,B,9,66,No,Desktop,Scotland,0
+12114,A,12,124,No,Desktop,England,0
+15824,B,4,176,No,Mobile,Northern Ireland,0
+15892,A,9,281,No,Desktop,Wales,0
+15228,A,6,292,No,Desktop,Scotland,0
+18273,B,1,287,No,Mobile,Northern Ireland,0
+15465,A,10,299,No,Mobile,Wales,0
+15577,B,12,385,No,Mobile,England,0
+15549,A,6,316,No,Desktop,Wales,0
+14611,B,10,284,No,Mobile,Scotland,0
+14132,B,13,197,No,Desktop,Scotland,0
+17676,A,13,144,No,Mobile,Northern Ireland,0
+17979,B,10,92,No,Desktop,Northern Ireland,0
+13119,A,10,40,No,Mobile,Scotland,0
+14416,B,5,251,No,Desktop,Northern Ireland,0
+16659,A,10,46,No,Mobile,Scotland,0
+17591,A,5,140,No,Desktop,Wales,0
+10733,B,13,258,No,Mobile,Scotland,0
+16835,B,7,279,No,Desktop,England,0
+12168,A,12,93,No,Desktop,Northern Ireland,0
+18656,A,12,355,No,Mobile,Northern Ireland,0
+15246,B,12,243,No,Desktop,Northern Ireland,0
+11686,A,1,243,No,Mobile,Northern Ireland,0
+15545,A,3,107,No,Desktop,England,0
+19253,B,13,368,Yes,Mobile,England,1
+19993,B,9,307,No,Desktop,Wales,0
+13668,A,10,188,No,Desktop,Scotland,0
+12772,A,10,202,No,Desktop,Scotland,0
+15430,B,8,424,No,Desktop,Wales,0
+11167,B,5,212,No,Desktop,Wales,0
+16969,A,2,208,No,Mobile,Northern Ireland,0
+18831,B,12,110,No,Mobile,Northern Ireland,0
+16421,B,9,261,Yes,Mobile,England,1
+14172,B,7,49,No,Mobile,Wales,0
+18412,B,14,158,Yes,Mobile,Wales,1
+13022,B,1,76,No,Mobile,Scotland,0
+19605,B,8,103,No,Desktop,England,0
+16161,B,4,127,No,Desktop,Northern Ireland,0
+12954,B,4,124,No,Desktop,Northern Ireland,0
+19086,A,10,123,No,Mobile,Northern Ireland,0
+16466,B,13,51,No,Mobile,England,0
+13790,A,7,53,No,Desktop,Wales,0
+16901,A,11,91,No,Mobile,England,0
+16709,B,1,209,No,Mobile,Northern Ireland,0
+16954,A,14,157,No,Desktop,Northern Ireland,0
+18605,A,5,160,No,Mobile,Wales,0
+13845,B,4,135,No,Mobile,England,0
+18082,A,3,318,No,Mobile,Scotland,0
+15656,B,4,102,Yes,Mobile,Scotland,1
+13702,A,7,106,No,Desktop,Scotland,0
+17441,A,8,97,No,Mobile,Scotland,0
+11238,B,5,265,No,Mobile,England,0
+14374,B,12,200,No,Desktop,Wales,0
+12196,A,14,411,No,Mobile,Wales,0
+13211,A,3,141,No,Desktop,Scotland,0
+19754,A,5,122,No,Mobile,Wales,0
+11675,A,13,315,No,Mobile,England,0
+13982,A,14,133,No,Mobile,Northern Ireland,0
+13650,B,13,314,No,Desktop,Northern Ireland,0
+13326,B,12,135,No,Mobile,Wales,0
+16111,A,14,333,No,Mobile,Scotland,0
+18863,A,8,119,No,Desktop,Northern Ireland,0
+15045,A,10,363,No,Mobile,Northern Ireland,0
+14274,A,8,92,No,Desktop,Northern Ireland,0
+19417,B,7,235,Yes,Desktop,Wales,1
+14485,A,2,425,No,Desktop,Wales,0
+14709,A,3,322,No,Mobile,Wales,0
+15298,B,7,284,No,Desktop,Wales,0
+16795,A,7,177,No,Desktop,Wales,0
+17355,B,10,113,No,Mobile,Scotland,0
+11275,B,8,292,No,Desktop,Northern Ireland,0
+19152,A,13,115,No,Mobile,Wales,0
+10602,B,13,353,No,Mobile,Scotland,0
+16462,B,12,303,No,Mobile,Wales,0
+13663,B,14,201,No,Desktop,Northern Ireland,0
+19329,A,10,179,No,Desktop,Wales,0
+11603,A,10,53,Yes,Mobile,England,1
+18454,B,4,368,Yes,Mobile,England,1
+16972,B,3,295,No,Desktop,England,0
+14719,A,9,233,No,Mobile,Northern Ireland,0
+18762,B,1,212,No,Desktop,England,0
+14224,A,8,154,No,Mobile,Wales,0
+18012,A,5,373,Yes,Mobile,Scotland,1
+11260,A,7,222,No,Mobile,Scotland,0
+11887,B,5,319,No,Mobile,England,0
+12689,A,12,145,No,Desktop,Northern Ireland,0
+14247,B,4,400,Yes,Desktop,England,1
+12905,A,12,215,No,Mobile,England,0
+11556,A,12,110,No,Mobile,Wales,0
+11136,B,9,230,No,Mobile,England,0
+11328,A,8,96,No,Desktop,Northern Ireland,0
+10416,B,6,416,No,Mobile,England,0
+17132,B,3,200,No,Desktop,Northern Ireland,0
+13706,A,1,323,No,Desktop,Scotland,0
+12672,A,1,383,No,Desktop,Northern Ireland,0
+17604,A,9,387,No,Desktop,Wales,0
+14638,B,2,337,Yes,Mobile,Northern Ireland,1
+12179,B,6,170,No,Mobile,Scotland,0
+14850,A,4,192,No,Mobile,Northern Ireland,0
+14658,A,14,55,No,Mobile,Northern Ireland,0
+11484,B,6,192,No,Desktop,Wales,0
+12396,A,1,261,No,Mobile,Wales,0
+19649,B,9,204,No,Desktop,Northern Ireland,0
+18916,B,2,52,No,Mobile,England,0
+14731,B,7,224,No,Desktop,Wales,0
+13997,B,11,179,No,Mobile,Wales,0
+19178,B,5,299,No,Desktop,England,0
+18286,B,13,107,No,Mobile,Scotland,0
+19150,A,7,405,No,Desktop,Northern Ireland,0
+12181,B,10,292,No,Mobile,Northern Ireland,0
+19205,B,12,284,No,Desktop,Northern Ireland,0
+13637,B,5,381,No,Mobile,England,0
+16019,A,10,413,No,Mobile,England,0
+12180,B,13,144,No,Mobile,Scotland,0
+19860,A,10,239,No,Mobile,Scotland,0
+19737,B,1,47,No,Desktop,England,0
+12981,B,11,186,No,Mobile,Scotland,0
+10129,A,12,131,No,Mobile,Northern Ireland,0
+11720,A,2,237,No,Mobile,England,0
+18190,A,8,370,No,Mobile,England,0
+18559,B,6,119,No,Mobile,England,0
+19154,A,11,257,No,Desktop,Scotland,0
+15686,B,1,287,No,Mobile,England,0
+10420,B,10,441,No,Mobile,England,0
+12253,A,1,402,No,Desktop,Wales,0
+13226,B,3,391,No,Desktop,Northern Ireland,0
+13632,A,1,168,No,Desktop,England,0
+11497,A,4,102,No,Mobile,Wales,0
+11007,A,9,232,No,Desktop,Scotland,0
+15669,B,9,147,No,Desktop,Wales,0
+15708,B,2,196,Yes,Desktop,Northern Ireland,1
+14301,B,13,419,No,Mobile,Scotland,0
+14929,A,2,200,No,Desktop,Scotland,0
+17806,A,5,241,No,Mobile,Scotland,0
+19765,A,12,445,No,Desktop,England,0
+10791,B,14,64,No,Mobile,England,0
+18271,B,4,158,No,Desktop,Scotland,0
+11428,A,14,326,No,Mobile,England,0
+18061,A,1,238,No,Mobile,Northern Ireland,0
+19742,A,8,235,No,Mobile,England,0
+18663,B,8,414,No,Mobile,England,0
+12139,A,5,420,No,Mobile,England,0
+13465,A,6,48,No,Mobile,Wales,0
+11087,B,6,237,No,Desktop,Scotland,0
+10990,B,13,134,No,Mobile,Northern Ireland,0
+11941,B,9,46,No,Desktop,Northern Ireland,0
+12769,B,12,275,No,Desktop,Wales,0
+15990,B,7,106,No,Desktop,Northern Ireland,0
+16036,A,10,276,No,Mobile,Scotland,0
+10623,B,13,368,No,Desktop,Northern Ireland,0
+15174,B,10,260,No,Desktop,Wales,0
+10879,B,10,281,No,Desktop,Wales,0
+15891,A,6,85,No,Desktop,England,0
+13335,B,6,225,Yes,Desktop,Northern Ireland,1
+13145,B,1,372,No,Desktop,Northern Ireland,0
+18248,B,3,343,No,Mobile,Northern Ireland,0
+17942,B,4,148,No,Desktop,Scotland,0
+16323,B,9,63,Yes,Mobile,England,1
+10172,B,13,120,No,Desktop,England,0
+12062,B,3,103,No,Mobile,Northern Ireland,0
+14525,A,7,395,No,Desktop,Wales,0
+11306,B,10,121,No,Mobile,Northern Ireland,0
+16450,B,10,149,No,Mobile,England,0
+18489,B,2,296,No,Desktop,England,0
+18173,B,2,385,No,Desktop,Scotland,0
+10926,A,2,310,No,Desktop,Scotland,0
+16309,B,13,308,No,Desktop,England,0
+14104,B,9,258,Yes,Mobile,Wales,1
+10168,B,4,193,Yes,Desktop,Wales,1
+16975,B,10,46,No,Mobile,England,0
+11758,A,10,400,No,Mobile,Wales,0
+10862,B,8,335,No,Mobile,Northern Ireland,0
+16866,B,1,348,No,Desktop,Scotland,0
+13788,B,14,164,No,Mobile,Scotland,0
+12356,A,14,366,No,Mobile,Wales,0
+19452,A,5,400,No,Mobile,England,0
+16567,B,6,134,No,Mobile,England,0
+18760,B,13,344,No,Mobile,Northern Ireland,0
+14682,A,2,371,No,Mobile,England,0
+13410,A,2,65,No,Desktop,Scotland,0
+13503,A,3,187,No,Desktop,Northern Ireland,0
+17884,A,8,368,No,Mobile,Scotland,0
+12024,A,4,308,No,Desktop,Northern Ireland,0
+15056,A,9,262,No,Mobile,Wales,0
+14679,B,9,125,Yes,Desktop,Scotland,1
+18339,A,9,115,No,Mobile,Northern Ireland,0
+15922,B,7,399,No,Mobile,Wales,0
+16369,A,1,104,No,Mobile,Wales,0
+16792,A,3,88,Yes,Mobile,Scotland,1
+13056,B,3,144,No,Mobile,Wales,0
+15149,B,3,383,No,Desktop,England,0
+11418,A,10,295,No,Desktop,Scotland,0
+18803,A,9,93,No,Mobile,Wales,0
+16956,A,7,95,No,Desktop,England,0
+12027,B,6,389,No,Desktop,Scotland,0
+17912,A,3,111,No,Desktop,Scotland,0
+17874,B,7,230,No,Desktop,England,0
+12864,A,11,99,No,Mobile,Scotland,0
+10447,A,10,142,No,Mobile,Wales,0
+10272,B,2,289,No,Mobile,Northern Ireland,0
+15254,A,8,198,No,Desktop,Northern Ireland,0
+10880,B,3,97,No,Mobile,Wales,0
+13069,A,7,342,No,Desktop,England,0
+11150,B,1,278,No,Mobile,Scotland,0
+10759,B,3,432,No,Mobile,Northern Ireland,0
+19816,A,7,403,No,Mobile,Wales,0
+12067,B,9,181,Yes,Mobile,Wales,1
+18356,A,13,160,No,Desktop,Scotland,0
+13348,B,12,40,No,Desktop,Wales,0
+12639,B,10,367,No,Desktop,Northern Ireland,0
+11894,A,8,191,No,Desktop,Northern Ireland,0
+15018,A,4,434,No,Mobile,Scotland,0
+10695,B,8,87,No,Mobile,Northern Ireland,0
+12890,B,6,80,Yes,Desktop,Wales,1
+13699,B,7,303,Yes,Desktop,England,1
+18372,A,14,118,No,Desktop,Northern Ireland,0
+17693,B,14,89,No,Desktop,Wales,0
+11871,B,6,443,Yes,Mobile,Wales,1
+10559,A,5,325,No,Mobile,Northern Ireland,0
+17149,A,8,358,No,Mobile,England,0
+13281,A,6,373,No,Mobile,Scotland,0
+11410,A,12,437,No,Mobile,England,0
+17529,B,7,236,No,Mobile,England,0
+10846,B,13,280,Yes,Mobile,Scotland,1
+11580,B,7,40,No,Desktop,England,0
+11122,B,11,438,No,Mobile,Scotland,0
+10045,B,13,202,No,Desktop,England,0
+18049,A,4,55,Yes,Desktop,Northern Ireland,1
+11743,A,5,143,Yes,Mobile,Scotland,1
+15814,A,5,116,No,Desktop,England,0
+14026,B,6,187,No,Mobile,England,0
+11250,A,12,256,No,Desktop,Northern Ireland,0
+12249,A,5,431,No,Desktop,Wales,0
+13998,B,3,212,No,Mobile,Wales,0
+16511,B,13,427,No,Mobile,Wales,0
+16307,A,10,109,No,Desktop,Wales,0
+17451,B,14,46,No,Desktop,Northern Ireland,0
+12533,B,7,231,No,Mobile,Scotland,0
+10776,A,5,214,No,Desktop,Northern Ireland,0
+10800,B,3,430,No,Mobile,Wales,0
+13683,A,13,92,No,Mobile,England,0
+12125,A,8,363,No,Desktop,Scotland,0
+12563,B,12,300,No,Mobile,Northern Ireland,0
+17331,B,6,352,No,Desktop,Northern Ireland,0
+18077,A,5,161,No,Desktop,Scotland,0
+17469,B,9,320,No,Desktop,Wales,0
+16854,B,3,99,No,Desktop,Scotland,0
+11768,B,7,327,No,Mobile,Scotland,0
+15722,B,10,322,No,Mobile,Scotland,0
+17673,B,9,119,No,Desktop,Northern Ireland,0
+16384,B,4,375,No,Mobile,Northern Ireland,0
+10803,B,1,326,No,Desktop,Scotland,0
+14877,B,10,394,No,Desktop,Wales,0
+16483,B,11,237,No,Mobile,England,0
+18928,A,2,88,No,Mobile,Wales,0
+13084,A,13,221,No,Mobile,Wales,0
+18345,A,13,99,No,Desktop,Northern Ireland,0
+11722,B,1,361,No,Mobile,Wales,0
+12213,A,9,200,No,Desktop,Scotland,0
+18937,A,5,252,No,Desktop,Northern Ireland,0
+19756,A,13,380,No,Desktop,England,0
+15979,B,14,107,No,Mobile,Scotland,0
+13023,A,10,448,No,Mobile,Scotland,0
+16843,A,4,300,Yes,Mobile,England,1
+18880,B,4,217,No,Desktop,Scotland,0
+11331,B,14,206,No,Mobile,Northern Ireland,0
+17793,A,14,407,No,Desktop,Wales,0
+16540,A,10,83,No,Mobile,England,0
+12177,A,9,226,No,Mobile,Scotland,0
+15052,A,2,188,No,Desktop,England,0
+14084,B,2,91,No,Mobile,Scotland,0
+19841,B,1,61,No,Desktop,England,0
+14629,B,9,424,Yes,Mobile,Wales,1
+16711,A,14,410,No,Mobile,Wales,0
+13070,A,8,187,No,Desktop,Wales,0
+10850,A,14,366,No,Mobile,England,0
+11265,A,5,369,No,Mobile,Scotland,0
+19429,B,13,447,No,Desktop,Wales,0
+14830,A,1,191,No,Desktop,Scotland,0
+19122,B,4,240,No,Desktop,England,0
+16662,B,1,219,No,Desktop,Scotland,0
+10135,A,13,401,No,Mobile,Northern Ireland,0
+17423,B,7,370,No,Desktop,Wales,0
+17238,B,14,306,No,Mobile,England,0
+14020,A,5,152,No,Desktop,England,0
+19050,B,5,197,Yes,Desktop,England,1
+14791,B,1,367,No,Desktop,Northern Ireland,0
+14503,A,12,335,No,Desktop,Scotland,0
+15935,B,7,47,No,Mobile,England,0
+14940,B,7,117,Yes,Mobile,Wales,1
+12958,B,10,186,No,Desktop,England,0
+16920,B,10,370,No,Mobile,Scotland,0
+12193,B,11,138,No,Desktop,England,0
+12837,B,6,54,No,Desktop,Wales,0
+15082,B,11,102,No,Desktop,Scotland,0
+10642,B,3,105,No,Desktop,Northern Ireland,0
+13705,B,4,423,No,Desktop,England,0
+13643,B,4,84,No,Desktop,Northern Ireland,0
+12007,B,11,247,No,Mobile,Scotland,0
+11992,B,5,377,No,Desktop,Wales,0
+16032,B,8,50,No,Mobile,Northern Ireland,0
+15061,B,5,309,No,Desktop,Scotland,0
+19278,B,7,96,No,Desktop,Scotland,0
+13289,A,9,377,No,Mobile,Wales,0
+11075,A,11,49,No,Desktop,England,0
+12415,B,11,327,No,Mobile,Scotland,0
+13937,A,4,412,No,Mobile,England,0
+14218,A,13,241,No,Mobile,Scotland,0
+11187,B,10,84,No,Desktop,England,0
+18649,B,2,261,No,Desktop,Scotland,0
+15313,A,8,200,No,Desktop,Northern Ireland,0
+19008,B,4,326,Yes,Desktop,Wales,1
+18506,A,10,93,Yes,Mobile,Wales,1
+13030,A,8,373,No,Desktop,Wales,0
+10555,B,12,327,No,Mobile,England,0
+11669,A,2,142,No,Desktop,England,0
+11163,A,1,277,No,Desktop,Wales,0
+15567,A,14,128,No,Mobile,Northern Ireland,0
+11079,A,2,93,No,Mobile,Scotland,0
+14375,B,5,232,No,Mobile,Wales,0
+15023,B,14,145,No,Desktop,Wales,0
+11807,A,4,106,Yes,Desktop,England,1
+16232,A,14,69,No,Mobile,England,0
+16053,B,7,132,Yes,Desktop,Wales,1
+14806,B,9,307,No,Mobile,Wales,0
+11715,B,11,42,No,Desktop,England,0
+11338,A,9,271,No,Desktop,Northern Ireland,0
+18588,B,7,280,Yes,Desktop,Wales,1
+16326,B,11,177,Yes,Desktop,Northern Ireland,1
+12613,B,6,100,No,Desktop,Scotland,0
+12041,B,9,350,Yes,Mobile,Wales,1
+18000,B,2,319,No,Mobile,Wales,0
+13227,A,12,192,No,Desktop,Scotland,0
+19787,B,3,91,No,Mobile,Northern Ireland,0
+14505,A,9,260,No,Mobile,Scotland,0
+13807,B,12,262,No,Desktop,Wales,0
+13958,B,1,449,No,Desktop,Wales,0
+17855,A,9,108,No,Desktop,Northern Ireland,0
+11853,B,12,446,No,Mobile,England,0
+16690,A,13,238,No,Mobile,England,0
+11762,A,9,286,No,Desktop,England,0
+10292,B,4,235,No,Mobile,Scotland,0
+10653,B,8,109,No,Mobile,Northern Ireland,0
+10070,A,12,283,No,Mobile,Northern Ireland,0
+10434,A,4,263,No,Mobile,Northern Ireland,0
+13536,A,7,146,No,Mobile,England,0
+18039,B,12,168,No,Desktop,Northern Ireland,0
+14131,A,2,370,No,Mobile,Wales,0
+13263,B,12,426,No,Mobile,Northern Ireland,0
+12882,B,3,219,No,Desktop,Wales,0
+10005,B,8,274,No,Desktop,Northern Ireland,0
+14082,A,1,371,No,Desktop,Wales,0
+11902,A,6,416,No,Mobile,Wales,0
+11088,B,6,119,Yes,Desktop,Wales,1
+14866,B,4,410,No,Desktop,England,0
+10228,B,1,428,No,Desktop,Northern Ireland,0
+10916,A,4,422,No,Desktop,Scotland,0
+15223,B,8,417,No,Desktop,England,0
+13827,B,13,407,No,Mobile,England,0
+10343,A,12,417,No,Desktop,Wales,0
+13005,A,13,51,Yes,Desktop,Scotland,1
+12016,A,12,397,No,Mobile,England,0
+13480,A,10,429,No,Mobile,Northern Ireland,0
+19694,A,4,282,No,Mobile,Northern Ireland,0
+15969,B,1,381,No,Mobile,Wales,0
+19177,B,7,245,No,Mobile,Northern Ireland,0
+14863,B,3,316,No,Desktop,Northern Ireland,0
+11542,A,6,229,No,Mobile,England,0
+13441,B,12,84,No,Desktop,Scotland,0
+16399,A,5,202,No,Mobile,Scotland,0
+15509,B,2,107,No,Mobile,England,0
+11186,A,3,364,No,Desktop,Wales,0
+14244,B,1,244,No,Desktop,Northern Ireland,0
+16718,B,5,387,Yes,Desktop,Wales,1
+15207,A,4,107,No,Desktop,Wales,0
+17502,A,5,232,No,Mobile,Scotland,0
+12871,B,9,444,No,Desktop,England,0
+15495,B,12,352,Yes,Desktop,Scotland,1
+11178,B,2,253,No,Mobile,Wales,0
+15951,A,7,87,No,Mobile,England,0
+12928,A,1,73,No,Desktop,Wales,0
+10859,A,14,324,No,Mobile,Wales,0
+13662,A,8,59,No,Desktop,Wales,0
+11796,A,4,95,No,Desktop,England,0
+17924,A,12,310,No,Desktop,England,0
+13655,A,7,415,No,Desktop,Northern Ireland,0
+15970,A,1,387,No,Desktop,Wales,0
+17705,B,6,186,No,Mobile,Scotland,0
+11612,A,9,345,No,Mobile,England,0
+17937,A,7,328,No,Mobile,Wales,0
+16853,B,8,362,No,Mobile,England,0
+13781,A,11,95,No,Mobile,Northern Ireland,0
+19380,B,6,294,No,Mobile,England,0
+15561,B,4,98,No,Mobile,Northern Ireland,0
+10518,B,10,74,No,Mobile,Scotland,0
+16926,A,13,200,No,Desktop,England,0
+18044,B,1,284,No,Mobile,Northern Ireland,0
+19357,A,14,93,No,Mobile,Northern Ireland,0
+16198,A,7,102,No,Mobile,England,0
+16443,B,1,93,No,Desktop,Wales,0
+17834,A,1,148,No,Desktop,England,0
+12522,B,4,308,No,Desktop,Wales,0
+16422,B,12,296,No,Desktop,England,0
+13215,B,7,41,Yes,Mobile,Wales,1
+18129,B,10,136,No,Mobile,Wales,0
+15763,A,8,161,Yes,Mobile,Northern Ireland,1
+11387,B,3,168,No,Mobile,Scotland,0
+11146,A,3,62,No,Mobile,Northern Ireland,0
+18865,A,11,256,No,Mobile,England,0
+10573,A,12,128,No,Desktop,Wales,0
+13058,A,11,208,No,Mobile,Northern Ireland,0
+12932,A,9,318,No,Desktop,Wales,0
+11383,A,3,97,No,Desktop,Northern Ireland,0
+18289,A,13,203,No,Mobile,Scotland,0
+12431,A,13,416,No,Desktop,Wales,0
+17246,A,6,281,No,Mobile,England,0
+11385,B,12,372,No,Mobile,Wales,0
+15199,B,12,271,No,Desktop,Northern Ireland,0
+13029,B,7,284,No,Mobile,England,0
+10994,A,9,349,No,Desktop,Scotland,0
+12004,A,4,223,No,Mobile,Northern Ireland,0
+17851,B,7,419,No,Desktop,Northern Ireland,0
+14051,B,3,91,No,Mobile,Northern Ireland,0
+11711,A,9,291,No,Mobile,England,0
+15570,B,14,176,No,Mobile,Scotland,0
+19418,A,5,397,No,Desktop,Wales,0
+15274,A,7,365,No,Mobile,England,0
+10953,B,12,201,No,Desktop,Scotland,0
+18962,A,7,131,No,Mobile,Scotland,0
+11674,A,3,221,No,Desktop,Scotland,0
+16615,B,4,132,No,Mobile,Northern Ireland,0
+16126,A,2,153,No,Desktop,Scotland,0
+14714,B,8,411,No,Desktop,Wales,0
+19502,A,9,333,No,Mobile,Wales,0
+11194,B,11,46,Yes,Mobile,Wales,1
+17212,B,3,437,No,Desktop,Northern Ireland,0
+10873,A,14,374,No,Mobile,England,0
+16063,B,6,445,No,Mobile,England,0
+12354,A,14,182,No,Mobile,England,0
+18159,A,9,313,No,Desktop,England,0
+10267,B,4,89,No,Desktop,Wales,0
+18094,B,12,135,No,Desktop,Northern Ireland,0
+17155,B,9,64,No,Desktop,Scotland,0
+14012,B,9,155,No,Mobile,Scotland,0
+19068,B,14,67,No,Desktop,Wales,0
+13981,A,1,393,No,Desktop,Wales,0
+17474,A,6,284,No,Desktop,England,0
+16301,B,11,374,No,Mobile,Wales,0
+17611,B,14,251,No,Mobile,Scotland,0
+13039,A,7,119,No,Desktop,Wales,0
+17248,A,3,125,No,Mobile,Wales,0
+14092,B,5,292,No,Desktop,Scotland,0
+17836,B,8,199,No,Mobile,Northern Ireland,0
+15318,B,5,324,No,Mobile,Northern Ireland,0
+13573,A,11,316,No,Mobile,Wales,0
+16157,B,12,264,No,Desktop,Northern Ireland,0
+18475,B,3,292,No,Desktop,England,0
+18912,A,2,448,No,Mobile,Scotland,0
+15028,B,1,380,No,Mobile,Scotland,0
+10729,A,9,104,No,Mobile,Scotland,0
+13880,B,12,404,No,Desktop,Wales,0
+18917,B,2,441,Yes,Mobile,England,1
+10730,A,5,156,No,Desktop,England,0
+16444,A,7,345,No,Desktop,Wales,0
+16186,A,11,179,Yes,Mobile,England,1
+15241,B,13,400,No,Mobile,Northern Ireland,0
+16894,A,9,367,No,Mobile,Northern Ireland,0
+13374,B,6,257,No,Mobile,Northern Ireland,0
+14886,A,13,52,No,Mobile,Scotland,0
+13358,B,3,400,No,Mobile,Wales,0
+17721,A,14,382,No,Mobile,Northern Ireland,0
+15988,A,1,294,No,Desktop,Wales,0
+16178,A,2,131,No,Mobile,Northern Ireland,0
+16187,A,7,264,No,Mobile,Scotland,0
+19904,B,14,161,No,Desktop,England,0
+15550,B,7,172,No,Desktop,Scotland,0
+16963,A,2,208,No,Mobile,Wales,0
+19185,A,10,45,No,Desktop,England,0
+15176,B,7,420,No,Mobile,Scotland,0
+15203,B,11,274,Yes,Mobile,Scotland,1
+14732,A,14,225,No,Desktop,Scotland,0
+17119,B,8,131,No,Desktop,Northern Ireland,0
+15978,B,3,271,No,Mobile,Northern Ireland,0
+12625,A,11,253,No,Mobile,Wales,0
+14690,B,10,144,No,Desktop,Wales,0
+15013,A,14,128,No,Desktop,England,0
+19182,B,11,81,No,Mobile,Scotland,0
+10813,B,14,133,No,Desktop,Wales,0
+17089,B,9,111,No,Desktop,Scotland,0
+16900,B,9,55,No,Desktop,Scotland,0
+11289,A,3,384,No,Mobile,Wales,0
+13051,A,1,368,No,Mobile,Scotland,0
+19964,B,1,118,Yes,Mobile,England,1
+12594,A,4,135,No,Mobile,Northern Ireland,0
+19450,B,6,197,No,Mobile,England,0
+10251,B,9,368,No,Desktop,Northern Ireland,0
+19383,B,13,360,Yes,Mobile,Northern Ireland,1
+10906,B,13,318,No,Mobile,Wales,0
+11708,A,8,216,No,Desktop,Northern Ireland,0
+14761,A,14,149,No,Mobile,Scotland,0
+19290,B,13,381,No,Desktop,England,0
+12531,A,8,113,Yes,Mobile,Scotland,1
+11107,A,2,345,No,Mobile,England,0
+11968,A,13,417,No,Mobile,Northern Ireland,0
+11607,B,10,268,No,Mobile,England,0
+10636,A,6,198,No,Mobile,Northern Ireland,0
+17598,A,3,433,No,Desktop,Northern Ireland,0
+17916,A,5,404,No,Desktop,England,0
+12904,A,2,249,No,Mobile,Northern Ireland,0
+17067,B,14,80,No,Mobile,Northern Ireland,0
+13541,A,13,413,No,Desktop,Wales,0
+16335,A,1,383,No,Mobile,England,0
+15823,B,2,393,Yes,Desktop,Scotland,1
+19551,B,9,393,Yes,Desktop,England,1
+16367,A,7,403,No,Desktop,Scotland,0
+17865,B,1,436,No,Mobile,England,0
+13976,A,14,365,Yes,Mobile,Wales,1
+12785,A,11,231,No,Desktop,Scotland,0
+11851,B,11,196,No,Desktop,England,0
+19859,A,6,157,No,Mobile,Wales,0
+13037,A,7,224,No,Desktop,Northern Ireland,0
+15825,B,14,268,No,Mobile,Wales,0
+19923,B,7,377,No,Desktop,Scotland,0
+18420,A,4,312,No,Desktop,Northern Ireland,0
+15059,B,4,277,No,Mobile,England,0
+15738,A,1,228,No,Mobile,Scotland,0
+18807,B,8,55,No,Mobile,England,0
+11830,A,4,286,No,Desktop,Northern Ireland,0
+12539,B,13,143,No,Mobile,Scotland,0
+12013,A,13,182,No,Desktop,Northern Ireland,0
+18893,A,2,296,No,Mobile,Wales,0
+15895,B,4,200,No,Mobile,England,0
+15267,B,4,344,No,Desktop,Scotland,0
+10513,B,2,444,No,Mobile,Northern Ireland,0
+14580,B,4,51,No,Desktop,England,0
+14033,A,12,54,No,Desktop,Northern Ireland,0
+11599,A,3,264,No,Desktop,Northern Ireland,0
+19854,B,8,237,No,Mobile,Northern Ireland,0
+18189,B,10,432,No,Mobile,Wales,0
+16951,A,6,168,No,Mobile,Scotland,0
+10116,B,3,213,No,Mobile,Wales,0
+10331,B,1,404,No,Mobile,Northern Ireland,0
+16701,A,11,333,No,Desktop,Northern Ireland,0
+13708,B,7,239,No,Mobile,Northern Ireland,0
+16980,B,1,133,No,Mobile,Wales,0
+12536,A,12,213,No,Mobile,England,0
+12733,B,14,271,No,Desktop,Wales,0
+16275,B,3,57,No,Desktop,Scotland,0
+17172,B,7,184,No,Mobile,Scotland,0
+17220,A,6,361,No,Mobile,Wales,0
+18800,A,13,90,No,Mobile,Wales,0
+14660,A,3,178,No,Mobile,Wales,0
+16235,B,5,293,No,Desktop,Northern Ireland,0
+11953,B,9,138,No,Mobile,Wales,0
+11172,B,5,310,No,Desktop,Northern Ireland,0
+13808,A,11,179,No,Mobile,Wales,0
+14544,A,11,260,No,Desktop,Wales,0
+14518,A,10,65,No,Desktop,Scotland,0
+10415,B,8,383,No,Mobile,Scotland,0
+17590,A,12,71,No,Mobile,Wales,0
+10294,B,5,66,No,Mobile,England,0
+19642,B,10,56,No,Desktop,Northern Ireland,0
+17594,B,8,279,No,Mobile,Scotland,0
+14294,A,2,438,No,Mobile,England,0
+11949,B,5,137,No,Mobile,Scotland,0
+13569,B,13,422,Yes,Desktop,Wales,1
+15112,A,13,405,No,Mobile,Scotland,0
+10672,B,11,41,No,Mobile,Scotland,0
+17775,B,12,151,No,Desktop,Wales,0
+18150,B,7,259,No,Mobile,Wales,0
+12465,B,8,395,No,Desktop,Wales,0
+11572,B,1,101,No,Desktop,Northern Ireland,0
+10099,B,12,313,No,Desktop,England,0
+11037,A,14,290,No,Desktop,Northern Ireland,0
+12605,A,8,421,No,Mobile,Northern Ireland,0
+15432,B,5,130,No,Mobile,Wales,0
+16494,B,8,348,Yes,Mobile,England,1
+11487,B,14,435,No,Desktop,Wales,0
+19070,A,1,52,Yes,Mobile,Northern Ireland,1
+19594,A,3,213,No,Mobile,Wales,0
+16344,A,7,162,No,Desktop,Northern Ireland,0
+14862,A,10,112,No,Desktop,Wales,0
+15811,B,4,172,No,Desktop,Scotland,0
+13746,A,9,326,No,Mobile,Scotland,0
+15025,A,10,211,No,Desktop,Scotland,0
+12440,A,5,369,No,Desktop,Wales,0
+11848,A,8,322,No,Desktop,England,0
+16668,A,7,120,No,Mobile,Scotland,0
+15099,B,6,333,No,Desktop,Northern Ireland,0
+12019,B,1,91,No,Desktop,England,0
+10342,A,7,252,No,Mobile,Scotland,0
+11380,B,1,224,No,Desktop,England,0
+19781,A,7,271,No,Desktop,Northern Ireland,0
+16507,B,12,259,No,Mobile,Wales,0
+14956,A,12,267,No,Mobile,Northern Ireland,0
+19870,A,10,101,No,Mobile,Wales,0
+10596,B,9,292,Yes,Desktop,Northern Ireland,1
+12530,A,9,279,No,Mobile,Scotland,0
+11999,A,6,152,No,Desktop,Northern Ireland,0
+11372,B,4,238,No,Desktop,England,0
+19822,B,9,323,No,Desktop,England,0
+17694,A,1,161,No,Mobile,Northern Ireland,0
+18639,A,11,287,No,Desktop,England,0
+12667,B,8,214,No,Mobile,Scotland,0
+10355,A,10,355,No,Mobile,England,0
+14167,B,9,245,No,Mobile,Scotland,0
+11465,B,3,383,No,Mobile,England,0
+12374,A,3,314,No,Desktop,Wales,0
+15489,A,6,237,No,Desktop,Wales,0
+16790,B,5,93,No,Mobile,Wales,0
+18463,B,5,111,No,Mobile,Northern Ireland,0
+11313,A,6,231,No,Desktop,Northern Ireland,0
+11430,B,4,287,No,Mobile,Scotland,0
+19668,B,7,295,Yes,Desktop,Scotland,1
+19603,B,3,175,No,Desktop,Wales,0
+10334,A,7,193,No,Desktop,England,0
+15729,A,11,417,No,Mobile,England,0
+13579,B,12,420,No,Mobile,Northern Ireland,0
+10492,A,2,397,No,Desktop,Wales,0
+13195,A,12,385,No,Desktop,Scotland,0
+15861,B,3,413,No,Desktop,Northern Ireland,0
+13688,B,8,428,No,Desktop,Scotland,0
+11064,B,1,218,No,Desktop,England,0
+15826,A,1,262,No,Desktop,Wales,0
+10656,B,3,63,No,Mobile,England,0
+14359,B,2,367,No,Mobile,Northern Ireland,0
+16800,A,2,94,Yes,Desktop,England,1
+10152,A,5,201,No,Mobile,Wales,0
+11910,B,8,42,No,Mobile,Scotland,0
+19206,A,4,105,No,Desktop,Scotland,0
+18965,B,10,136,No,Mobile,Scotland,0
+14225,B,10,388,No,Desktop,England,0
+11538,A,13,304,No,Mobile,Wales,0
+13217,B,8,281,Yes,Mobile,Northern Ireland,1
+13878,B,10,88,No,Desktop,England,0
+18753,A,7,363,Yes,Mobile,England,1
+10475,B,3,157,No,Mobile,Northern Ireland,0
+13324,B,9,282,No,Mobile,Northern Ireland,0
+15625,B,1,358,No,Mobile,Wales,0
+12614,B,9,44,No,Mobile,Northern Ireland,0
+13054,B,9,170,Yes,Desktop,Scotland,1
+10328,A,5,215,No,Mobile,Wales,0
+15189,B,10,317,No,Desktop,England,0
+13474,A,11,198,No,Desktop,Scotland,0
+10387,B,10,280,No,Mobile,Northern Ireland,0
+13757,A,9,392,No,Desktop,Northern Ireland,0
+14573,B,13,117,No,Desktop,Wales,0
+12438,B,9,235,Yes,Mobile,Scotland,1
+17084,B,10,364,No,Desktop,Northern Ireland,0
+10007,A,14,264,No,Desktop,Scotland,0
+17592,A,9,311,No,Desktop,Scotland,0
+12912,B,14,142,No,Mobile,Wales,0
+13343,B,10,398,No,Mobile,Wales,0
+19355,A,2,384,No,Desktop,Wales,0
+11990,B,12,410,Yes,Mobile,England,1
+10403,A,10,220,No,Desktop,England,0
+13170,A,8,96,No,Desktop,England,0
+10385,B,2,327,No,Mobile,England,0
+14182,B,12,383,No,Desktop,Northern Ireland,0
+11756,B,2,235,No,Mobile,England,0
+16261,B,3,137,No,Desktop,Wales,0
+16819,B,4,375,No,Desktop,Northern Ireland,0
+10882,A,8,79,No,Desktop,Wales,0
+13115,B,6,165,No,Desktop,Wales,0
+18058,B,2,336,No,Mobile,Scotland,0
+17309,B,4,98,No,Desktop,Wales,0
+13071,B,6,122,No,Desktop,England,0
+14755,A,1,321,No,Mobile,Northern Ireland,0
+10666,B,3,324,No,Desktop,England,0
+14317,B,5,406,No,Desktop,England,0
+14034,B,7,224,No,Desktop,Wales,0
+10725,B,9,131,No,Desktop,Wales,0
+19850,B,5,112,No,Desktop,Northern Ireland,0
+18833,A,13,338,No,Mobile,England,0
+13709,A,14,274,No,Mobile,Scotland,0
+10143,B,1,396,Yes,Mobile,Northern Ireland,1
+17180,B,13,441,No,Desktop,Northern Ireland,0
+19907,A,1,433,No,Desktop,England,0
+18214,B,2,400,No,Mobile,Wales,0
+16817,B,3,394,No,Desktop,Wales,0
+15296,B,7,124,No,Mobile,England,0
+10608,B,12,386,No,Desktop,England,0
+18570,B,4,437,No,Desktop,Wales,0
+19467,B,7,362,No,Mobile,England,0
+11281,B,10,319,No,Desktop,England,0
+12682,A,9,286,No,Mobile,Wales,0
+10834,B,13,109,No,Desktop,England,0
+14625,A,8,369,No,Desktop,England,0
+12422,B,3,347,No,Desktop,Scotland,0
+16850,B,12,287,No,Desktop,Northern Ireland,0
+17827,B,7,234,No,Mobile,England,0
+17162,B,5,254,No,Desktop,Northern Ireland,0
+12656,A,5,336,No,Desktop,England,0
+13932,A,3,213,No,Mobile,Scotland,0
+10798,B,3,240,No,Desktop,Scotland,0
+11158,B,9,393,No,Mobile,England,0
+16566,B,3,190,Yes,Mobile,Northern Ireland,1
+12449,A,10,306,No,Desktop,Northern Ireland,0
+16059,B,5,364,Yes,Desktop,England,1
+11016,B,11,219,No,Mobile,Wales,0
+10352,B,14,299,Yes,Desktop,Wales,1
+14494,A,4,87,No,Desktop,Northern Ireland,0
+19643,A,4,122,No,Mobile,Scotland,0
+14058,B,1,41,No,Desktop,England,0
+13756,B,3,52,No,Mobile,England,0
+12239,A,4,344,No,Desktop,Northern Ireland,0
+14853,A,2,90,No,Desktop,England,0
+12184,A,9,129,No,Desktop,England,0
+13785,B,3,163,No,Desktop,England,0
+15404,B,1,289,Yes,Mobile,Northern Ireland,1
+13602,B,8,337,No,Desktop,England,0
+12865,A,7,373,No,Desktop,Wales,0
+13664,B,9,266,No,Mobile,England,0
+12142,B,12,185,No,Mobile,England,0
+13282,A,3,320,No,Desktop,Wales,0
+16245,B,10,272,No,Mobile,Northern Ireland,0
+14950,B,5,325,Yes,Desktop,Scotland,1
+13128,B,13,238,No,Mobile,Scotland,0
+14594,B,9,212,No,Desktop,Scotland,0
+16646,A,6,51,No,Mobile,Wales,0
+19840,B,14,252,No,Desktop,Northern Ireland,0
+15562,A,11,321,No,Mobile,Wales,0
+16102,B,4,403,No,Mobile,Wales,0
+11626,A,2,430,No,Desktop,England,0
+11180,A,11,71,No,Mobile,Northern Ireland,0
+19485,B,1,449,Yes,Desktop,Wales,1
+14637,A,6,377,No,Desktop,Wales,0
+10150,B,4,101,Yes,Desktop,England,1
+18809,B,13,200,No,Mobile,Northern Ireland,0
+15540,B,1,394,No,Desktop,Northern Ireland,0
+15813,B,13,435,No,Desktop,Scotland,0
+13994,A,5,69,No,Mobile,Wales,0
+10599,A,10,353,No,Desktop,England,0
+16925,B,8,386,No,Desktop,England,0
+19891,B,7,436,No,Mobile,Scotland,0
+18787,B,5,76,No,Mobile,Wales,0
+18992,B,11,411,No,Mobile,Northern Ireland,0
+13862,A,5,313,No,Desktop,England,0
+18421,B,9,203,No,Desktop,Wales,0
+13471,A,4,72,No,Mobile,Wales,0
+12412,A,10,192,No,Mobile,Northern Ireland,0
+15496,A,13,415,No,Mobile,Wales,0
+15701,A,2,352,No,Desktop,Scotland,0
+14017,B,1,411,No,Desktop,Wales,0
+16225,B,7,44,No,Mobile,Scotland,0
+14925,A,3,101,No,Desktop,Wales,0
+19099,B,4,340,No,Mobile,Wales,0
+15727,B,8,177,No,Desktop,England,0
+11485,B,4,324,Yes,Desktop,Northern Ireland,1
+13457,B,12,152,No,Desktop,Northern Ireland,0
+18452,A,3,51,No,Mobile,Scotland,0
+12502,B,5,212,No,Desktop,Scotland,0
+14050,A,10,405,No,Desktop,Northern Ireland,0
+15568,B,9,176,No,Desktop,England,0
+17054,A,4,262,No,Mobile,Scotland,0
+12226,B,10,359,No,Desktop,Scotland,0
+12987,A,5,148,No,Desktop,England,0
+11237,A,13,364,Yes,Desktop,Scotland,1
+14011,A,1,348,No,Desktop,Scotland,0
+16057,A,13,133,No,Mobile,England,0
+13314,A,2,363,No,Desktop,Scotland,0
+19126,A,9,434,No,Mobile,Scotland,0
+12885,A,1,282,No,Desktop,Scotland,0
+18623,A,6,396,No,Mobile,Wales,0
+13067,A,5,312,No,Desktop,Scotland,0
+15165,B,1,272,No,Mobile,Scotland,0
+18007,B,13,180,No,Mobile,Northern Ireland,0
+15384,A,9,71,No,Desktop,England,0
+10208,A,1,341,Yes,Mobile,England,1
+16770,A,11,318,No,Mobile,Scotland,0
+10722,A,3,320,No,Mobile,Wales,0
+13136,B,1,115,No,Mobile,England,0
+14137,A,8,180,No,Mobile,Northern Ireland,0
+16601,B,12,338,No,Desktop,Northern Ireland,0
+10055,B,8,250,Yes,Mobile,Scotland,1
+13088,A,14,331,No,Mobile,Scotland,0
+15955,B,4,65,Yes,Mobile,England,1
+12457,B,1,281,No,Mobile,England,0
+14973,B,13,83,No,Mobile,Northern Ireland,0
+14652,B,7,370,No,Desktop,England,0
+17147,A,7,114,No,Mobile,Northern Ireland,0
+16097,B,10,349,No,Desktop,England,0
+18941,A,7,267,No,Desktop,England,0
+15584,A,4,133,No,Desktop,Northern Ireland,0
+19749,B,8,253,No,Mobile,Wales,0
+15239,B,14,365,Yes,Mobile,England,1
+14903,A,8,409,No,Desktop,England,0
+16269,B,12,238,No,Mobile,Wales,0
+14628,A,14,343,No,Mobile,England,0
+14260,B,10,299,No,Mobile,Northern Ireland,0
+16554,B,1,184,No,Mobile,Scotland,0
+14735,B,3,272,No,Desktop,Wales,0
+12059,A,12,63,No,Desktop,England,0
+15378,B,4,367,No,Mobile,Northern Ireland,0
+12117,B,8,299,No,Desktop,Northern Ireland,0
+19746,B,8,59,No,Mobile,England,0
+16379,A,14,119,No,Mobile,Scotland,0
+17410,B,9,153,No,Mobile,Wales,0
+19285,B,3,135,No,Mobile,Scotland,0
+15006,B,5,145,No,Desktop,England,0
+10790,A,11,432,No,Mobile,Northern Ireland,0
+18898,B,3,222,No,Desktop,Scotland,0
+15923,B,6,249,No,Mobile,Scotland,0
+18398,B,4,256,No,Mobile,England,0
+14826,A,3,404,No,Mobile,Wales,0
+11431,B,13,425,No,Mobile,England,0
+18516,A,14,177,Yes,Desktop,England,1
+11601,B,1,160,No,Desktop,Northern Ireland,0
+16992,B,11,197,Yes,Desktop,Northern Ireland,1
+13782,A,12,357,No,Desktop,Scotland,0
+19783,B,1,339,No,Desktop,Wales,0
+13081,A,5,208,No,Desktop,Northern Ireland,0
+17193,A,6,255,No,Mobile,Wales,0
+14386,B,7,110,No,Desktop,Wales,0
+18140,B,6,439,No,Desktop,Wales,0
+16106,A,8,89,No,Mobile,England,0
+14061,B,11,445,No,Desktop,Northern Ireland,0
+13846,A,3,96,No,Mobile,England,0
+16185,B,11,307,Yes,Mobile,Wales,1
+16190,B,12,118,No,Mobile,Wales,0
+17318,B,6,159,No,Mobile,Scotland,0
+18371,A,14,351,No,Mobile,England,0
+14686,A,4,41,No,Mobile,Wales,0
+13867,A,12,76,No,Desktop,Northern Ireland,0
+15943,A,14,449,No,Desktop,England,0
+15282,A,2,299,No,Desktop,England,0
+11414,B,8,401,No,Mobile,England,0
+14510,B,14,151,No,Desktop,Scotland,0
+19101,A,7,353,No,Mobile,Wales,0
+10132,B,7,174,No,Desktop,Northern Ireland,0
+12162,A,4,216,No,Desktop,Wales,0
+11492,A,9,62,No,Mobile,Northern Ireland,0
+11570,B,9,254,No,Desktop,Wales,0
+19778,A,6,393,No,Desktop,Wales,0
+11717,B,2,82,No,Mobile,Wales,0
+13694,B,10,217,No,Desktop,Scotland,0
+16720,A,12,209,No,Desktop,Northern Ireland,0
+17771,A,4,435,No,Mobile,England,0
+19201,B,1,291,No,Desktop,Wales,0
+17607,B,10,297,No,Desktop,England,0
+11076,A,3,197,No,Desktop,England,0
+11398,B,2,57,No,Desktop,Scotland,0
+14726,B,10,393,No,Mobile,Wales,0
+19991,A,14,200,No,Desktop,Scotland,0
+16660,A,12,79,No,Mobile,Scotland,0
+14164,A,14,357,No,Desktop,Northern Ireland,0
+10896,A,8,346,No,Mobile,Scotland,0
+13120,B,11,148,Yes,Desktop,Wales,1
+14127,A,6,270,No,Desktop,Wales,0
+17690,A,13,134,No,Desktop,Wales,0
+18662,B,2,82,No,Mobile,Northern Ireland,0
+13864,B,7,365,No,Mobile,England,0
+18843,A,14,69,Yes,Mobile,Scotland,1
+16695,A,9,96,No,Mobile,Scotland,0
+17582,B,6,181,No,Desktop,England,0
+17106,A,9,129,Yes,Mobile,Northern Ireland,1
+15742,B,13,159,No,Desktop,Wales,0
+18630,B,7,207,No,Mobile,England,0
+19579,B,3,105,No,Mobile,Northern Ireland,0
+16641,A,14,52,No,Mobile,Northern Ireland,0
+18395,B,10,216,No,Mobile,Northern Ireland,0
+17264,B,4,405,No,Desktop,England,0
+18686,A,10,381,No,Desktop,England,0
+15557,A,5,197,Yes,Mobile,Scotland,1
+10128,A,12,191,No,Desktop,Northern Ireland,0
+17189,B,5,239,No,Desktop,Northern Ireland,0
+13052,A,6,377,No,Mobile,Wales,0
+10193,B,7,314,No,Mobile,Northern Ireland,0
+10133,B,13,397,No,Desktop,Northern Ireland,0
+12098,A,8,401,No,Desktop,Northern Ireland,0
+10500,B,6,335,No,Mobile,Scotland,0
+19095,B,5,441,No,Desktop,Northern Ireland,0
+12712,B,9,348,Yes,Mobile,Scotland,1
+12752,A,13,422,No,Mobile,Wales,0
+12537,B,2,292,No,Mobile,Scotland,0
+15190,A,14,193,No,Mobile,Wales,0
+15210,B,11,163,Yes,Desktop,Wales,1
+14043,A,3,393,No,Desktop,England,0
+13570,B,9,389,No,Mobile,England,0
+14285,A,1,168,No,Mobile,Scotland,0
+19092,A,1,381,No,Desktop,Scotland,0
+17936,B,4,231,No,Desktop,Scotland,0
+19879,A,14,177,No,Mobile,Northern Ireland,0
+10187,B,4,50,No,Desktop,England,0
+18447,B,12,385,No,Mobile,Wales,0
+17600,B,13,444,No,Desktop,Scotland,0
+11655,A,9,324,Yes,Mobile,Northern Ireland,1
+15215,B,3,313,Yes,Mobile,Wales,1
+17302,A,2,94,No,Desktop,Wales,0
+12590,B,14,275,Yes,Mobile,England,1
+12686,A,10,333,No,Desktop,Wales,0
+16635,A,2,58,No,Mobile,Northern Ireland,0
+11396,A,11,129,No,Mobile,Wales,0
+19135,A,14,391,No,Desktop,Northern Ireland,0
+12896,A,8,328,No,Desktop,Scotland,0
+19910,B,1,338,Yes,Desktop,England,1
+19097,B,6,112,No,Mobile,England,0
+11144,A,3,182,No,Mobile,Scotland,0
+12951,A,10,253,No,Desktop,Northern Ireland,0
+19172,B,8,220,No,Desktop,Wales,0
+18525,A,8,256,No,Desktop,Wales,0
+19129,A,1,434,No,Desktop,Wales,0
+10297,A,9,374,No,Desktop,England,0
+18509,A,7,86,No,Desktop,England,0
+18165,B,5,429,No,Mobile,Wales,0
+17444,B,3,285,No,Mobile,Scotland,0
+12510,A,7,237,No,Desktop,England,0
+17470,A,12,310,No,Desktop,Scotland,0
+16630,A,12,248,No,Mobile,Northern Ireland,0
+14385,A,4,53,No,Mobile,Wales,0
+17517,B,14,157,No,Desktop,Scotland,0
+16822,B,6,277,No,Desktop,Wales,0
+13387,A,1,256,No,Desktop,England,0
+14464,B,14,430,No,Mobile,Northern Ireland,0
+18654,B,2,176,No,Mobile,Wales,0
+10719,A,10,377,No,Mobile,Scotland,0
+14811,B,7,73,No,Mobile,Northern Ireland,0
+18997,A,11,222,No,Desktop,Wales,0
+16127,A,6,401,No,Desktop,Northern Ireland,0
+15036,B,8,225,No,Mobile,England,0
+10164,B,13,439,No,Desktop,Wales,0
+17813,B,2,370,Yes,Mobile,England,1
+19415,A,10,346,No,Mobile,Wales,0
+12907,B,4,256,Yes,Mobile,Northern Ireland,1
+11478,A,4,143,No,Desktop,Scotland,0
+11641,A,8,61,No,Mobile,Scotland,0
+19188,A,13,308,No,Mobile,Wales,0
+11785,A,4,59,No,Desktop,Northern Ireland,0
+12576,A,9,129,No,Mobile,Scotland,0
+10156,B,2,65,No,Desktop,Northern Ireland,0
+12347,A,1,100,No,Mobile,England,0
+14783,B,8,258,No,Mobile,England,0
+15422,A,10,442,No,Mobile,Northern Ireland,0
+10394,A,7,89,No,Desktop,Northern Ireland,0
+18179,B,10,182,No,Mobile,Wales,0
+19276,A,6,253,No,Desktop,Northern Ireland,0
+18163,B,2,174,No,Desktop,Scotland,0
+14331,B,2,149,No,Mobile,Northern Ireland,0
+17202,A,7,444,No,Mobile,Northern Ireland,0
+14966,A,10,443,No,Mobile,Wales,0
+10437,B,1,266,No,Desktop,Scotland,0
+15360,B,6,387,No,Desktop,Northern Ireland,0
+17368,A,13,414,Yes,Mobile,England,1
+17262,B,4,359,No,Mobile,Scotland,0
+15973,B,3,364,No,Mobile,Wales,0
+11559,A,12,104,No,Desktop,Wales,0
+14269,A,6,311,No,Desktop,England,0
+16625,A,5,108,No,Mobile,Scotland,0
+19582,A,10,190,Yes,Desktop,England,1
+15643,B,13,146,No,Desktop,Northern Ireland,0
+19246,A,1,96,No,Mobile,Wales,0
+13001,A,1,171,No,Mobile,Northern Ireland,0
+19680,B,6,45,No,Mobile,Wales,0
+16529,A,13,48,No,Desktop,Wales,0
+18729,A,3,360,No,Mobile,Scotland,0
+16826,A,4,307,No,Desktop,Northern Ireland,0
+18858,A,11,273,No,Desktop,Wales,0
+11617,B,13,395,No,Mobile,England,0
+14663,B,8,240,No,Mobile,Scotland,0
+14613,B,6,195,No,Desktop,Wales,0
+18974,B,4,100,No,Mobile,Northern Ireland,0
+19975,A,6,317,No,Mobile,England,0
+18973,B,9,192,No,Mobile,England,0
+14848,B,8,90,Yes,Mobile,England,1
+11697,A,10,112,No,Desktop,England,0
+12305,B,9,65,No,Desktop,England,0
+11891,B,12,370,No,Desktop,England,0
+10407,B,1,287,No,Mobile,Northern Ireland,0
+15272,B,1,148,No,Mobile,England,0
+19523,B,8,279,No,Mobile,Scotland,0
+15302,B,9,380,No,Desktop,England,0
+10524,B,6,330,No,Desktop,Scotland,0
+14832,A,6,126,No,Desktop,England,0
+15458,B,1,84,No,Desktop,Northern Ireland,0
+17158,B,9,367,No,Mobile,Wales,0
+17379,A,11,88,No,Desktop,Northern Ireland,0
+11061,A,8,440,No,Desktop,Northern Ireland,0
+12520,B,1,291,No,Desktop,England,0
+13583,A,7,238,No,Mobile,Northern Ireland,0
+15854,A,7,215,No,Desktop,Northern Ireland,0
+13331,A,7,102,No,Mobile,England,0
+14258,A,4,92,No,Desktop,Scotland,0
+14943,A,8,104,No,Desktop,Wales,0
+10694,A,8,426,No,Mobile,Wales,0
+16191,A,3,153,No,Desktop,Northern Ireland,0
+17992,B,7,321,No,Desktop,England,0
+12942,A,9,121,No,Mobile,Wales,0
+16710,B,9,115,No,Desktop,England,0
+13032,B,13,225,Yes,Desktop,England,1
+18655,B,12,210,No,Mobile,Wales,0
+18877,B,8,300,No,Mobile,Scotland,0
+16933,A,3,386,No,Desktop,Scotland,0
+12688,B,14,154,No,Mobile,England,0
+16957,A,11,293,No,Desktop,Scotland,0
+15941,B,13,146,No,Desktop,England,0
+14865,B,10,114,No,Mobile,Wales,0
+10861,B,13,151,No,Mobile,Scotland,0
+18866,A,4,268,No,Mobile,Northern Ireland,0
+13515,A,9,374,No,Desktop,Northern Ireland,0
+13939,A,8,220,No,Desktop,Northern Ireland,0
+12069,A,2,256,No,Desktop,Northern Ireland,0
+16798,B,7,443,No,Mobile,Northern Ireland,0
+11500,A,13,326,No,Desktop,Wales,0
+11977,A,3,187,No,Desktop,Scotland,0
+15315,A,11,316,No,Desktop,Scotland,0
+14343,B,13,426,No,Desktop,Northern Ireland,0
+14767,B,12,183,No,Desktop,Northern Ireland,0
+11828,B,2,446,No,Mobile,England,0
+15764,A,2,112,No,Mobile,Northern Ireland,0
+12598,A,11,308,No,Desktop,Northern Ireland,0
+13857,B,8,401,No,Mobile,England,0
+11972,A,11,342,No,Mobile,Northern Ireland,0
+16744,B,6,436,No,Mobile,England,0
+13504,A,8,437,No,Mobile,Scotland,0
+17549,A,3,384,No,Desktop,England,0
+18700,B,2,289,No,Mobile,Wales,0
+16420,A,3,387,No,Mobile,Scotland,0
+15647,A,5,194,No,Mobile,Scotland,0
+19868,A,12,301,No,Desktop,Wales,0
+10082,B,12,317,Yes,Mobile,Northern Ireland,1
+14640,A,6,308,No,Mobile,Wales,0
+16088,A,4,339,No,Desktop,Wales,0
+15252,B,2,400,No,Mobile,Scotland,0
+16087,B,4,375,No,Desktop,England,0
+16258,B,4,231,No,Desktop,Northern Ireland,0
+18071,B,3,412,No,Mobile,Northern Ireland,0
+16831,A,6,287,No,Mobile,England,0
+16021,B,9,76,No,Desktop,Wales,0
+15556,B,4,195,No,Desktop,Scotland,0
+17218,B,6,311,No,Desktop,Northern Ireland,0
+10550,B,7,390,No,Desktop,Northern Ireland,0
+10901,B,3,358,No,Mobile,Northern Ireland,0
+16655,A,4,394,No,Mobile,England,0
+10240,B,13,417,No,Desktop,Wales,0
+12578,B,2,96,Yes,Mobile,Scotland,1
+18873,B,8,69,Yes,Mobile,Wales,1
+11448,A,9,115,No,Mobile,Scotland,0
+15672,B,2,206,Yes,Desktop,Northern Ireland,1
+18319,B,8,361,No,Desktop,Wales,0
+18124,A,10,306,No,Mobile,Scotland,0
+16830,A,2,346,No,Desktop,Northern Ireland,0
+17837,A,7,152,No,Desktop,England,0
+14816,B,9,288,Yes,Desktop,Scotland,1
+14004,B,6,361,No,Mobile,England,0
+12690,B,3,108,No,Mobile,Scotland,0
+16042,B,11,439,No,Desktop,England,0
+11735,B,6,88,No,Mobile,Scotland,0
+15326,A,1,201,No,Mobile,Scotland,0
+10074,A,11,267,Yes,Desktop,Wales,1
+10891,B,10,211,No,Mobile,England,0
+10993,B,1,289,Yes,Desktop,England,1
+14801,A,12,413,No,Mobile,England,0
+12616,A,2,445,No,Desktop,Wales,0
+13278,A,13,212,No,Mobile,Wales,0
+18251,A,13,439,No,Mobile,Scotland,0
+13648,A,12,113,No,Mobile,Wales,0
+10501,B,12,181,No,Mobile,Scotland,0
+16218,A,10,76,No,Desktop,England,0
+14193,A,12,378,No,Desktop,Scotland,0
+15709,A,7,252,No,Mobile,Wales,0
+15273,A,13,159,No,Mobile,England,0
+19842,B,9,399,No,Mobile,Scotland,0
+13213,B,8,144,No,Desktop,Wales,0
+14699,B,11,336,Yes,Mobile,England,1
+18242,B,3,216,No,Desktop,England,0
+10354,B,8,415,No,Mobile,Northern Ireland,0
+14474,A,6,266,No,Mobile,England,0
+16886,B,7,346,No,Desktop,Scotland,0
+13221,A,4,226,No,Mobile,Scotland,0
+13121,B,11,174,No,Desktop,Scotland,0
+19689,A,13,417,No,Desktop,Wales,0
+16438,B,2,65,No,Desktop,Northern Ireland,0
+18717,A,14,172,No,Desktop,Wales,0
+18036,B,4,354,No,Desktop,Wales,0
+13020,B,8,370,No,Desktop,Northern Ireland,0
+13011,A,7,411,No,Desktop,Wales,0
+15863,A,10,63,No,Desktop,Wales,0
+12983,B,3,343,No,Desktop,England,0
+19197,A,14,361,No,Mobile,Wales,0
+13477,A,5,80,No,Desktop,England,0
+13813,A,7,169,No,Mobile,Northern Ireland,0
+18959,B,13,437,No,Desktop,Wales,0
+14370,A,7,131,No,Mobile,Wales,0
+10548,A,8,112,No,Mobile,Wales,0
+17528,B,5,301,Yes,Desktop,England,1
+19384,B,12,321,Yes,Mobile,England,1
+11716,A,9,222,No,Mobile,Scotland,0
+13412,A,7,104,No,Desktop,Scotland,0
+16236,B,14,46,No,Desktop,Wales,0
+11421,A,8,84,No,Desktop,Northern Ireland,0
+14060,A,4,119,No,Mobile,Northern Ireland,0
+14762,A,5,283,No,Mobile,Wales,0
+15330,B,3,143,No,Mobile,Northern Ireland,0
+16610,B,1,127,No,Desktop,Scotland,0
+11411,B,6,114,No,Mobile,Scotland,0
+15478,A,9,150,No,Desktop,Scotland,0
+11351,B,9,94,No,Desktop,Northern Ireland,0
+18158,A,13,374,No,Mobile,England,0
+14266,B,14,169,Yes,Desktop,England,1
+16791,B,3,49,Yes,Mobile,Scotland,1
+18069,B,7,320,No,Mobile,Scotland,0
+11836,A,7,184,No,Mobile,Wales,0
+14196,A,13,180,No,Mobile,Northern Ireland,0
+19987,A,3,56,No,Mobile,Northern Ireland,0
+17795,B,13,432,No,Mobile,Northern Ireland,0
+12133,A,3,41,No,Desktop,Northern Ireland,0
+12080,A,2,325,No,Mobile,England,0
+15327,B,9,370,No,Desktop,Wales,0
+13971,B,12,293,No,Mobile,Northern Ireland,0
+15586,A,8,95,No,Mobile,Scotland,0
+17707,A,3,199,No,Desktop,Scotland,0
+19530,A,8,254,No,Mobile,Scotland,0
+15343,A,1,88,No,Mobile,England,0
+16875,B,11,346,No,Mobile,Wales,0
+17167,B,5,226,No,Desktop,Scotland,0
+13472,B,11,257,No,Mobile,England,0
+12488,B,5,83,No,Mobile,Northern Ireland,0
+18161,B,12,443,No,Mobile,Northern Ireland,0
+18309,B,14,179,No,Desktop,Wales,0
+13902,B,11,110,No,Mobile,Scotland,0
+10610,B,10,114,No,Desktop,Wales,0
+12550,B,7,143,Yes,Desktop,Wales,1
+19404,B,8,441,No,Desktop,Northern Ireland,0
+16169,A,11,144,No,Desktop,England,0
+13635,A,12,173,No,Mobile,Wales,0
+16136,B,10,122,No,Desktop,Wales,0
+17411,B,4,147,No,Desktop,Northern Ireland,0
+13890,A,13,275,No,Desktop,Scotland,0
+19367,B,1,287,No,Desktop,England,0
+11257,A,13,164,No,Desktop,Scotland,0
+10217,A,2,187,No,Mobile,Northern Ireland,0
+15844,B,10,222,Yes,Desktop,Northern Ireland,1
+16006,B,4,417,No,Desktop,Wales,0
+14888,A,1,260,No,Desktop,Wales,0
+16055,A,10,236,No,Mobile,England,0
+11826,B,1,166,No,Mobile,Northern Ireland,0
+15181,A,3,391,No,Desktop,Northern Ireland,0
+13593,B,14,394,No,Mobile,Wales,0
+13987,A,4,134,No,Desktop,Northern Ireland,0
+19874,B,2,447,No,Desktop,England,0
+17535,B,3,243,No,Mobile,England,0
+16128,A,2,67,No,Desktop,England,0
+12309,A,6,211,No,Desktop,Northern Ireland,0
+11628,B,12,52,No,Mobile,Northern Ireland,0
+13187,A,13,151,No,Desktop,Wales,0
+14807,B,5,445,No,Desktop,England,0
+15263,B,2,226,No,Desktop,Scotland,0
+10424,B,2,315,No,Mobile,Northern Ireland,0
+19745,A,10,177,No,Mobile,Northern Ireland,0
+12758,A,1,64,No,Mobile,England,0
+14904,B,12,292,No,Mobile,England,0
+13164,A,14,152,No,Desktop,Northern Ireland,0
+14447,B,6,124,No,Mobile,Wales,0
+15837,A,4,399,No,Mobile,Scotland,0
+11565,A,3,62,No,Desktop,Scotland,0
+14306,A,4,279,No,Mobile,Northern Ireland,0
+10795,A,13,291,No,Mobile,Scotland,0
+10429,B,4,112,No,Desktop,Wales,0
+13384,B,14,354,No,Mobile,Northern Ireland,0
+13381,B,12,186,No,Desktop,Scotland,0
+16386,A,10,318,No,Mobile,England,0
+16627,B,6,85,Yes,Desktop,Northern Ireland,1
+18775,A,8,368,No,Mobile,Northern Ireland,0
+10698,A,5,254,No,Mobile,Scotland,0
+12339,B,2,164,No,Desktop,Scotland,0
+13661,B,6,448,No,Mobile,Wales,0
+19408,A,11,206,No,Desktop,Wales,0
+10476,A,6,233,No,Desktop,Northern Ireland,0
+14168,A,12,62,No,Desktop,Wales,0
+16154,B,9,393,No,Desktop,Northern Ireland,0
+12748,B,8,414,No,Desktop,England,0
+13162,A,7,350,No,Desktop,Northern Ireland,0
+12411,B,1,150,Yes,Desktop,England,1
+13425,B,14,398,No,Desktop,Scotland,0
+10310,B,3,166,No,Mobile,England,0
+12624,A,13,361,No,Mobile,Northern Ireland,0
+13993,B,8,317,No,Desktop,England,0
+18572,B,12,90,Yes,Desktop,Northern Ireland,1
+12586,B,12,114,No,Mobile,Wales,0
+10938,B,14,380,No,Mobile,England,0
+17575,B,5,331,Yes,Mobile,Wales,1
+14521,A,1,92,No,Desktop,Northern Ireland,0
+13307,B,5,127,No,Mobile,England,0
+15418,B,4,256,No,Desktop,England,0
+11780,A,10,356,No,Desktop,Scotland,0
+13123,B,3,252,No,Mobile,Northern Ireland,0
+15039,A,3,301,No,Mobile,Scotland,0
+11355,A,9,374,No,Desktop,Northern Ireland,0
+11740,A,14,137,No,Desktop,Scotland,0
+17232,A,10,388,No,Desktop,England,0
+11527,B,7,368,No,Mobile,England,0
+10771,A,6,217,No,Mobile,Wales,0
+14253,A,11,393,No,Desktop,Scotland,0
+11919,B,1,264,No,Desktop,Wales,0
+16599,A,7,382,No,Mobile,Wales,0
+14595,B,7,108,No,Mobile,Scotland,0
+19513,A,2,366,Yes,Desktop,Northern Ireland,1
+12655,A,9,347,No,Mobile,Northern Ireland,0
+12399,B,2,204,No,Desktop,Northern Ireland,0
+10433,A,1,243,No,Mobile,Wales,0
+13794,A,8,60,No,Desktop,Wales,0
+14725,A,10,243,No,Desktop,England,0
+14107,B,13,127,No,Mobile,Wales,0
+14665,B,9,245,No,Mobile,Scotland,0
+15830,A,11,347,No,Mobile,Scotland,0
+18181,B,3,351,Yes,Mobile,Wales,1
+19402,B,14,190,No,Mobile,Northern Ireland,0
+19216,B,14,301,Yes,Mobile,Northern Ireland,1
+15899,B,1,335,Yes,Mobile,Scotland,1
+12940,A,1,439,No,Desktop,Scotland,0
+13605,B,8,347,Yes,Desktop,England,1
+15150,A,10,404,No,Desktop,Wales,0
+18876,B,11,66,No,Mobile,Scotland,0
+18274,B,13,81,No,Mobile,England,0
+15642,A,13,186,No,Desktop,Wales,0
+18290,A,10,84,No,Desktop,Scotland,0
+15070,B,10,63,No,Desktop,Scotland,0
+19031,B,5,217,No,Mobile,Scotland,0
+13095,A,2,398,No,Desktop,Wales,0
+15781,B,11,261,No,Mobile,Northern Ireland,0
+19456,A,4,223,No,Mobile,Northern Ireland,0
+15054,B,2,81,No,Mobile,Scotland,0
+17757,A,4,354,Yes,Mobile,England,1
+11691,A,12,160,No,Desktop,Wales,0
+17454,B,9,369,Yes,Desktop,Scotland,1
+11068,B,2,93,No,Desktop,Northern Ireland,0
+17394,A,8,439,No,Desktop,Wales,0
+16941,A,4,222,No,Desktop,Northern Ireland,0
+12891,B,14,111,No,Desktop,Scotland,0
+18170,A,4,308,No,Mobile,Scotland,0
+11033,B,4,317,No,Desktop,Wales,0
+12963,B,3,395,No,Mobile,England,0
+13824,B,12,327,No,Desktop,England,0
+16173,B,11,320,No,Desktop,Scotland,0
+19048,A,5,95,No,Mobile,Northern Ireland,0
+15462,A,7,304,No,Mobile,England,0
+15815,A,12,380,No,Desktop,England,0
+17684,A,9,72,No,Desktop,England,0
+16315,A,7,230,No,Mobile,England,0
+10371,B,10,91,No,Desktop,Northern Ireland,0
+14946,A,3,193,No,Desktop,Northern Ireland,0
+17112,B,12,300,No,Desktop,England,0
+13287,B,11,336,No,Desktop,England,0
+18792,B,9,275,No,Desktop,Wales,0
+18552,A,4,263,No,Desktop,England,0
+10441,A,7,325,No,Desktop,Northern Ireland,0
+11971,A,11,341,No,Desktop,Scotland,0
+18013,A,6,88,No,Mobile,Wales,0
+14692,B,14,139,No,Desktop,Scotland,0
+19640,B,9,259,Yes,Mobile,Northern Ireland,1
+18459,A,3,173,No,Desktop,Scotland,0
+14551,A,12,81,No,Mobile,Scotland,0
+16460,A,6,153,Yes,Mobile,England,1
+10592,B,10,165,No,Desktop,Scotland,0
+13101,B,10,87,No,Mobile,Northern Ireland,0
+15179,A,3,441,Yes,Desktop,Wales,1
+19421,B,8,92,No,Desktop,Scotland,0
+16228,A,9,102,No,Desktop,England,0
+17758,A,14,195,No,Mobile,England,0
+10084,B,8,150,No,Desktop,Wales,0
+19955,A,14,118,No,Mobile,Scotland,0
+18664,B,5,237,No,Desktop,England,0
+16259,A,7,275,No,Desktop,Northern Ireland,0
+10579,B,6,125,No,Desktop,Northern Ireland,0
+11235,A,12,147,No,Mobile,England,0
+10402,A,1,269,No,Desktop,Northern Ireland,0
+16802,A,7,394,No,Mobile,Scotland,0
+11918,B,6,325,No,Mobile,England,0
+17087,A,14,233,No,Mobile,England,0
+17821,A,11,273,No,Desktop,England,0
+16842,B,8,209,No,Mobile,Wales,0
+15855,A,5,230,No,Desktop,Scotland,0
+10682,B,7,215,No,Mobile,Scotland,0
+11911,B,11,107,No,Mobile,Wales,0
+13007,A,7,425,No,Mobile,England,0
+12224,B,14,102,No,Desktop,Scotland,0
+18678,B,4,50,No,Mobile,England,0
+15022,B,4,316,No,Desktop,Scotland,0
+16547,A,11,251,No,Mobile,Scotland,0
+13068,A,4,280,No,Mobile,Northern Ireland,0
+12357,A,2,225,Yes,Mobile,Wales,1
+14390,B,9,45,No,Desktop,England,0
+10708,B,10,202,No,Desktop,Wales,0
+19433,A,10,330,Yes,Mobile,England,1
+16740,B,2,95,No,Desktop,England,0
+13484,B,13,81,No,Mobile,England,0
+17390,B,2,302,No,Mobile,England,0
+14265,A,6,210,No,Desktop,Scotland,0
+18899,B,13,340,No,Desktop,Northern Ireland,0
+19268,A,9,246,No,Desktop,Wales,0
+13218,B,8,323,Yes,Mobile,Scotland,1
+14246,A,1,263,No,Desktop,Wales,0
+19240,B,8,49,No,Mobile,Scotland,0
+10821,B,3,164,No,Desktop,Scotland,0
+11057,A,1,75,No,Desktop,England,0
+15857,A,11,418,No,Desktop,Wales,0
+19254,B,14,216,Yes,Desktop,England,1
+14070,B,5,375,No,Mobile,Wales,0
+11975,B,5,43,No,Desktop,Wales,0
+18080,A,7,317,No,Mobile,Northern Ireland,0
+16672,A,6,213,Yes,Desktop,Scotland,1
+12632,A,10,293,No,Mobile,Scotland,0
+12810,A,9,179,No,Mobile,England,0
+13787,B,6,96,No,Desktop,Northern Ireland,0
+18237,B,1,242,Yes,Desktop,Scotland,1
+15416,B,8,195,No,Mobile,Northern Ireland,0
+14237,B,2,185,No,Desktop,Scotland,0
+17024,A,14,276,No,Desktop,Wales,0
+19025,B,10,89,No,Mobile,Northern Ireland,0
+11528,B,7,131,Yes,Desktop,England,1
+15072,B,8,128,No,Desktop,England,0
+19912,A,12,422,No,Desktop,Wales,0
+17548,A,11,416,No,Desktop,England,0
+11348,A,4,238,No,Mobile,England,0
+16418,A,5,337,No,Desktop,Wales,0
+15719,A,3,129,No,Mobile,England,0
+15972,B,11,314,No,Desktop,England,0
+18023,A,2,429,No,Desktop,Northern Ireland,0
+17245,A,9,286,Yes,Desktop,Wales,1
+12659,A,9,87,No,Mobile,Wales,0
+12787,B,8,342,No,Desktop,Scotland,0
+17682,B,11,51,No,Desktop,England,0
+12327,B,10,133,No,Mobile,England,0
+12784,A,6,244,No,Desktop,Northern Ireland,0
+10146,B,4,61,No,Mobile,Scotland,0
+10192,A,8,54,No,Mobile,Wales,0
+12243,A,14,364,No,Mobile,Northern Ireland,0
+11269,B,12,105,No,Desktop,Wales,0
+18714,B,9,220,No,Mobile,Scotland,0
+12161,B,14,321,No,Mobile,England,0
+13575,A,9,88,No,Desktop,Wales,0
+10575,A,13,83,No,Desktop,Scotland,0
+13421,B,8,220,No,Mobile,Wales,0
+18260,A,10,375,No,Desktop,Northern Ireland,0
+15119,A,14,296,No,Mobile,Scotland,0
+10793,B,5,342,No,Desktop,Scotland,0
+19620,A,1,238,No,Desktop,Northern Ireland,0
+18977,B,10,427,No,Desktop,Wales,0
+13606,A,3,143,No,Mobile,Scotland,0
+19669,A,6,336,No,Mobile,Northern Ireland,0
+18955,A,1,46,No,Mobile,England,0
+14146,B,5,97,No,Mobile,Northern Ireland,0
+16911,A,11,111,No,Desktop,Scotland,0
+14040,B,1,41,Yes,Desktop,Scotland,1
+12241,B,12,124,No,Desktop,England,0
+12713,A,4,410,No,Mobile,Scotland,0
+11936,B,14,214,Yes,Mobile,Northern Ireland,1
+17968,B,8,82,No,Desktop,Scotland,0
+12684,B,8,347,No,Mobile,England,0
+12246,B,5,448,No,Mobile,Northern Ireland,0
+16990,A,8,292,No,Desktop,Northern Ireland,0
+12770,A,1,359,No,Mobile,England,0
+16506,A,9,167,No,Desktop,Scotland,0
+13548,B,13,132,No,Mobile,England,0
+16484,B,5,171,Yes,Mobile,Wales,1
+15673,A,5,258,No,Desktop,Scotland,0
+12889,A,2,327,No,Mobile,Northern Ireland,0
+19382,B,2,371,No,Desktop,England,0
+17918,B,1,326,Yes,Mobile,Northern Ireland,1
+16295,B,7,322,No,Desktop,Scotland,0
+11207,A,8,416,No,Desktop,England,0
+10092,A,4,378,No,Mobile,Scotland,0
+15587,A,7,386,No,Mobile,England,0
+11899,A,13,350,No,Mobile,Wales,0
+14381,B,8,154,No,Desktop,Scotland,0
+12480,A,11,142,No,Mobile,England,0
+11241,B,9,118,No,Desktop,Scotland,0
+18558,B,1,394,No,Desktop,Scotland,0
+13428,A,14,318,No,Mobile,Wales,0
+14067,A,2,183,No,Desktop,Wales,0
+11323,A,7,381,No,Mobile,England,0
+11054,B,10,375,No,Mobile,Wales,0
+10962,A,6,62,No,Mobile,Wales,0
+11881,B,12,413,No,Mobile,Wales,0
+17995,B,6,81,No,Mobile,Wales,0
+16768,B,14,314,No,Mobile,Northern Ireland,0
+18191,A,14,198,No,Desktop,England,0
+18086,B,12,122,No,Desktop,England,0
+14589,B,11,266,No,Mobile,Northern Ireland,0
+17013,A,8,411,No,Desktop,Scotland,0
+10913,A,12,41,No,Mobile,Wales,0
+13991,B,1,257,No,Desktop,Scotland,0
+17829,B,4,106,No,Desktop,England,0
+13232,B,14,142,No,Desktop,Northern Ireland,0
+14996,A,12,397,No,Desktop,England,0
+15407,A,2,235,Yes,Desktop,Wales,1
+12514,A,14,181,No,Mobile,Scotland,0
+18303,A,9,217,No,Mobile,Wales,0
+19954,A,4,254,No,Mobile,England,0
+15929,A,8,52,No,Desktop,England,0
+11454,B,13,222,No,Desktop,England,0
+17299,A,5,315,No,Desktop,Northern Ireland,0
+17422,A,6,99,No,Mobile,England,0
+13369,B,13,49,No,Mobile,Wales,0
+15117,A,14,131,No,Desktop,Wales,0
+16691,A,4,255,Yes,Desktop,Northern Ireland,1
+19002,B,1,193,No,Desktop,Scotland,0
+17697,B,13,81,No,Mobile,Wales,0
+10537,B,12,438,No,Desktop,Wales,0
+11364,B,3,209,No,Desktop,Scotland,0
+13370,B,12,213,No,Mobile,England,0
+18410,A,4,355,No,Mobile,Northern Ireland,0
+16923,A,7,49,No,Desktop,Northern Ireland,0
+19441,A,2,98,No,Mobile,Wales,0
+13660,A,4,124,No,Desktop,Scotland,0
+14284,A,11,399,No,Mobile,Scotland,0
+12680,A,12,232,No,Desktop,England,0
+12113,B,2,412,No,Desktop,Scotland,0
+13656,B,1,304,No,Desktop,Northern Ireland,0
+12534,B,11,336,No,Desktop,Northern Ireland,0
+13646,A,5,106,No,Desktop,Wales,0
+12266,A,5,223,No,Mobile,Wales,0
+19766,B,6,364,No,Desktop,Wales,0
+15251,B,11,59,No,Mobile,Wales,0
+11976,B,13,214,No,Desktop,Northern Ireland,0
+16183,B,5,46,No,Mobile,Scotland,0
+12916,A,9,87,No,Desktop,Wales,0
+19171,A,2,348,Yes,Desktop,Scotland,1
+12262,A,9,302,No,Mobile,England,0
+14446,A,8,227,No,Mobile,Wales,0
+11224,B,6,93,No,Desktop,Northern Ireland,0
+19653,A,7,51,No,Mobile,England,0
+12582,B,5,279,No,Mobile,Scotland,0
+12989,A,3,358,Yes,Desktop,Wales,1
+13279,A,1,380,No,Desktop,Wales,0
+12505,B,11,265,No,Desktop,Scotland,0
+18282,A,11,373,No,Mobile,Wales,0
+18272,B,3,200,No,Mobile,Northern Ireland,0
+19621,A,8,435,No,Desktop,Scotland,0
+19627,B,7,169,No,Mobile,Northern Ireland,0
+11139,A,14,338,No,Desktop,Northern Ireland,0
+15380,B,7,282,No,Mobile,Wales,0
+18825,B,5,438,No,Desktop,Wales,0
+10065,A,3,225,No,Mobile,Scotland,0
+17105,B,4,326,Yes,Mobile,Wales,1
+11133,B,6,202,No,Desktop,England,0
+13245,B,12,213,No,Desktop,Northern Ireland,0
+19317,B,4,419,No,Mobile,Wales,0
+17816,B,4,363,Yes,Desktop,Wales,1
+13952,B,1,265,No,Desktop,Northern Ireland,0
+15032,A,3,214,No,Mobile,England,0
+17799,B,8,429,No,Mobile,Northern Ireland,0
+18569,B,13,360,No,Mobile,Northern Ireland,0
+19821,B,6,395,No,Desktop,Scotland,0
+12716,A,13,371,No,Desktop,Scotland,0
+13502,A,5,392,No,Mobile,Scotland,0
+17391,A,9,368,No,Mobile,England,0
+15211,B,10,324,No,Mobile,England,0
+17163,A,10,190,No,Desktop,Northern Ireland,0
+10732,B,8,83,No,Mobile,Wales,0
+12175,B,10,67,No,Mobile,England,0
+10765,B,6,61,No,Mobile,England,0
+16548,A,10,119,No,Desktop,Wales,0
+12201,A,11,303,No,Desktop,Scotland,0
+11495,A,12,97,No,Desktop,Wales,0
+10077,B,11,263,No,Desktop,Scotland,0
+15245,A,7,173,No,Mobile,Scotland,0
+10179,B,7,74,No,Desktop,Northern Ireland,0
+18217,A,8,135,No,Desktop,England,0
+12297,B,4,145,No,Mobile,Wales,0
+16322,B,2,93,No,Mobile,Northern Ireland,0
+11619,B,7,378,No,Mobile,Wales,0
+10186,A,5,380,No,Desktop,Northern Ireland,0
+19286,A,10,260,No,Desktop,Scotland,0
+12300,A,3,262,No,Desktop,England,0
+17883,B,5,214,No,Mobile,Northern Ireland,0
+11767,B,6,199,No,Mobile,Northern Ireland,0
+16833,A,8,83,No,Desktop,Northern Ireland,0
+10095,B,6,105,No,Desktop,Northern Ireland,0
+15812,A,5,118,Yes,Desktop,Northern Ireland,1
+16558,B,10,70,No,Mobile,Wales,0
+10928,B,13,43,No,Desktop,Wales,0
+18505,B,13,82,No,Desktop,Wales,0
+17392,A,7,312,No,Mobile,Wales,0
+12291,A,7,96,No,Desktop,Wales,0
+18624,B,9,386,No,Desktop,Scotland,0
+14631,B,13,378,No,Desktop,Scotland,0
+19003,A,14,405,No,Mobile,England,0
+16358,B,2,239,No,Desktop,Northern Ireland,0
+18305,A,2,391,No,Desktop,Northern Ireland,0
+17819,A,1,58,No,Desktop,Northern Ireland,0
+19531,B,10,265,No,Mobile,England,0
+13456,A,2,84,No,Mobile,England,0
+15295,A,14,110,No,Desktop,Northern Ireland,0
+12824,A,11,122,No,Desktop,Northern Ireland,0
+13670,B,13,186,No,Desktop,Wales,0
+13704,B,10,130,Yes,Mobile,England,1
+11633,B,13,42,No,Desktop,England,0
+14133,A,9,413,No,Desktop,Northern Ireland,0
+13922,A,12,151,No,Mobile,Wales,0
+12975,A,14,70,No,Desktop,Northern Ireland,0
+10245,A,9,438,No,Mobile,Scotland,0
+13138,A,9,262,No,Desktop,Scotland,0
+15654,A,7,321,No,Mobile,Wales,0
+16729,A,2,243,No,Mobile,Wales,0
+15513,A,1,439,No,Mobile,England,0
+12559,A,2,72,No,Desktop,Wales,0
+14524,A,14,284,No,Mobile,Wales,0
+15461,A,12,199,No,Desktop,Northern Ireland,0
+17763,A,3,194,No,Mobile,Wales,0
+12870,A,5,250,No,Mobile,Wales,0
+17131,A,13,174,No,Desktop,Northern Ireland,0
+14962,A,4,371,No,Desktop,Northern Ireland,0
+17282,B,7,104,No,Mobile,Scotland,0
+15424,A,13,78,No,Desktop,England,0
+16694,A,11,317,No,Mobile,Scotland,0
+18636,A,9,231,No,Mobile,Northern Ireland,0
+15956,B,3,251,No,Mobile,Wales,0
+12106,B,3,320,No,Mobile,Northern Ireland,0
+10700,A,12,270,No,Mobile,England,0
+10654,B,4,172,No,Mobile,England,0
+14332,B,2,104,No,Desktop,Northern Ireland,0
+14187,A,4,88,No,Desktop,England,0
+15387,B,11,366,No,Desktop,Northern Ireland,0
+15438,A,12,251,No,Mobile,Northern Ireland,0
+12813,B,4,191,No,Mobile,Northern Ireland,0
+10401,A,6,370,No,Mobile,England,0
+14144,B,13,431,No,Mobile,England,0
+12306,B,9,133,No,Mobile,Wales,0
+16732,B,7,442,No,Mobile,Wales,0
+15773,A,13,406,No,Mobile,Scotland,0
+11268,B,4,211,No,Mobile,Northern Ireland,0
+16165,B,10,173,No,Desktop,England,0
+13617,B,13,398,No,Mobile,England,0
+13223,A,14,295,No,Desktop,England,0
+13319,A,3,399,Yes,Mobile,Northern Ireland,1
+15138,A,1,378,No,Mobile,Wales,0
+13452,A,9,341,No,Desktop,England,0
+17467,A,6,97,No,Desktop,Scotland,0
+19794,A,3,154,No,Mobile,Northern Ireland,0
+19004,B,2,290,No,Desktop,Northern Ireland,0
+15500,A,8,267,No,Desktop,England,0
+17075,A,14,344,No,Desktop,Wales,0
+11800,A,12,82,No,Desktop,Northern Ireland,0
+13876,A,9,304,No,Mobile,Wales,0
+12367,B,7,132,Yes,Desktop,England,1
+17587,B,2,61,Yes,Mobile,Wales,1
+14135,B,10,200,No,Mobile,Northern Ireland,0
+10239,B,9,336,No,Desktop,England,0
+19581,B,10,156,No,Mobile,England,0
+10545,B,5,372,Yes,Desktop,Wales,1
+17970,A,9,227,No,Desktop,England,0
+14698,A,8,349,No,Desktop,Scotland,0
+14942,B,9,107,No,Desktop,Scotland,0
+19082,B,8,177,No,Desktop,England,0
+19697,A,6,208,No,Mobile,Scotland,0
+17698,A,3,226,No,Desktop,Wales,0
+16181,A,4,147,No,Desktop,Northern Ireland,0
+11189,B,14,333,No,Desktop,Northern Ireland,0
+12296,A,10,362,Yes,Desktop,Northern Ireland,1
+13450,A,14,71,No,Desktop,Scotland,0
+12381,B,8,165,No,Desktop,Scotland,0
+17658,B,7,61,Yes,Desktop,England,1
+17120,A,11,389,No,Desktop,Northern Ireland,0
+15431,A,14,427,No,Desktop,Scotland,0
+11635,A,12,117,No,Desktop,Northern Ireland,0
+18409,B,13,382,No,Mobile,Scotland,0
+16227,A,8,262,No,Desktop,England,0
+11632,A,13,187,No,Mobile,England,0
+18205,A,3,373,No,Mobile,Scotland,0
+14618,A,14,141,No,Mobile,Northern Ireland,0
+19682,B,8,50,No,Desktop,England,0
+19461,B,10,398,Yes,Mobile,Scotland,1
+15147,A,1,382,No,Desktop,England,0
+18067,A,10,355,No,Desktop,England,0
+16065,A,8,286,No,Mobile,Northern Ireland,0
+16938,A,2,287,No,Desktop,Scotland,0
+16809,B,14,417,No,Mobile,Wales,0
+17729,A,11,201,No,Mobile,Scotland,0
+10996,B,4,178,No,Desktop,Scotland,0
+19012,B,4,60,No,Desktop,Northern Ireland,0
+16031,B,12,177,No,Desktop,England,0
+19315,A,6,182,No,Desktop,England,0
+10087,A,12,124,No,Mobile,England,0
+11778,A,6,401,No,Desktop,Scotland,0
+11573,A,4,101,No,Mobile,Wales,0
+11436,A,11,265,No,Desktop,Scotland,0
+12516,A,5,154,No,Mobile,England,0
+16812,B,11,313,No,Mobile,England,0
+19320,A,2,283,No,Desktop,Wales,0
+18444,A,14,428,No,Desktop,Northern Ireland,0
+15683,B,5,318,No,Mobile,England,0
+15977,B,10,355,No,Mobile,England,0
+16498,B,1,157,No,Mobile,England,0
+13519,A,5,54,No,Desktop,Scotland,0
+10474,A,1,342,No,Desktop,Scotland,0
+11621,B,1,146,No,Mobile,Northern Ireland,0
+12541,A,7,151,No,Desktop,Northern Ireland,0
+18384,B,6,103,No,Mobile,Scotland,0
+16276,A,8,414,No,Mobile,Scotland,0
+14934,A,14,239,No,Desktop,Wales,0
+11285,A,13,173,No,Mobile,Northern Ireland,0
+10479,A,13,224,No,Desktop,Northern Ireland,0
+15038,B,5,313,No,Mobile,Northern Ireland,0
+10937,A,8,417,Yes,Desktop,Wales,1
+15991,B,14,395,No,Mobile,Scotland,0
+12437,A,10,340,No,Desktop,Scotland,0
+15329,A,5,432,Yes,Desktop,Northern Ireland,1
+10971,A,5,399,No,Desktop,Wales,0
+12691,B,3,160,Yes,Mobile,Scotland,1
+15795,B,11,435,No,Mobile,Northern Ireland,0
+19131,A,4,137,No,Desktop,Northern Ireland,0
+18184,A,3,248,No,Desktop,Scotland,0
+11725,B,14,90,No,Mobile,Scotland,0
+12147,B,14,438,Yes,Desktop,Wales,1
+11819,A,11,226,Yes,Mobile,Scotland,1
+19950,A,11,46,No,Desktop,England,0
+13665,A,11,359,No,Mobile,England,0
+14206,A,6,346,No,Mobile,England,0
+18186,B,9,68,No,Mobile,Scotland,0
+10170,A,14,56,No,Mobile,Wales,0
+12608,B,14,351,No,Desktop,England,0
+12789,A,2,191,No,Desktop,England,0
+19688,A,14,218,No,Mobile,Scotland,0
+17059,B,11,303,No,Mobile,Wales,0
+14401,A,14,354,No,Desktop,Scotland,0
+15949,B,5,154,Yes,Mobile,Scotland,1
+19299,A,6,448,No,Desktop,Northern Ireland,0
+14813,A,1,237,No,Desktop,England,0
+18131,A,5,91,No,Desktop,Scotland,0
+12279,B,8,227,No,Desktop,England,0
+17683,A,4,283,No,Mobile,Northern Ireland,0
+19440,B,12,352,Yes,Desktop,Scotland,1
+16283,A,3,121,No,Mobile,Wales,0
+10645,A,14,217,Yes,Mobile,Scotland,1
+12078,A,3,189,No,Mobile,Wales,0
+16037,A,5,121,No,Desktop,Scotland,0
+17374,B,2,193,No,Mobile,Wales,0
+13621,B,5,132,No,Mobile,Northern Ireland,0
+12929,B,5,229,No,Mobile,Northern Ireland,0
+18166,A,12,274,No,Mobile,England,0
+12379,A,12,146,No,Desktop,England,0
+17073,A,5,221,No,Mobile,Northern Ireland,0
+15385,B,1,330,No,Desktop,Northern Ireland,0
+19121,A,4,350,No,Mobile,Scotland,0
+13495,A,9,444,No,Desktop,England,0
+15931,A,9,223,No,Desktop,Northern Ireland,0
+11210,B,2,85,No,Mobile,Wales,0
+17541,B,11,331,No,Mobile,Scotland,0
+11113,B,9,317,No,Desktop,Scotland,0
+18538,B,1,388,No,Desktop,Wales,0
+17961,B,14,285,No,Mobile,Scotland,0
+12997,A,3,234,No,Mobile,Northern Ireland,0
+10644,A,3,281,Yes,Desktop,Scotland,1
+13043,A,7,283,No,Mobile,England,0
+10578,A,11,397,No,Desktop,Northern Ireland,0
+13059,A,6,171,No,Mobile,England,0
+18229,B,4,363,No,Desktop,Scotland,0
+14511,A,11,380,No,Mobile,England,0
+17210,A,11,144,No,Mobile,Scotland,0
+15627,A,10,353,No,Mobile,Wales,0
+10004,A,12,113,No,Desktop,England,0
+12572,B,7,162,Yes,Desktop,Wales,1
+10731,B,9,68,No,Mobile,Northern Ireland,0
+16289,B,9,200,No,Mobile,Wales,0
+19260,A,7,203,No,Mobile,Scotland,0
+12095,A,2,343,No,Desktop,Wales,0
+16043,B,11,79,No,Mobile,Scotland,0
+12261,A,11,119,No,Desktop,Scotland,0
+17904,A,3,46,Yes,Desktop,Scotland,1
+18424,A,8,385,No,Mobile,Scotland,0
+10412,B,6,381,No,Desktop,Scotland,0
+18378,B,9,59,No,Desktop,Scotland,0
+19586,B,7,69,No,Desktop,England,0
+14685,B,2,236,No,Mobile,Northern Ireland,0
+10291,A,6,442,No,Desktop,England,0
+19066,A,14,324,No,Desktop,England,0
+17901,B,9,406,No,Mobile,England,0
+11040,A,6,212,No,Desktop,Wales,0
+13492,A,1,308,No,Desktop,Wales,0
+17382,A,2,277,No,Mobile,England,0
+11403,A,4,272,No,Desktop,Scotland,0
+17113,B,14,106,No,Mobile,Wales,0
+11363,B,14,320,No,Desktop,Northern Ireland,0
+19259,B,8,429,No,Desktop,Wales,0
+12418,A,2,356,Yes,Desktop,England,1
+14680,A,6,151,No,Desktop,England,0
+11643,B,9,379,No,Desktop,Northern Ireland,0
+18661,B,12,107,No,Mobile,Northern Ireland,0
+11804,A,12,52,No,Mobile,Wales,0
+16012,A,12,149,No,Mobile,Scotland,0
+13863,A,5,394,No,Desktop,Northern Ireland,0
+17171,A,8,153,Yes,Desktop,Wales,1
+11461,A,5,78,No,Desktop,Wales,0
+12394,A,5,423,No,Desktop,Scotland,0
+12254,A,13,199,No,Mobile,Wales,0
+12807,B,2,396,No,Mobile,Wales,0
+14834,B,8,388,No,Desktop,England,0
+18333,A,1,106,No,Mobile,England,0
+17115,B,3,254,No,Mobile,Wales,0
+14032,B,7,107,No,Desktop,England,0
+16880,B,12,233,No,Desktop,Northern Ireland,0
+19359,A,5,165,No,Mobile,England,0
+13950,B,11,56,No,Mobile,Scotland,0
+16602,A,8,419,No,Desktop,Northern Ireland,0
+11066,A,9,324,No,Desktop,Wales,0
+14858,B,9,129,No,Mobile,Northern Ireland,0
+17275,A,12,375,No,Mobile,Northern Ireland,0
+17203,B,13,419,No,Mobile,Scotland,0
+14462,B,3,68,Yes,Desktop,Wales,1
+14958,B,6,375,No,Desktop,Northern Ireland,0
+11986,A,9,226,No,Mobile,Scotland,0
+17898,B,4,308,No,Mobile,Northern Ireland,0
+17428,B,5,326,No,Desktop,Wales,0
+19992,A,4,334,No,Mobile,Northern Ireland,0
+19391,B,10,395,No,Desktop,England,0
+12143,B,1,318,No,Desktop,Northern Ireland,0
+14086,B,14,413,No,Mobile,England,0
+11814,A,3,124,No,Desktop,Northern Ireland,0
+11287,B,10,97,No,Desktop,Wales,0
+15959,B,2,375,No,Desktop,Wales,0
+14192,A,11,299,No,Mobile,Wales,0
+13402,A,7,66,No,Desktop,Scotland,0
+16105,A,4,234,No,Mobile,England,0
+17567,A,10,128,No,Desktop,Scotland,0
+16048,A,11,366,No,Mobile,Wales,0
+18556,B,4,316,No,Mobile,Wales,0
+13914,B,14,123,No,Mobile,Northern Ireland,0
+19609,A,7,101,No,Desktop,Northern Ireland,0
+16189,A,8,199,No,Mobile,Northern Ireland,0
+13442,B,2,382,No,Desktop,Wales,0
+14432,A,10,217,No,Desktop,Scotland,0
+18860,B,13,285,No,Desktop,Wales,0
+15681,A,4,72,No,Mobile,Wales,0
+16028,A,12,327,No,Mobile,Wales,0
+11382,B,2,322,No,Mobile,England,0
+13850,A,7,369,No,Desktop,Scotland,0
+12777,A,12,385,No,Mobile,England,0
+17174,A,1,295,No,Desktop,England,0
+16714,B,10,77,No,Desktop,Wales,0
+13333,A,7,248,No,Mobile,England,0
+17752,A,8,214,No,Mobile,Scotland,0
+19224,A,13,291,No,Mobile,England,0
+13185,B,7,197,No,Mobile,Northern Ireland,0
+12083,B,2,274,No,Mobile,Wales,0
+10527,B,1,88,No,Desktop,England,0
+11451,B,11,396,Yes,Desktop,Scotland,1
+16256,B,8,108,No,Mobile,Scotland,0
+14147,A,14,384,No,Mobile,Wales,0
+11564,B,5,358,No,Mobile,Wales,0
+17711,B,7,392,No,Mobile,Wales,0
+14602,B,2,125,No,Desktop,England,0
+12481,B,13,70,No,Mobile,Northern Ireland,0
+13682,A,8,113,No,Mobile,Scotland,0
+16838,A,7,282,No,Desktop,Northern Ireland,0
+18802,A,14,322,No,Mobile,Scotland,0
+11258,B,11,127,No,Mobile,Northern Ireland,0
+13098,A,10,45,No,Desktop,Scotland,0
+15927,B,12,383,No,Mobile,Scotland,0
+13560,B,4,439,No,Mobile,Northern Ireland,0
+19543,B,9,351,No,Desktop,England,0
+17101,A,8,166,No,Mobile,England,0
+11455,A,1,348,No,Desktop,England,0
+18689,A,12,57,No,Mobile,Scotland,0
+13559,B,12,224,No,Desktop,Scotland,0
+12915,B,12,338,No,Mobile,England,0
+19134,B,9,97,No,Desktop,England,0
+13544,B,11,115,No,Mobile,Wales,0
+10027,A,4,211,No,Desktop,Wales,0
+12607,A,3,259,No,Mobile,England,0
+14971,A,8,375,No,Mobile,Scotland,0
+14676,B,5,191,No,Mobile,England,0
+10991,A,3,308,No,Mobile,Wales,0
+12494,A,9,281,No,Mobile,Northern Ireland,0
+10140,B,3,308,No,Mobile,Wales,0
+15957,B,7,83,No,Desktop,Northern Ireland,0
+19462,A,6,187,No,Mobile,Scotland,0
+13936,A,4,362,No,Desktop,Scotland,0
+10571,B,9,270,No,Mobile,Northern Ireland,0
+18306,B,11,228,No,Mobile,Wales,0
+16150,A,3,333,No,Desktop,England,0
+11590,B,8,400,No,Mobile,Northern Ireland,0
+18732,A,4,263,No,Desktop,Scotland,0
+18201,A,5,76,No,Mobile,England,0
+16058,A,4,259,No,Desktop,England,0
+16020,A,9,146,No,Desktop,Northern Ireland,0
+13692,A,4,348,No,Desktop,Northern Ireland,0
+14606,B,11,383,No,Desktop,England,0
+13789,B,12,280,No,Desktop,Wales,0
+18002,B,11,56,Yes,Desktop,Northern Ireland,1
+17859,B,7,214,No,Mobile,Northern Ireland,0
+14344,B,7,174,Yes,Desktop,Scotland,1
+13063,A,13,122,No,Mobile,Wales,0
+13761,B,2,194,No,Desktop,Northern Ireland,0
+13078,B,10,43,No,Mobile,Northern Ireland,0
+11159,A,8,234,No,Desktop,Wales,0
+12978,A,3,259,No,Mobile,Wales,0
+11567,A,7,283,No,Desktop,Northern Ireland,0
+18837,A,5,158,No,Desktop,Northern Ireland,0
+19141,B,4,218,No,Desktop,Wales,0
+18232,B,10,246,No,Mobile,Northern Ireland,0
+12715,A,12,220,No,Mobile,Wales,0
+13951,A,9,125,No,Mobile,Scotland,0
+10411,A,13,322,No,Desktop,Wales,0
+10114,B,12,211,No,Mobile,Wales,0
+14922,B,7,320,No,Desktop,Wales,0
+17104,A,13,41,No,Desktop,Wales,0
+18530,A,13,118,No,Desktop,Wales,0
+15386,B,10,297,No,Mobile,Northern Ireland,0
+11130,A,8,136,No,Mobile,Scotland,0
+12299,A,1,354,No,Desktop,Northern Ireland,0
+18984,B,13,198,No,Desktop,England,0
+10499,B,4,372,No,Desktop,England,0
+13718,A,11,332,No,Mobile,Northern Ireland,0
+16133,A,9,304,No,Mobile,England,0
+12116,B,9,63,No,Desktop,Scotland,0
+15287,A,5,328,No,Mobile,Scotland,0
+15858,A,14,298,No,Desktop,Wales,0
+14846,A,1,263,No,Mobile,Northern Ireland,0
+18783,A,5,316,No,Desktop,Wales,0
+17099,B,1,351,No,Mobile,Northern Ireland,0
+18507,A,11,152,No,Desktop,Wales,0
+11522,A,6,347,No,Mobile,Scotland,0
+14572,A,10,117,No,Mobile,Scotland,0
+16496,B,6,290,No,Mobile,Scotland,0
+14293,B,2,353,No,Desktop,Northern Ireland,0
+10253,A,14,344,No,Desktop,Scotland,0
+16078,B,6,211,No,Mobile,Scotland,0
+19995,A,4,73,No,Desktop,Scotland,0
+10213,B,10,369,No,Desktop,Wales,0
+14664,B,7,192,No,Desktop,Northern Ireland,0
+12094,A,10,166,No,Mobile,England,0
+16472,A,14,220,No,Mobile,Wales,0
+18908,B,8,171,No,Desktop,Northern Ireland,0
+10622,A,11,137,No,Mobile,Northern Ireland,0
+12329,A,14,379,No,Desktop,England,0
+14471,B,13,104,No,Desktop,Northern Ireland,0
+11118,B,12,86,No,Mobile,Scotland,0
+11371,A,14,446,No,Desktop,Northern Ireland,0
+13365,B,4,55,No,Mobile,Scotland,0
+19410,B,2,162,No,Desktop,Wales,0
+15873,B,3,378,Yes,Mobile,Northern Ireland,1
+10302,B,9,363,No,Desktop,Northern Ireland,0
+18755,A,2,217,No,Mobile,Northern Ireland,0
+13085,A,13,350,No,Desktop,Wales,0
+10396,A,6,341,No,Mobile,Northern Ireland,0
+10151,B,3,281,No,Desktop,Scotland,0
+13946,A,6,401,No,Mobile,Northern Ireland,0
+10131,A,14,125,No,Desktop,England,0
+18009,A,5,63,No,Mobile,Scotland,0
+16282,A,4,79,No,Mobile,Northern Ireland,0
+16025,A,3,103,No,Desktop,Wales,0
+17325,B,13,83,Yes,Mobile,Wales,1
+19055,B,12,359,No,Mobile,England,0
+19435,A,8,49,No,Mobile,Scotland,0
+14773,B,7,332,No,Desktop,Northern Ireland,0
+11234,A,7,75,No,Mobile,England,0
+18322,B,14,171,No,Desktop,England,0
+13499,B,7,91,No,Desktop,Wales,0
+18087,B,10,54,No,Mobile,Scotland,0
+14997,A,5,372,No,Mobile,Northern Ireland,0
+10373,A,12,158,No,Mobile,Northern Ireland,0
+11654,B,6,281,Yes,Mobile,Wales,1
+18922,B,2,440,No,Desktop,Northern Ireland,0
+16624,A,13,227,No,Mobile,Wales,0
+13130,B,6,108,No,Desktop,Wales,0
+14700,B,13,285,No,Desktop,England,0
+12086,A,10,417,No,Desktop,Scotland,0
+14423,B,12,314,No,Mobile,Northern Ireland,0
+10576,B,6,165,No,Desktop,England,0
+18909,A,1,113,Yes,Desktop,Northern Ireland,1
+11875,B,10,418,No,Mobile,Scotland,0
+17984,B,1,413,No,Mobile,England,0
+15967,A,2,84,No,Desktop,Northern Ireland,0
+16675,B,3,68,No,Mobile,Northern Ireland,0
+14181,A,1,329,No,Mobile,Wales,0
+17542,B,11,446,Yes,Mobile,Scotland,1
+15160,A,11,257,Yes,Desktop,Wales,1
+18455,B,4,132,No,Mobile,Northern Ireland,0
+13729,A,11,449,No,Desktop,Wales,0
+19960,A,5,333,No,Mobile,Scotland,0
+14422,A,11,75,No,Mobile,Northern Ireland,0
+17593,B,14,102,No,Mobile,England,0
+18571,A,2,67,No,Mobile,Scotland,0
+12609,B,1,405,No,Mobile,Northern Ireland,0
+19646,B,12,206,No,Mobile,Scotland,0
+19322,B,5,77,No,Mobile,Scotland,0
+13901,A,13,137,No,Desktop,Wales,0
+13651,A,12,352,No,Desktop,Wales,0
+11407,A,3,421,No,Mobile,Scotland,0
+18291,B,2,165,No,Mobile,England,0
+15361,A,14,441,No,Desktop,Scotland,0
+13306,A,14,448,No,Desktop,Northern Ireland,0
+15921,A,10,326,No,Desktop,Northern Ireland,0
+17110,B,12,419,No,Desktop,Scotland,0
+17978,B,1,229,No,Desktop,Scotland,0
+11393,B,8,171,No,Mobile,Scotland,0
+18491,A,1,310,No,Mobile,Northern Ireland,0
+14598,A,7,312,No,Desktop,Wales,0
+13254,A,3,351,No,Desktop,England,0
+14486,A,9,329,No,Desktop,Scotland,0
+15682,B,11,189,No,Desktop,Scotland,0
+14388,A,5,119,No,Desktop,England,0
+14297,A,7,158,No,Mobile,Northern Ireland,0
+19372,B,3,408,No,Desktop,England,0
+12631,B,4,411,No,Mobile,Wales,0
+11493,A,8,195,No,Mobile,Wales,0
+13935,B,11,152,No,Desktop,England,0
+11341,B,8,308,Yes,Desktop,Wales,1
+17008,B,6,262,No,Desktop,Wales,0
+11788,B,8,91,No,Mobile,Northern Ireland,0
+18292,A,12,168,No,Desktop,Scotland,0
+15668,B,5,209,No,Desktop,Scotland,0
+18620,A,13,143,No,Mobile,Northern Ireland,0
+12319,B,5,54,No,Desktop,Wales,0
+18247,B,12,303,No,Desktop,England,0
+16327,A,14,55,No,Desktop,Wales,0
+15231,B,7,240,No,Desktop,Northern Ireland,0
+15547,B,5,434,No,Mobile,England,0
+17036,A,6,91,No,Desktop,Northern Ireland,0
+12230,A,2,200,No,Mobile,England,0
+16628,A,12,285,No,Mobile,Wales,0
+16215,B,2,78,No,Mobile,Wales,0
+17259,A,12,312,No,Desktop,Wales,0
+10110,B,7,197,No,Mobile,Northern Ireland,0
+17471,A,12,366,No,Mobile,Northern Ireland,0
+13443,A,7,273,No,Desktop,Scotland,0
+10924,A,5,174,No,Mobile,Scotland,0
+13896,A,9,371,No,Mobile,Northern Ireland,0
+15021,B,11,326,Yes,Mobile,Wales,1
+19713,B,9,123,No,Mobile,Scotland,0
+19124,A,4,212,No,Desktop,Scotland,0
+12255,A,7,382,No,Desktop,Wales,0
+12966,B,11,436,No,Mobile,Northern Ireland,0
+19786,A,1,177,No,Mobile,Scotland,0
+12377,A,13,150,No,Mobile,Northern Ireland,0
+13252,A,11,157,No,Desktop,England,0
+11739,B,4,55,No,Desktop,England,0
+16152,B,3,334,No,Desktop,Wales,0
+12693,A,8,394,No,Desktop,Northern Ireland,0
+12475,A,9,275,No,Desktop,Northern Ireland,0
+19580,A,8,62,No,Mobile,Scotland,0
+10160,B,3,91,No,Desktop,Northern Ireland,0
+14939,B,5,427,No,Mobile,England,0
+14923,B,3,236,Yes,Mobile,Northern Ireland,1
+11898,A,14,393,No,Desktop,Wales,0
+17960,B,9,209,No,Mobile,Wales,0
+18206,A,13,321,No,Mobile,Wales,0
+14716,A,11,360,No,Desktop,Wales,0
+13074,B,6,185,No,Desktop,Northern Ireland,0
+12602,A,11,247,No,Mobile,Northern Ireland,0
+11885,B,2,403,No,Desktop,Wales,0
+14861,B,13,129,No,Mobile,Scotland,0
+12461,B,2,127,No,Desktop,Wales,0
+13229,A,3,48,No,Desktop,England,0
+17308,A,7,238,No,Mobile,England,0
+16581,B,5,372,Yes,Mobile,England,1
+12110,B,11,413,No,Mobile,Scotland,0
+10196,A,6,156,No,Desktop,Scotland,0
+17068,A,4,300,No,Desktop,England,0
+11703,B,8,150,No,Desktop,Northern Ireland,0
+10311,A,2,342,No,Mobile,England,0
+11065,A,13,287,No,Mobile,Northern Ireland,0
+12855,B,8,231,No,Mobile,England,0
+16586,A,10,394,No,Mobile,Scotland,0
+16582,A,4,258,No,Desktop,Scotland,0
+17477,B,10,217,No,Desktop,England,0
+11692,A,9,447,No,Desktop,Northern Ireland,0
+10976,A,2,382,Yes,Mobile,Wales,1
+15702,A,7,269,No,Mobile,England,0
+10075,B,4,92,No,Mobile,England,0
+14917,B,7,417,Yes,Desktop,Wales,1
+15094,B,14,118,Yes,Desktop,Wales,1
+17994,A,8,46,No,Mobile,Scotland,0
+16370,A,1,376,No,Mobile,Scotland,0
+19379,A,6,88,No,Mobile,Scotland,0
+16094,B,9,179,No,Desktop,Northern Ireland,0
+15859,A,6,430,No,Mobile,Scotland,0
+14489,B,9,274,No,Mobile,Scotland,0
+17003,B,12,91,Yes,Desktop,Scotland,1
+16265,B,6,273,No,Desktop,Northern Ireland,0
+18658,A,9,268,No,Mobile,Scotland,0
+11647,A,10,319,No,Desktop,Scotland,0
+13046,B,12,378,No,Desktop,Scotland,0
+11466,B,11,247,Yes,Desktop,Scotland,1
+10512,A,7,79,No,Desktop,England,0
+14977,A,4,54,No,Desktop,England,0
+15980,B,11,164,No,Desktop,England,0
+17489,B,4,357,No,Mobile,Scotland,0
+13280,A,12,317,No,Mobile,England,0
+11321,B,4,134,No,Mobile,Scotland,0
+12194,A,11,279,No,Mobile,England,0
+10843,A,11,114,No,Mobile,Scotland,0
+19736,A,1,238,No,Desktop,Wales,0
+15934,A,13,177,No,Desktop,Northern Ireland,0
+11271,B,14,351,No,Desktop,Scotland,0
+17194,B,11,222,No,Desktop,England,0
+18615,B,3,211,No,Desktop,Scotland,0
+17426,A,13,287,No,Mobile,England,0
+19014,A,12,151,No,Desktop,Scotland,0
+19548,A,10,77,No,Desktop,Scotland,0
+15872,A,6,266,No,Desktop,England,0
+14231,B,13,104,No,Mobile,England,0
+10900,A,12,128,No,Mobile,England,0
+12345,B,5,198,No,Desktop,Wales,0
+18840,A,10,186,No,Mobile,Wales,0
+17283,A,5,444,No,Desktop,Northern Ireland,0
+12802,B,8,335,No,Desktop,Wales,0
+14117,A,4,275,No,Mobile,England,0
+12568,B,12,381,No,Desktop,Scotland,0
+17606,B,7,427,Yes,Mobile,Scotland,1
+12685,B,9,200,Yes,Desktop,Scotland,1
+14711,A,5,353,No,Mobile,Scotland,0
+19220,B,1,59,No,Desktop,Northern Ireland,0
+14245,A,1,358,No,Mobile,England,0
+15123,A,7,265,No,Mobile,Wales,0
+12953,B,5,69,No,Mobile,Northern Ireland,0
+13476,A,12,161,No,Desktop,Scotland,0
+19167,A,5,176,No,Mobile,England,0
+17654,A,10,62,No,Desktop,England,0
+18614,A,1,80,No,Desktop,England,0
+11435,A,6,354,No,Mobile,Northern Ireland,0
+12913,A,8,165,No,Mobile,Scotland,0
+10922,B,3,155,No,Mobile,Scotland,0
+11205,B,1,62,No,Mobile,Northern Ireland,0
+13743,B,14,126,No,Desktop,Northern Ireland,0
+19956,B,9,65,No,Desktop,Scotland,0
+12228,A,5,344,No,Desktop,Scotland,0
+18003,B,8,46,No,Desktop,Northern Ireland,0
+18786,B,5,172,No,Desktop,Wales,0
+12298,A,11,107,No,Desktop,Wales,0
+10581,B,7,163,Yes,Mobile,Wales,1
+19143,A,1,205,No,Desktop,Northern Ireland,0
+13439,A,14,320,No,Desktop,Scotland,0
+17746,A,6,316,No,Mobile,Northern Ireland,0
+18550,A,13,296,No,Desktop,Scotland,0
+11755,B,12,338,No,Mobile,Northern Ireland,0
+11182,A,5,232,No,Mobile,Northern Ireland,0
+16857,A,8,435,No,Desktop,Northern Ireland,0
+13771,B,4,187,Yes,Mobile,England,1
+17906,A,1,326,No,Desktop,Northern Ireland,0
+19943,A,7,103,No,Desktop,Wales,0
+10618,A,13,189,No,Desktop,England,0
+18779,A,3,55,Yes,Desktop,Scotland,1
+12471,A,14,227,No,Mobile,Scotland,0
+15670,B,13,71,Yes,Mobile,Scotland,1
+12745,B,7,202,Yes,Desktop,Wales,1
+19149,A,13,164,No,Desktop,Wales,0
+13806,B,14,316,No,Desktop,Wales,0
+12788,B,5,50,No,Desktop,England,0
+14864,A,4,320,Yes,Desktop,England,1
+10984,B,3,314,No,Mobile,England,0
+12022,A,10,194,No,Desktop,Scotland,0
+14441,B,5,110,No,Mobile,Northern Ireland,0
+14517,B,1,211,Yes,Desktop,Wales,1
+12463,B,14,446,No,Mobile,Northern Ireland,0
+14795,A,8,427,No,Mobile,Scotland,0
+16458,B,5,380,No,Mobile,England,0
+12580,A,10,348,No,Mobile,Scotland,0
+14448,B,5,324,No,Desktop,Scotland,0
+13687,B,5,112,No,Desktop,Scotland,0
+10933,A,12,442,No,Desktop,England,0
+15594,B,13,75,No,Desktop,Wales,0
+19138,A,8,90,No,Desktop,England,0
+14957,B,12,273,No,Desktop,Wales,0
+17878,A,12,63,No,Desktop,Scotland,0
+15818,A,2,365,No,Mobile,Scotland,0
+13389,A,2,355,No,Mobile,England,0
+16953,A,9,166,No,Desktop,Scotland,0
+19660,B,12,108,No,Desktop,Wales,0
+14320,B,11,126,No,Desktop,Wales,0
+17712,A,8,120,No,Mobile,Scotland,0
+13036,B,11,210,No,Desktop,Wales,0
+12700,B,6,377,No,Desktop,Northern Ireland,0
+12074,B,5,90,No,Desktop,England,0
+15333,B,14,254,No,Desktop,England,0
+18609,B,8,162,Yes,Mobile,Northern Ireland,1
+15801,B,2,289,No,Mobile,Scotland,0
+11821,A,13,429,No,Desktop,Northern Ireland,0
+14399,A,1,204,No,Desktop,England,0
+16009,A,3,171,No,Mobile,Wales,0
+12320,B,4,435,No,Desktop,Northern Ireland,0
+14123,A,3,350,No,Desktop,Scotland,0
+11995,B,4,275,No,Mobile,Northern Ireland,0
+16321,A,14,72,No,Desktop,Northern Ireland,0
+10336,B,14,55,No,Desktop,Scotland,0
+19120,A,7,252,No,Mobile,Scotland,0
+17199,B,8,82,No,Mobile,Northern Ireland,0
+18621,B,9,350,No,Mobile,Scotland,0
+12263,B,9,180,No,Mobile,England,0
+14574,A,2,354,No,Desktop,Northern Ireland,0
+19789,B,10,67,No,Desktop,Scotland,0
+18768,A,5,216,No,Mobile,Scotland,0
+10997,A,11,107,No,Mobile,Northern Ireland,0
+15821,A,1,334,No,Mobile,England,0
+17986,B,8,363,No,Desktop,Scotland,0
+19466,A,2,81,No,Desktop,Scotland,0
+19054,A,6,233,No,Desktop,Wales,0
+12764,A,2,314,No,Desktop,Wales,0
+13978,B,3,354,No,Desktop,Northern Ireland,0
+12219,A,7,253,No,Mobile,Northern Ireland,0
+13103,B,9,440,No,Mobile,Northern Ireland,0
+10538,A,10,294,No,Mobile,England,0
+16404,A,12,259,No,Desktop,Northern Ireland,0
+17802,B,12,271,No,Mobile,Northern Ireland,0
+10360,A,4,238,No,Mobile,Northern Ireland,0
+15399,B,13,441,No,Mobile,Wales,0
+10284,A,12,350,No,Mobile,Northern Ireland,0
+15593,A,13,76,No,Desktop,England,0
+10444,B,7,173,No,Desktop,Wales,0
+16415,A,1,425,No,Desktop,Northern Ireland,0
+12251,B,13,212,No,Mobile,Wales,0
+13962,B,8,171,No,Desktop,Wales,0
+12259,A,13,119,No,Mobile,England,0
+16414,A,11,41,No,Mobile,Northern Ireland,0
+16752,B,2,425,No,Desktop,England,0
+18921,B,13,269,No,Desktop,Scotland,0
+12735,A,14,421,No,Mobile,Northern Ireland,0
+13916,A,9,336,No,Desktop,Northern Ireland,0
+13379,B,11,349,No,Mobile,England,0
+17526,A,3,98,No,Desktop,Northern Ireland,0
+16549,B,14,277,No,Mobile,England,0
+13984,B,11,122,No,Desktop,England,0
+10384,B,14,206,No,Desktop,Northern Ireland,0
+13049,A,4,432,No,Desktop,Northern Ireland,0
+18953,A,10,245,No,Mobile,Wales,0
+15204,A,14,280,No,Mobile,England,0
+13176,B,9,95,No,Mobile,Scotland,0
+18328,A,6,288,No,Desktop,Northern Ireland,0
+15143,A,10,364,No,Mobile,Northern Ireland,0
+18785,A,6,437,Yes,Desktop,England,1
+16988,A,14,148,Yes,Mobile,Northern Ireland,1
+17388,B,9,287,No,Desktop,England,0
+17091,B,2,217,Yes,Desktop,England,1
+19897,A,5,145,No,Desktop,Wales,0
+17932,A,7,78,No,Desktop,Scotland,0
+17208,A,1,106,No,Mobile,Scotland,0
+12847,A,13,319,No,Mobile,Northern Ireland,0
+13275,A,12,308,No,Desktop,Northern Ireland,0
+14859,A,6,378,No,Desktop,Wales,0
+14988,B,10,199,No,Desktop,England,0
+19576,A,3,239,No,Mobile,Northern Ireland,0
+11114,B,8,166,Yes,Desktop,England,1
+13407,A,10,426,Yes,Desktop,England,1
+17100,A,7,349,No,Mobile,England,0
+15589,B,8,436,Yes,Mobile,England,1
+10221,A,11,243,No,Mobile,Scotland,0
+10894,A,7,73,No,Mobile,Wales,0
+17300,A,4,136,No,Mobile,Scotland,0
+16052,B,5,356,No,Desktop,Northern Ireland,0
+14103,B,6,278,Yes,Desktop,Scotland,1
+10944,A,2,324,No,Mobile,Scotland,0
+11019,B,12,360,No,Mobile,England,0
+14047,A,5,141,No,Desktop,England,0
+13869,A,10,97,No,Mobile,Wales,0
+17028,A,8,228,No,Desktop,England,0
+10022,B,12,330,No,Desktop,Northern Ireland,0
+18231,A,9,55,No,Mobile,Wales,0
+12426,A,3,111,No,Mobile,England,0
+18835,B,5,427,Yes,Mobile,Scotland,1
+14459,B,3,117,Yes,Desktop,Scotland,1
+14883,A,12,158,No,Mobile,England,0
+17375,B,4,403,No,Desktop,Wales,0
+17296,A,3,174,No,Mobile,England,0
+16631,B,5,205,No,Mobile,Scotland,0
+17876,B,11,64,No,Mobile,England,0
+19064,B,13,291,No,Desktop,England,0
+13015,A,9,342,No,Mobile,Scotland,0
+17079,B,13,260,No,Desktop,England,0
+11952,A,14,274,No,Mobile,Wales,0
+11546,B,6,306,No,Mobile,England,0
+18650,A,6,147,No,Mobile,England,0
+14402,B,10,326,No,Desktop,Scotland,0
+16233,A,8,73,No,Desktop,Wales,0
+16858,A,13,145,No,Mobile,Scotland,0
+14021,A,2,92,No,Mobile,England,0
+10252,B,7,327,No,Mobile,Scotland,0
+18449,B,1,244,No,Desktop,Scotland,0
+13356,B,4,381,No,Desktop,Wales,0
+11330,A,8,329,No,Desktop,Scotland,0
+10218,B,12,363,No,Desktop,Scotland,0
+15960,B,2,295,Yes,Desktop,Northern Ireland,1
+13214,B,8,258,Yes,Mobile,Wales,1
+17348,A,13,293,No,Desktop,Scotland,0
+14825,B,11,137,No,Desktop,England,0
+17734,A,10,359,No,Mobile,Wales,0
+16522,A,10,125,No,Mobile,Northern Ireland,0
+18298,B,5,73,No,Desktop,Northern Ireland,0
+12991,B,10,52,No,Desktop,Scotland,0
+15180,A,7,194,No,Mobile,Scotland,0
+14513,B,5,404,No,Desktop,Northern Ireland,0
+11646,B,7,296,No,Desktop,Northern Ireland,0
+19665,A,2,437,No,Desktop,Scotland,0
+15790,A,1,100,No,Mobile,Northern Ireland,0
+10806,A,7,212,No,Mobile,Scotland,0
+17624,B,11,173,No,Desktop,Wales,0
+12930,A,2,173,No,Mobile,Northern Ireland,0
+13812,B,8,81,No,Mobile,England,0
+18568,A,13,258,No,Desktop,Northern Ireland,0
+18364,A,10,70,No,Mobile,Northern Ireland,0
+18943,B,5,126,No,Desktop,Northern Ireland,0
+10137,B,10,360,No,Mobile,England,0
+18101,A,4,88,No,Mobile,Northern Ireland,0
+15791,B,6,348,No,Desktop,England,0
+14029,B,12,445,No,Desktop,England,0
+18110,A,6,194,No,Desktop,Wales,0
+19622,A,1,99,No,Desktop,Wales,0
+17000,A,11,228,No,Mobile,Wales,0
+11415,B,5,389,No,Desktop,Scotland,0
+15365,B,4,401,No,Mobile,England,0
+11288,A,11,157,No,Mobile,England,0
+16103,B,3,415,No,Desktop,Northern Ireland,0
+16086,A,6,137,No,Mobile,England,0
+15409,A,6,336,Yes,Mobile,England,1
+17617,A,14,373,No,Desktop,Wales,0
+14809,B,8,251,No,Desktop,Wales,0
+19161,A,3,180,No,Desktop,Wales,0
+18960,A,7,251,No,Desktop,Wales,0
+13397,B,2,82,No,Mobile,Scotland,0
+14404,A,13,291,No,Desktop,Scotland,0
+12268,B,14,262,No,Desktop,Wales,0
+10148,B,5,299,No,Desktop,England,0
+11357,A,11,91,No,Mobile,Wales,0
+17882,B,10,164,No,Mobile,Scotland,0
+15111,B,3,228,No,Mobile,England,0
+18666,B,10,210,No,Mobile,England,0
+16016,B,10,313,No,Mobile,Scotland,0
+10093,B,12,81,No,Mobile,Wales,0
+15498,B,9,247,No,Desktop,Scotland,0
+15011,B,14,422,No,Desktop,Northern Ireland,0
+14250,A,3,231,No,Desktop,England,0
+18657,B,8,342,Yes,Mobile,Scotland,1
+10414,B,11,281,Yes,Mobile,Scotland,1
+17570,A,1,115,No,Desktop,Northern Ireland,0
+17740,A,13,266,No,Desktop,England,0
+19533,B,10,158,No,Desktop,Scotland,0
+18313,A,12,69,Yes,Mobile,Scotland,1
+11537,A,4,372,No,Mobile,England,0
+16153,A,13,324,Yes,Desktop,Northern Ireland,1
+19790,B,13,311,No,Desktop,Scotland,0
+17291,B,1,128,No,Desktop,Northern Ireland,0
+17065,A,4,133,No,Mobile,England,0
+11399,A,7,54,No,Mobile,Scotland,0
+10018,B,7,188,No,Mobile,Wales,0
+12493,B,2,158,No,Desktop,Northern Ireland,0
+17812,A,6,79,No,Mobile,Wales,0
+18927,A,14,386,No,Desktop,Northern Ireland,0
+10799,B,9,169,No,Mobile,Scotland,0
+19817,B,13,344,No,Mobile,Scotland,0
+12061,B,3,315,No,Desktop,Northern Ireland,0
+12331,A,13,159,No,Mobile,Scotland,0
+16885,A,4,46,No,Desktop,Scotland,0
+15266,B,9,381,No,Desktop,England,0
+14456,B,2,347,No,Desktop,Northern Ireland,0
+14277,B,2,206,No,Desktop,Wales,0
+15787,A,4,365,No,Mobile,Wales,0
+11251,B,11,246,No,Desktop,Scotland,0
+15590,A,2,186,No,Desktop,Northern Ireland,0
+13415,B,8,93,No,Desktop,Scotland,0
+17696,A,14,313,No,Desktop,Wales,0
+15744,A,10,268,No,Desktop,Wales,0
+16380,A,4,293,No,Desktop,Scotland,0
+17321,A,12,43,No,Mobile,Northern Ireland,0
+15172,B,7,235,No,Mobile,Northern Ireland,0
+14094,A,6,448,No,Mobile,England,0
+16320,B,9,323,No,Mobile,England,0
+19111,A,14,56,No,Desktop,Scotland,0
+19448,A,12,161,No,Mobile,Northern Ireland,0
+12366,B,9,69,No,Desktop,England,0
+17778,B,7,119,No,Desktop,England,0
+13458,A,6,327,No,Mobile,Scotland,0
+15678,A,10,116,Yes,Desktop,Northern Ireland,1
+13135,B,3,202,No,Mobile,England,0
+14967,A,11,324,No,Mobile,Scotland,0
+15125,A,13,394,No,Mobile,Northern Ireland,0
+19153,A,1,121,No,Mobile,Wales,0
+17909,B,2,254,No,Desktop,Wales,0
+10337,A,11,88,No,Mobile,Northern Ireland,0
+12093,A,8,79,No,Mobile,Scotland,0
+15168,A,6,171,No,Desktop,Scotland,0
+13122,B,6,365,No,Desktop,Northern Ireland,0
+17090,A,10,136,No,Desktop,Scotland,0
+13239,A,2,155,No,Mobile,Scotland,0
+18995,B,8,384,No,Mobile,Scotland,0
+13243,A,8,123,No,Desktop,Scotland,0
+14632,B,2,163,Yes,Desktop,England,1
+16629,B,7,42,No,Desktop,Scotland,0
+18926,A,2,158,No,Mobile,Northern Ireland,0
+13107,A,11,187,No,Mobile,England,0
+19553,A,13,239,No,Desktop,Wales,0
+17234,B,12,296,No,Desktop,England,0
+17879,A,4,145,No,Desktop,England,0
+12081,B,10,117,No,Mobile,Northern Ireland,0
+10120,B,7,341,No,Mobile,England,0
+10542,B,4,147,Yes,Mobile,England,1
+15521,A,13,166,No,Mobile,England,0
+19491,A,7,344,No,Desktop,Northern Ireland,0
+13653,A,11,76,No,Mobile,England,0
+19677,A,14,301,No,Mobile,Scotland,0
+10064,A,8,228,No,Mobile,England,0
+16928,A,2,55,No,Desktop,Northern Ireland,0
+10989,B,11,208,No,Desktop,Wales,0
+18366,B,5,244,No,Desktop,Scotland,0
+13669,A,5,68,No,Desktop,Scotland,0
+10248,A,7,119,No,Desktop,Scotland,0
+10961,B,7,375,No,Desktop,England,0
+13540,A,5,298,No,Mobile,Scotland,0
+19250,A,5,193,No,Desktop,Scotland,0
+14798,A,8,381,No,Desktop,Scotland,0
+10443,A,2,227,No,Desktop,Wales,0
+12210,B,12,241,No,Desktop,Wales,0
+19324,B,5,383,No,Mobile,Wales,0
+14351,B,9,74,No,Mobile,England,0
+12090,B,13,75,No,Desktop,Northern Ireland,0
+17361,B,6,426,No,Desktop,England,0
+13534,A,12,401,No,Desktop,Wales,0
+17965,B,14,236,Yes,Mobile,England,1
+16298,A,10,356,No,Mobile,Scotland,0
+10541,A,3,328,No,Mobile,England,0
+15122,B,5,228,Yes,Mobile,Northern Ireland,1
+18168,B,9,295,No,Mobile,Wales,0
+15338,B,7,348,No,Mobile,Northern Ireland,0
+10811,A,14,221,No,Mobile,Wales,0
+13695,B,2,130,No,Desktop,Northern Ireland,0
+14451,B,2,328,No,Desktop,Scotland,0
+13002,B,7,253,No,Desktop,Northern Ireland,0
+16912,B,13,289,No,Mobile,Wales,0
+12070,B,9,153,No,Desktop,England,0
+12721,B,4,107,No,Mobile,Scotland,0
+13432,A,2,55,Yes,Mobile,England,1
+15257,B,2,352,No,Mobile,Northern Ireland,0
+18536,A,2,429,No,Mobile,Northern Ireland,0
+14069,A,13,98,No,Desktop,Northern Ireland,0
+12707,B,14,167,No,Desktop,Scotland,0
+17844,A,4,234,No,Mobile,Wales,0
+12282,B,7,413,No,Desktop,England,0
+17314,B,6,416,No,Desktop,Northern Ireland,0
+13835,B,4,420,No,Mobile,Scotland,0
+12240,A,7,183,No,Mobile,England,0
+19927,A,12,243,No,Desktop,England,0
+10598,B,9,356,Yes,Desktop,Northern Ireland,1
+19243,B,11,297,No,Mobile,England,0
+11089,B,14,299,No,Desktop,Northern Ireland,0
+10235,B,4,151,No,Mobile,Wales,0
+16456,A,9,246,No,Desktop,Northern Ireland,0
+15222,A,5,53,Yes,Mobile,Scotland,1
+19065,B,12,284,No,Mobile,Wales,0
+13212,A,3,120,No,Mobile,Wales,0
+11262,B,8,335,No,Desktop,Northern Ireland,0
+18348,A,9,180,No,Mobile,Scotland,0
+10887,B,8,393,Yes,Desktop,Wales,1
+12504,A,12,290,No,Mobile,Northern Ireland,0
+15391,A,12,382,No,Desktop,Northern Ireland,0
+14526,B,4,331,Yes,Desktop,England,1
+12984,B,12,354,No,Mobile,Northern Ireland,0
+14842,B,13,423,No,Mobile,Wales,0
+11989,A,1,144,No,Mobile,England,0
+11644,B,11,197,No,Mobile,England,0
+17198,A,8,234,No,Desktop,Scotland,0
+18598,B,5,375,No,Mobile,England,0
+18906,A,11,279,No,Desktop,Northern Ireland,0
+14065,B,7,346,Yes,Desktop,Scotland,1
+16333,B,9,100,No,Mobile,Scotland,0
+18897,A,13,95,No,Desktop,Scotland,0
+12167,B,6,103,No,Desktop,Wales,0
+14989,B,6,67,No,Desktop,England,0
+18169,A,14,47,No,Mobile,England,0
+19534,A,6,282,No,Desktop,Scotland,0
+13194,B,12,97,No,Mobile,Scotland,0
+19515,B,13,381,No,Mobile,England,0
+13315,B,3,227,Yes,Desktop,Scotland,1
+19431,A,7,266,No,Desktop,Northern Ireland,0
+11222,B,14,431,No,Mobile,Northern Ireland,0
+19236,A,10,92,No,Desktop,Wales,0
+14772,B,4,310,No,Mobile,Wales,0
+13821,B,11,302,No,Desktop,Northern Ireland,0
+13311,A,9,336,No,Mobile,Northern Ireland,0
+19284,A,13,347,No,Mobile,Northern Ireland,0
+18160,A,4,230,No,Desktop,England,0
+10589,B,13,419,No,Mobile,England,0
+19802,A,7,307,No,Mobile,Wales,0
+14434,B,13,103,Yes,Mobile,Scotland,1
+14822,B,10,94,No,Mobile,Wales,0
+14300,A,3,165,No,Mobile,Wales,0
+18156,A,7,339,No,Desktop,Scotland,0
+16929,A,1,381,No,Desktop,Northern Ireland,0
+15213,A,13,277,No,Desktop,Northern Ireland,0
+16556,B,3,382,No,Desktop,Scotland,0
+14583,B,9,395,No,Desktop,Northern Ireland,0
+17251,A,14,448,Yes,Mobile,Northern Ireland,1
+19503,A,6,247,No,Mobile,Wales,0
+16756,B,1,280,No,Mobile,Wales,0
+12800,B,14,109,No,Desktop,England,0
+15869,A,4,441,No,Mobile,Northern Ireland,0
+10010,B,1,430,No,Mobile,Wales,0
+11912,A,2,94,No,Mobile,Wales,0
+19300,A,8,361,No,Desktop,Wales,0
+13800,A,8,285,No,Desktop,Wales,0
+18585,A,12,109,No,Mobile,Northern Ireland,0
+15376,B,6,176,No,Mobile,Scotland,0
+11946,B,10,245,No,Mobile,Scotland,0
+12575,B,2,126,No,Desktop,Wales,0
+16093,B,11,77,No,Desktop,England,0
+13225,A,2,231,No,Desktop,Northern Ireland,0
+12042,B,1,318,No,Mobile,Northern Ireland,0
+16015,B,9,84,No,Desktop,Wales,0
+13563,B,8,427,Yes,Mobile,England,1
+13392,B,14,346,No,Mobile,England,0
+15776,B,6,154,No,Mobile,Wales,0
+10787,B,14,343,No,Desktop,England,0
+14691,B,7,117,No,Mobile,Northern Ireland,0
+13040,A,1,48,No,Desktop,Wales,0
+18026,A,12,414,No,Desktop,Scotland,0
+17648,A,10,186,No,Desktop,Wales,0
+10117,A,2,312,No,Desktop,Scotland,0
+17035,B,12,247,No,Mobile,Scotland,0
+18389,A,8,401,No,Mobile,Scotland,0
+19751,A,4,175,No,Desktop,Scotland,0
+13568,B,10,138,Yes,Mobile,Scotland,1
+17340,A,11,197,No,Desktop,Northern Ireland,0
+11771,A,2,69,No,Desktop,Scotland,0
+13703,A,12,139,No,Mobile,Scotland,0
+18465,B,7,322,No,Desktop,Scotland,0
+18919,A,6,130,No,Desktop,Scotland,0
+15226,A,3,89,No,Desktop,Wales,0
+10757,B,7,79,No,Desktop,Scotland,0
+16391,A,10,139,No,Mobile,England,0
+17675,B,8,95,No,Mobile,England,0
+12380,A,9,380,No,Desktop,Northern Ireland,0
+14930,B,13,173,No,Desktop,England,0
+17462,B,7,138,No,Desktop,Northern Ireland,0
+13299,B,7,371,No,Mobile,Scotland,0
+19183,A,9,107,Yes,Mobile,Wales,1
+12829,B,11,378,No,Mobile,England,0
+18810,A,4,151,No,Desktop,Wales,0
+14753,B,3,240,No,Mobile,Wales,0
+11409,A,2,223,No,Desktop,Wales,0
+14363,B,9,442,No,Mobile,England,0
+17169,A,11,138,No,Desktop,Northern Ireland,0
+17756,B,8,243,No,Mobile,Wales,0
+12753,A,3,181,No,Desktop,Scotland,0
+11942,A,14,434,No,Mobile,England,0
+12558,B,7,226,No,Mobile,Wales,0
+12005,A,11,352,No,Mobile,Scotland,0
+10034,A,1,293,No,Desktop,Scotland,0
+13784,B,4,235,No,Mobile,Northern Ireland,0
+11048,A,14,88,Yes,Desktop,England,1
+14545,B,9,363,No,Desktop,Wales,0
+16904,A,9,231,No,Desktop,Scotland,0
+11849,B,7,311,No,Desktop,Wales,0
+12711,A,4,133,No,Mobile,England,0
+12521,B,4,412,No,Mobile,England,0
+19855,B,5,150,No,Mobile,England,0
+11295,B,13,287,No,Mobile,England,0
+16921,B,1,316,No,Desktop,Wales,0
+11775,A,14,247,No,Desktop,Wales,0
+11754,B,10,91,No,Desktop,Scotland,0
+15334,A,4,382,No,Mobile,Wales,0
+18030,A,9,247,No,Desktop,England,0
+18773,A,13,266,No,Desktop,England,0
+19346,B,1,429,No,Mobile,Wales,0
+10223,A,2,112,No,Mobile,Scotland,0
+16022,B,7,51,No,Desktop,Northern Ireland,0
+16010,B,14,282,No,Desktop,England,0
+13767,A,4,379,No,Mobile,England,0
+14495,B,6,110,No,Mobile,Wales,0
+10303,B,1,424,No,Mobile,Wales,0
+15928,A,1,240,No,Mobile,Northern Ireland,0
+19970,A,5,269,No,Mobile,Northern Ireland,0
+10841,A,9,428,No,Mobile,Scotland,0
+12264,A,11,208,No,Mobile,Northern Ireland,0
+16030,A,7,178,No,Desktop,Northern Ireland,0
+15864,B,8,184,No,Desktop,England,0
+19679,B,12,437,No,Desktop,Scotland,0
+19896,B,14,306,No,Mobile,Wales,0
+18867,A,10,433,Yes,Desktop,England,1
+12343,B,1,202,No,Mobile,Northern Ireland,0
+16393,A,4,59,No,Mobile,Northern Ireland,0
+13733,A,9,270,No,Mobile,Scotland,0
+10361,B,12,410,No,Mobile,Scotland,0
+10259,A,10,268,No,Mobile,Wales,0
+11627,A,8,421,No,Mobile,England,0
+15780,A,5,171,No,Mobile,Wales,0
+13972,A,8,177,No,Mobile,Scotland,0
+18261,B,14,145,No,Desktop,Wales,0
+19207,B,1,93,No,Desktop,England,0
+17150,A,7,52,No,Mobile,England,0
+19892,A,13,219,No,Mobile,Wales,0
+19925,B,4,48,No,Mobile,Northern Ireland,0
+11773,A,10,336,No,Mobile,Northern Ireland,0
+16873,B,2,424,No,Mobile,Northern Ireland,0
+12698,A,4,54,No,Mobile,Wales,0
+16489,B,3,199,Yes,Desktop,Northern Ireland,1
+13196,B,4,439,No,Desktop,Wales,0
+19851,B,9,251,No,Mobile,Wales,0
+13413,A,7,408,No,Mobile,Northern Ireland,0
+18254,A,7,200,No,Mobile,England,0
+10572,B,9,389,No,Mobile,Scotland,0
+17280,A,14,406,No,Desktop,England,0
+11811,B,2,333,No,Mobile,Northern Ireland,0
+14479,B,4,117,No,Mobile,Northern Ireland,0
+12390,A,7,274,No,Mobile,Wales,0
+15197,A,6,438,No,Mobile,Wales,0
+18314,B,14,58,No,Desktop,England,0
+17710,B,3,224,No,Desktop,Wales,0
+19061,A,6,146,No,Mobile,Northern Ireland,0
+17762,B,11,72,No,Mobile,Northern Ireland,0
+17038,B,1,365,No,Desktop,Scotland,0
+17134,B,7,343,No,Desktop,Scotland,0
+13926,B,12,73,No,Mobile,England,0
+13924,B,1,229,No,Desktop,Northern Ireland,0
+14025,A,12,447,No,Desktop,Wales,0
+16411,B,12,204,No,Desktop,Northern Ireland,0
+15919,B,12,91,Yes,Desktop,Scotland,1
+10763,A,1,426,No,Mobile,Scotland,0
+14063,A,2,277,No,Desktop,England,0
+10052,A,10,447,No,Desktop,Wales,0
+16734,B,4,57,No,Mobile,Wales,0
+19564,A,8,132,No,Mobile,Northern Ireland,0
+18602,A,3,117,No,Mobile,Scotland,0
+14727,B,3,439,Yes,Mobile,Scotland,1
+16485,A,11,284,No,Mobile,Wales,0
+19350,B,7,442,No,Desktop,Wales,0
+19193,B,4,59,No,Desktop,Northern Ireland,0
+16365,A,8,280,No,Mobile,Scotland,0
+11512,B,8,169,No,Desktop,Northern Ireland,0
+16373,A,2,344,Yes,Mobile,Wales,1
+11770,A,1,311,No,Desktop,England,0
+14674,B,12,213,No,Mobile,Scotland,0
+18005,B,13,119,No,Mobile,Scotland,0
+10025,B,9,136,No,Mobile,England,0
+17343,A,7,442,No,Mobile,Wales,0
+10085,A,11,213,No,Desktop,Scotland,0
+14546,B,8,216,No,Desktop,Scotland,0
+17192,A,6,371,No,Mobile,Wales,0
+12012,A,2,72,No,Desktop,Wales,0
+16413,B,6,110,No,Desktop,Wales,0
+19762,B,6,125,No,Desktop,England,0
+13960,A,10,388,No,Mobile,Scotland,0
+14604,B,10,309,No,Desktop,Scotland,0
+19932,A,13,41,No,Mobile,England,0
+10107,B,2,446,No,Mobile,Scotland,0
+16576,A,11,204,No,Desktop,Northern Ireland,0
+10829,B,1,155,No,Mobile,Northern Ireland,0
+13137,B,10,449,Yes,Desktop,Wales,1
+18438,B,12,274,Yes,Desktop,Northern Ireland,1
+14741,A,1,111,No,Mobile,Wales,0
+15491,B,9,76,No,Desktop,Scotland,0
+13873,A,13,444,No,Mobile,Scotland,0
+15910,B,7,174,No,Mobile,Wales,0
+14022,B,8,339,No,Mobile,England,0
+12064,B,12,422,No,Mobile,England,0
+19437,A,3,358,No,Desktop,Northern Ireland,0
+15221,B,8,366,No,Desktop,England,0
+10144,B,3,75,No,Desktop,Wales,0
+13818,A,5,417,No,Mobile,Wales,0
+16468,B,11,267,Yes,Mobile,Scotland,1
+19044,B,5,50,No,Mobile,England,0
+11781,A,2,238,No,Mobile,England,0
+18256,A,14,261,No,Desktop,Scotland,0
+14810,A,4,215,No,Mobile,Wales,0
+15201,A,7,168,No,Mobile,Northern Ireland,0
+18381,B,5,244,No,Desktop,Northern Ireland,0
+10992,A,2,333,No,Desktop,Scotland,0
+19699,B,7,369,No,Mobile,England,0
+14600,A,5,212,No,Desktop,Wales,0
+14908,B,14,275,No,Mobile,Scotland,0
+18727,A,14,218,No,Mobile,Scotland,0
+11052,B,3,191,No,Mobile,England,0
+15674,B,3,299,No,Desktop,Scotland,0
+18595,B,13,413,No,Mobile,Northern Ireland,0
+18967,B,6,344,No,Desktop,Scotland,0
+15532,B,4,239,No,Desktop,Wales,0
+18789,A,10,427,No,Mobile,Wales,0
+19047,A,9,319,No,Desktop,Northern Ireland,0
+13460,A,3,148,No,Desktop,Wales,0
+17329,A,11,180,No,Mobile,Northern Ireland,0
+11062,B,14,104,No,Mobile,Scotland,0
+15192,A,13,385,No,Mobile,Wales,0
+18152,A,3,47,No,Mobile,Wales,0
+12276,B,8,177,No,Mobile,Scotland,0
+17360,A,13,285,No,Desktop,Scotland,0
+12826,B,12,233,No,Desktop,Northern Ireland,0
+16716,B,9,45,Yes,Mobile,Wales,1
+19481,B,7,394,No,Desktop,Northern Ireland,0
+13151,B,3,109,No,Mobile,Wales,0
+13104,B,3,342,No,Desktop,Northern Ireland,0
+10964,B,4,446,No,Mobile,England,0
+18147,B,14,87,No,Desktop,England,0
+17096,A,12,219,No,Desktop,Wales,0
+16755,A,7,84,No,Mobile,Northern Ireland,0
+16271,B,14,427,No,Desktop,Northern Ireland,0
+11129,B,14,308,No,Desktop,Northern Ireland,0
+13132,B,5,120,No,Desktop,Scotland,0
+10276,B,12,339,No,Desktop,Northern Ireland,0
+15982,B,14,241,No,Mobile,Wales,0
+17646,A,7,40,No,Desktop,Northern Ireland,0
+11429,A,3,51,No,Mobile,Wales,0
+13305,A,4,175,No,Mobile,Wales,0
+14860,A,12,319,No,Desktop,Scotland,0
+11790,B,8,432,No,Mobile,Wales,0
+10954,A,9,349,No,Mobile,Northern Ireland,0
+14052,A,3,345,No,Mobile,England,0
+12439,A,10,277,No,Mobile,Northern Ireland,0
+11069,A,3,394,No,Mobile,Wales,0
+19818,A,7,437,No,Desktop,Wales,0
+18878,A,11,423,No,Desktop,Northern Ireland,0
+14667,B,12,404,No,Mobile,England,0
+18651,B,10,175,Yes,Desktop,Northern Ireland,1
+14650,A,7,240,No,Mobile,Scotland,0
+18120,A,8,438,No,Desktop,Wales,0
+16403,A,2,269,No,Desktop,England,0
+13150,A,3,90,No,Mobile,England,0
+15383,B,7,268,Yes,Desktop,Scotland,1
+19769,B,2,384,No,Mobile,Wales,0
+17153,B,10,99,No,Mobile,Northern Ireland,0
+19115,B,2,186,No,Desktop,England,0
+10183,A,10,329,No,Mobile,England,0
+11721,A,10,236,No,Desktop,Scotland,0
+17135,A,3,310,No,Mobile,England,0
+13796,A,9,223,No,Mobile,England,0
+12287,A,5,213,No,Desktop,England,0
+13316,A,9,46,No,Desktop,England,0
+10689,A,11,68,No,Mobile,Northern Ireland,0
+16141,B,3,256,No,Mobile,Wales,0
+15001,B,13,260,No,Mobile,Wales,0
+10181,A,14,413,No,Desktop,Scotland,0
+19570,B,4,414,Yes,Desktop,Wales,1
+13274,A,14,304,Yes,Desktop,Scotland,1
+12947,A,7,302,No,Mobile,Northern Ireland,0
+14281,A,2,264,No,Desktop,Northern Ireland,0
+15963,A,14,427,No,Mobile,Scotland,0
+13400,A,8,88,No,Mobile,England,0
+13321,A,2,395,No,Mobile,Northern Ireland,0
+18964,A,1,316,No,Mobile,England,0
+18819,A,9,288,No,Mobile,Northern Ireland,0
+16469,A,4,295,No,Desktop,England,0
+12723,A,10,236,No,Mobile,Wales,0
+10198,B,10,79,No,Desktop,England,0
+11845,B,5,368,No,Desktop,Scotland,0
+17717,B,12,194,No,Mobile,Northern Ireland,0
+11519,A,8,330,Yes,Desktop,Wales,1
+13394,A,11,227,No,Desktop,Scotland,0
+14268,B,3,336,No,Mobile,Scotland,0
+10325,A,11,114,No,Mobile,Northern Ireland,0
+15915,B,10,313,No,Desktop,England,0
+14275,A,6,364,No,Mobile,Wales,0
+13113,A,14,116,No,Mobile,Wales,0
+19484,A,11,94,No,Desktop,Northern Ireland,0
+10741,B,9,165,No,Desktop,Wales,0
+17449,B,13,340,No,Desktop,Wales,0
+15785,B,1,160,No,Mobile,Wales,0
+11349,A,11,333,No,Desktop,England,0
+14871,B,3,406,No,Mobile,Wales,0
+18638,B,1,267,No,Mobile,Northern Ireland,0
+15588,A,11,210,No,Desktop,Northern Ireland,0
+11176,B,8,112,No,Mobile,Wales,0
+12209,B,2,140,No,Desktop,Scotland,0
+16778,A,3,91,No,Mobile,Scotland,0
+11834,B,9,335,Yes,Desktop,England,1
+18095,A,1,389,No,Desktop,Scotland,0
+11852,B,5,420,No,Desktop,England,0
+11616,A,10,203,No,Desktop,Wales,0
+16196,B,13,73,No,Desktop,England,0
+16394,A,8,106,No,Desktop,Scotland,0
+14605,B,9,140,No,Mobile,Northern Ireland,0
+18795,A,14,273,No,Desktop,Scotland,0
+13592,A,2,50,No,Desktop,England,0
+16117,B,13,217,No,Desktop,Scotland,0
+14749,B,13,288,No,Desktop,England,0
+17847,A,1,153,No,Mobile,Wales,0
+10346,A,2,203,No,Desktop,Wales,0
+15395,A,13,83,No,Mobile,England,0
+18750,B,9,360,No,Desktop,Northern Ireland,0
+13999,A,7,320,No,Desktop,Northern Ireland,0
+18730,A,12,84,No,Desktop,Scotland,0
+11676,A,11,323,No,Mobile,Scotland,0
+16774,B,1,336,Yes,Desktop,Northern Ireland,1
+11291,B,14,300,No,Mobile,Wales,0
+19750,B,14,306,No,Mobile,Wales,0
+16758,A,2,109,No,Desktop,England,0
+17260,B,12,355,No,Mobile,England,0
+15777,B,2,43,No,Desktop,Scotland,0
+19828,B,14,61,No,Mobile,Scotland,0
+12045,B,11,184,No,Desktop,Wales,0
+17861,A,12,193,No,Desktop,Northern Ireland,0
+16300,B,10,121,No,Mobile,Wales,0
+17249,B,4,230,No,Mobile,Wales,0
+18599,A,7,166,No,Mobile,Scotland,0
+10058,A,1,84,No,Mobile,Scotland,0
+14307,B,6,358,No,Desktop,Northern Ireland,0
+12977,B,10,418,No,Mobile,Northern Ireland,0
+13652,B,14,175,No,Mobile,Northern Ireland,0
+11073,B,8,267,No,Desktop,Scotland,0
+18350,A,13,405,No,Mobile,England,0
+10958,B,14,415,No,Desktop,Northern Ireland,0
+17811,A,7,334,No,Mobile,Northern Ireland,0
+17520,B,2,61,No,Mobile,England,0
+18617,A,7,167,No,Desktop,Scotland,0
+14724,B,14,372,No,Desktop,Northern Ireland,0
+13131,B,6,359,No,Mobile,Northern Ireland,0
+19773,A,3,366,No,Mobile,England,0
+11055,B,4,55,No,Desktop,Northern Ireland,0
+18112,A,3,395,Yes,Desktop,England,1
+13386,B,5,179,No,Mobile,Northern Ireland,0
+15227,B,1,279,No,Desktop,Scotland,0
+13581,B,13,299,Yes,Desktop,England,1
+17373,A,10,43,No,Mobile,England,0
+13747,B,5,380,No,Mobile,Northern Ireland,0
+10047,A,1,288,No,Mobile,Scotland,0
+14377,B,5,397,No,Mobile,England,0
+15932,A,6,336,No,Mobile,Northern Ireland,0
+11420,B,4,259,No,Desktop,England,0
+12967,B,1,291,Yes,Mobile,England,1
+14007,A,10,48,No,Mobile,England,0
+15476,B,6,345,No,Mobile,England,0
+17492,A,10,44,No,Mobile,Scotland,0
+10138,B,14,398,No,Desktop,Scotland,0
+14348,A,4,173,No,Mobile,England,0
+12038,B,14,150,No,Desktop,Wales,0
+14010,B,4,384,Yes,Desktop,England,1
+11456,A,14,78,No,Desktop,Northern Ireland,0
+14571,A,9,297,No,Desktop,England,0
+15789,B,13,443,No,Mobile,England,0
+17788,B,1,302,Yes,Mobile,England,1
+18394,B,6,336,No,Mobile,England,0
+17273,B,9,74,No,Desktop,Scotland,0
+11347,A,5,250,No,Desktop,Scotland,0
+13234,A,7,357,No,Desktop,Scotland,0
+13273,B,8,376,No,Mobile,Scotland,0
+15428,B,4,203,No,Mobile,Scotland,0
+14124,B,14,260,No,Desktop,England,0
+11920,A,4,232,No,Mobile,England,0
+12809,A,11,135,No,Mobile,England,0
+13689,A,12,300,No,Desktop,England,0
+18811,A,4,148,No,Desktop,England,0
+11145,A,6,356,No,Desktop,Northern Ireland,0
+16204,B,2,329,No,Desktop,Scotland,0
+17875,A,7,95,No,Desktop,Northern Ireland,0
+18999,A,4,141,No,Desktop,Wales,0
+19867,B,10,208,No,Desktop,Scotland,0
+16079,B,9,362,Yes,Desktop,Wales,1
+15377,B,7,238,No,Desktop,England,0
+19863,A,9,242,No,Mobile,Scotland,0
+10526,B,5,421,No,Desktop,Scotland,0
+15874,B,1,394,No,Mobile,England,0
+12289,B,9,236,Yes,Desktop,England,1
+14295,A,1,395,No,Desktop,Wales,0
+19405,A,3,439,No,Desktop,Scotland,0
+14438,A,1,233,No,Mobile,Wales,0
+13199,A,14,232,No,Mobile,Wales,0
+12528,A,2,285,No,Desktop,England,0
+16451,A,6,319,No,Mobile,England,0
+15358,A,13,299,No,Desktop,Wales,0
+19678,B,11,219,Yes,Mobile,Wales,1
+19725,A,2,202,No,Mobile,Wales,0
+11509,A,7,207,No,Mobile,Northern Ireland,0
+10175,B,11,181,No,Desktop,Scotland,0
+18148,B,10,69,No,Desktop,Wales,0
+18905,A,13,133,No,Mobile,Scotland,0
+19227,B,3,245,No,Desktop,Scotland,0
+13580,B,10,376,No,Desktop,Scotland,0
+16723,B,12,151,No,Desktop,England,0
+14992,B,6,250,No,Mobile,Northern Ireland,0
+18976,A,11,145,No,Mobile,Scotland,0
+19827,A,14,289,No,Mobile,Wales,0
+18747,A,12,413,No,Mobile,England,0
+18947,A,8,85,No,Mobile,England,0
+18375,B,6,412,No,Desktop,Northern Ireland,0
+12203,B,3,190,No,Mobile,Scotland,0
+17012,B,9,313,Yes,Desktop,England,1
+13830,A,10,404,No,Desktop,Northern Ireland,0
+18600,A,13,432,No,Desktop,Wales,0
+19358,A,7,115,No,Mobile,Northern Ireland,0
+16801,A,13,253,No,Desktop,England,0
+15156,A,13,417,No,Mobile,Wales,0
+11042,B,8,257,No,Desktop,Northern Ireland,0
+16334,A,13,163,No,Desktop,Wales,0
+10370,B,2,86,No,Desktop,Scotland,0
+11226,A,1,53,No,Desktop,Scotland,0
+18486,B,10,355,No,Desktop,Scotland,0
+12604,B,9,187,No,Desktop,Northern Ireland,0
+19389,B,14,109,No,Mobile,Northern Ireland,0
+14111,B,7,343,No,Mobile,Northern Ireland,0
+13378,A,1,113,No,Desktop,Scotland,0
+13988,A,2,423,No,Desktop,Scotland,0
+13904,A,11,68,No,Mobile,Scotland,0
+13539,A,10,266,No,Desktop,England,0
+14907,A,13,95,No,Mobile,Northern Ireland,0
+13408,A,10,195,No,Mobile,Northern Ireland,0
+13550,B,1,385,No,Desktop,Wales,0
+10485,A,7,176,No,Mobile,England,0
+11629,B,11,426,No,Desktop,England,0
+18142,A,11,418,No,Mobile,England,0
+13623,B,12,79,No,Desktop,Wales,0
+12214,A,1,199,No,Mobile,Northern Ireland,0
+10349,B,2,447,No,Desktop,Scotland,0
+18411,B,11,239,No,Mobile,Wales,0
+19397,B,5,445,No,Desktop,Northern Ireland,0
+17043,A,7,171,No,Mobile,Northern Ireland,0
+18479,A,10,135,No,Mobile,England,0
+19363,B,6,52,No,Desktop,Northern Ireland,0
+13459,A,10,103,No,Mobile,Northern Ireland,0
+11161,A,1,383,No,Desktop,Scotland,0
+18924,B,3,124,No,Mobile,England,0
+17956,B,2,383,No,Mobile,Wales,0
+19501,A,6,101,No,Desktop,Scotland,0
+15275,B,2,49,No,Mobile,Wales,0
+10185,A,13,170,Yes,Mobile,England,1
+17241,B,2,442,No,Mobile,Northern Ireland,0
+15531,B,10,319,No,Desktop,Northern Ireland,0
+19123,B,6,294,No,Mobile,England,0
+15249,A,6,150,No,Mobile,Scotland,0
+10619,B,4,124,No,Desktop,England,0
+10529,B,6,316,No,Mobile,Wales,0
+19709,A,14,165,No,Desktop,Wales,0
+13201,A,11,77,No,Mobile,Northern Ireland,0
+15346,A,13,51,No,Desktop,England,0
+12648,A,4,434,No,Desktop,Northern Ireland,0
+12393,A,12,301,No,Mobile,Scotland,0
+19011,A,2,246,No,Desktop,Wales,0
+18236,B,10,169,No,Desktop,Scotland,0
+14796,B,9,419,No,Mobile,Northern Ireland,0
+15581,B,14,190,No,Desktop,England,0
+16290,A,8,225,No,Mobile,Scotland,0
+13778,A,4,167,No,Mobile,Scotland,0
+15490,B,11,344,No,Desktop,Wales,0
+16064,B,2,99,No,Desktop,Scotland,0
+19541,B,1,417,No,Desktop,England,0
+13989,A,6,417,Yes,Mobile,England,1
+12441,A,12,336,No,Mobile,Scotland,0
+17636,B,10,305,No,Mobile,England,0
+15753,A,7,298,No,Mobile,England,0
+19833,B,10,266,No,Desktop,Scotland,0
+12020,B,3,116,Yes,Desktop,Scotland,1
+16772,A,6,100,No,Desktop,Northern Ireland,0
+14633,B,8,330,No,Desktop,Scotland,0
+10639,B,1,349,No,Desktop,Wales,0
+10712,B,10,81,Yes,Mobile,Wales,1
+15206,A,1,193,No,Desktop,Northern Ireland,0
+11712,B,11,381,No,Mobile,England,0
+11511,B,4,121,Yes,Desktop,Northern Ireland,1
+11109,B,8,216,No,Mobile,Northern Ireland,0
+19392,B,14,271,No,Desktop,Northern Ireland,0
+14018,A,5,383,No,Desktop,Northern Ireland,0
+13956,A,3,113,No,Desktop,Northern Ireland,0
+12014,A,13,365,No,Mobile,Scotland,0
+16287,A,1,46,No,Desktop,Northern Ireland,0
+11802,A,13,391,No,Desktop,England,0
+17639,B,1,200,No,Desktop,Northern Ireland,0
+18252,B,13,280,No,Desktop,Scotland,0
+13882,A,14,300,Yes,Desktop,England,1
+19839,B,14,394,No,Mobile,Northern Ireland,0
+11862,B,11,105,No,Desktop,Northern Ireland,0
+11228,B,10,436,No,Desktop,England,0
+13322,B,7,339,No,Mobile,Wales,0
+10258,B,2,209,No,Mobile,England,0
+11645,B,5,80,No,Mobile,Northern Ireland,0
+16114,B,10,103,No,Mobile,Scotland,0
+10750,A,5,398,No,Mobile,Northern Ireland,0
+13698,A,9,213,No,Mobile,England,0
+12503,B,4,267,No,Desktop,Wales,0
+15336,A,2,155,No,Mobile,Northern Ireland,0
+12270,A,8,301,No,Mobile,Wales,0
+16976,A,7,51,No,Desktop,Northern Ireland,0
+16533,B,4,143,No,Mobile,England,0
+14828,A,1,75,No,Desktop,Wales,0
+14542,A,14,384,No,Mobile,England,0
+10238,A,5,125,No,Mobile,Wales,0
+19681,B,4,138,No,Desktop,Wales,0
+13028,A,6,63,No,Desktop,Scotland,0
+12791,B,11,312,No,Mobile,England,0
+15575,B,9,121,No,Mobile,Wales,0
+10584,A,2,302,No,Desktop,Northern Ireland,0
+17738,A,9,260,No,Mobile,Scotland,0
+13258,B,4,152,No,Desktop,Wales,0
+19796,B,7,424,Yes,Mobile,Scotland,1
+15661,A,7,301,No,Mobile,England,0
+11596,A,12,379,No,Desktop,Northern Ireland,0
+17240,A,10,293,No,Mobile,Northern Ireland,0
+18122,B,4,383,No,Mobile,Northern Ireland,0
+17843,B,12,122,No,Mobile,Northern Ireland,0
+15209,B,6,422,No,Mobile,Scotland,0
+15043,B,13,377,No,Desktop,Northern Ireland,0
+13294,A,4,148,No,Desktop,Northern Ireland,0
+11078,B,11,130,No,Desktop,Northern Ireland,0
+15139,A,11,186,No,Mobile,England,0
+11587,A,5,190,No,Mobile,England,0
+16996,B,6,256,No,Desktop,Northern Ireland,0
+18414,B,10,196,Yes,Desktop,Scotland,1
+12583,A,3,61,No,Mobile,Wales,0
+19929,A,2,164,No,Desktop,England,0
+19948,B,12,423,No,Mobile,England,0
+17481,B,7,90,No,Mobile,England,0
+19922,A,7,249,No,Mobile,England,0
+17687,A,9,155,No,Desktop,Scotland,0
+17044,A,1,49,No,Desktop,Wales,0
+18283,B,8,143,Yes,Mobile,Northern Ireland,1
+11103,A,11,377,No,Mobile,Northern Ireland,0
+19639,B,6,156,No,Mobile,Northern Ireland,0
+18972,B,11,285,No,Mobile,England,0
+14708,B,3,276,No,Mobile,England,0
+12212,A,2,188,No,Desktop,Wales,0
+11940,B,6,137,No,Mobile,Scotland,0
+14270,B,8,169,No,Desktop,Scotland,0
+19258,B,3,254,No,Mobile,Scotland,0
+13329,B,3,250,No,Desktop,England,0
+12055,A,4,170,No,Desktop,Wales,0
+13500,A,5,322,No,Desktop,England,0
+16878,B,2,95,No,Mobile,Northern Ireland,0
+13146,A,13,163,No,Desktop,Northern Ireland,0
+15645,B,7,245,Yes,Desktop,Northern Ireland,1
+11526,A,1,87,No,Mobile,Scotland,0
+15270,A,2,391,No,Desktop,Wales,0
+15843,A,12,348,No,Mobile,Scotland,0
+12738,B,10,159,No,Desktop,Northern Ireland,0
+10587,A,11,308,No,Desktop,Wales,0
+19804,A,2,61,No,Mobile,Northern Ireland,0
+19005,B,6,382,No,Desktop,Scotland,0
+15667,A,5,446,No,Desktop,Wales,0
+16983,A,3,213,No,Desktop,Scotland,0
+17621,A,14,186,No,Desktop,Northern Ireland,0
+10467,B,4,324,No,Desktop,Wales,0
+14116,B,9,140,No,Desktop,Scotland,0
+12718,A,8,422,No,Desktop,Northern Ireland,0
+14516,B,3,136,No,Mobile,England,0
+17669,B,9,359,No,Desktop,Wales,0
+11574,B,14,49,No,Desktop,Wales,0
+11058,B,4,287,No,Desktop,Northern Ireland,0
+11026,B,14,449,Yes,Mobile,Wales,1
+14591,B,12,54,No,Mobile,Northern Ireland,0
+10782,A,9,327,No,Mobile,England,0
+16293,A,5,285,No,Mobile,Scotland,0
+13409,A,7,147,No,Desktop,Scotland,0
+15602,A,2,440,No,Mobile,Wales,0
+19618,A,14,70,No,Mobile,England,0
+17285,A,8,435,No,Mobile,Scotland,0
+13061,B,8,408,No,Mobile,Scotland,0
+13080,A,12,297,No,Desktop,Northern Ireland,0
+15015,A,1,325,No,Mobile,Northern Ireland,0
+15539,B,8,433,No,Desktop,England,0
+16171,A,8,191,No,Mobile,Northern Ireland,0
+12402,A,2,435,No,Desktop,Wales,0
+16085,A,8,298,No,Desktop,Wales,0
+19471,A,3,304,No,Mobile,Wales,0
+10633,A,1,50,No,Mobile,Scotland,0
+11825,A,13,423,No,Desktop,England,0
+14974,A,13,292,No,Mobile,Northern Ireland,0
+10539,B,1,442,No,Mobile,England,0
+10451,A,4,261,No,Mobile,Wales,0
+10322,A,2,155,No,Desktop,Scotland,0
+11544,B,10,417,No,Desktop,Scotland,0
+13434,A,8,115,No,Desktop,Wales,0
+16291,A,8,304,No,Desktop,Wales,0
+11208,B,5,164,No,Desktop,Northern Ireland,0
+15024,B,10,318,Yes,Desktop,Scotland,1
+17395,A,7,80,No,Desktop,Northern Ireland,0
+16829,A,12,273,No,Desktop,Wales,0
+15737,B,12,181,No,Desktop,Northern Ireland,0
+10101,B,1,139,No,Desktop,Wales,0
+10738,A,1,326,No,Mobile,Scotland,0
+17433,A,2,379,No,Mobile,Wales,0
+11935,B,11,73,No,Mobile,Northern Ireland,0
+14887,A,4,82,No,Desktop,Wales,0
+17546,A,1,236,No,Mobile,England,0
+15140,B,8,420,Yes,Desktop,England,1
+12058,A,1,159,No,Desktop,England,0
+14804,B,2,276,No,Mobile,Wales,0
+12959,A,11,318,No,Desktop,England,0
+11324,A,7,406,No,Mobile,Scotland,0
+12128,B,8,105,No,Desktop,Scotland,0
+19249,B,4,268,No,Desktop,Wales,0
+17164,A,14,57,No,Desktop,Wales,0
+17377,A,11,222,No,Mobile,Northern Ireland,0
+15460,B,3,79,No,Desktop,Scotland,0
+14819,A,12,148,No,Mobile,Scotland,0
+11665,B,10,368,No,Desktop,England,0
+18891,B,10,255,No,Mobile,England,0
+11672,B,14,334,No,Mobile,Scotland,0
+15699,B,9,204,No,Desktop,Scotland,0
+17870,A,6,128,No,Mobile,Scotland,0
+10358,B,7,234,No,Mobile,Wales,0
+12596,B,9,73,No,Mobile,England,0
+12363,B,1,292,No,Mobile,Northern Ireland,0
+12318,B,2,93,No,Mobile,Scotland,0
+14338,B,12,176,No,Mobile,Wales,0
+18207,B,8,68,No,Desktop,England,0
+10597,B,2,405,No,Desktop,Wales,0
+12651,B,10,194,No,Mobile,England,0
+12433,A,13,60,No,Mobile,Scotland,0
+18099,A,14,388,No,Mobile,Scotland,0
+16066,B,3,313,No,Desktop,England,0
+16131,B,6,353,Yes,Desktop,Scotland,1
+11726,A,4,65,No,Mobile,Northern Ireland,0
+12778,A,6,146,No,Mobile,Northern Ireland,0
+12344,A,13,383,No,Mobile,Scotland,0
+16528,B,11,182,No,Desktop,Scotland,0
+16750,A,1,137,No,Mobile,Scotland,0
+11757,A,6,116,No,Desktop,Northern Ireland,0
+16739,B,6,50,No,Mobile,Northern Ireland,0
+16137,B,9,68,No,Desktop,England,0
+12428,B,13,248,No,Mobile,Wales,0
+12486,A,6,140,No,Mobile,Wales,0
+11749,B,5,65,No,Mobile,Scotland,0
+18756,B,2,120,Yes,Mobile,England,1
+10735,B,12,80,No,Mobile,Scotland,0
+12076,B,14,112,No,Desktop,Scotland,0
+14993,B,14,360,No,Mobile,Wales,0
+15800,A,12,154,No,Mobile,England,0
+14037,B,1,312,No,Mobile,Northern Ireland,0
+14596,B,3,392,No,Mobile,England,0
+14009,A,8,128,Yes,Desktop,Wales,1
+10624,B,8,151,No,Desktop,Wales,0
+15494,A,14,260,No,Desktop,Scotland,0
+17900,B,10,321,Yes,Mobile,Wales,1
+18216,B,12,210,No,Mobile,Northern Ireland,0
+13376,B,11,136,No,Mobile,Scotland,0
+10089,B,7,433,No,Mobile,Scotland,0
+10975,B,2,105,No,Desktop,England,0
+11035,B,6,147,No,Desktop,Scotland,0
+19326,B,11,54,No,Mobile,Wales,0
+19716,A,10,98,No,Desktop,Northern Ireland,0
+10609,A,1,255,No,Mobile,Scotland,0
+15515,B,1,437,No,Mobile,Northern Ireland,0
+10717,B,10,394,No,Desktop,Scotland,0
+10011,A,6,183,No,Desktop,Wales,0
+12496,B,12,311,No,Desktop,Northern Ireland,0
+18958,B,10,153,No,Mobile,Wales,0
+13875,B,1,59,Yes,Mobile,Scotland,1
+13894,B,7,149,No,Mobile,England,0
+11294,B,2,404,No,Mobile,England,0
+12349,B,13,274,No,Mobile,Northern Ireland,0
+13966,A,10,332,No,Mobile,Northern Ireland,0
+12513,A,8,367,No,Desktop,Northern Ireland,0
+19890,B,9,77,No,Desktop,Northern Ireland,0
+14209,B,13,234,No,Desktop,Northern Ireland,0
+10826,B,4,220,No,Mobile,Scotland,0
+12757,B,7,356,Yes,Mobile,England,1
+16324,B,3,94,No,Desktop,Wales,0
+18018,B,7,426,No,Desktop,Northern Ireland,0
+16044,B,12,427,No,Desktop,Wales,0
+17559,A,10,377,No,Mobile,Wales,0
+11162,A,11,387,No,Mobile,Wales,0
+18006,A,1,248,No,Mobile,Northern Ireland,0
+12630,B,11,349,No,Desktop,England,0
+15475,A,7,164,No,Mobile,England,0
+19463,B,10,331,No,Mobile,Wales,0
+18687,A,6,215,No,Mobile,Northern Ireland,0
+19377,A,12,158,No,Mobile,Wales,0
+11769,B,11,225,No,Mobile,England,0
+11044,A,1,431,No,Mobile,England,0
+11502,B,13,285,Yes,Mobile,Wales,1
+12673,A,2,121,No,Desktop,Scotland,0
+19179,B,12,217,No,Mobile,Scotland,0
+10552,B,8,148,No,Desktop,England,0
+14238,A,8,45,No,Desktop,Wales,0
+15609,A,6,393,No,Mobile,Scotland,0
+19235,A,4,128,No,Mobile,England,0
+19701,A,5,128,No,Mobile,Scotland,0
+15342,A,9,291,No,Desktop,Northern Ireland,0
+17504,A,10,429,No,Mobile,Scotland,0
+12906,B,6,69,No,Desktop,England,0
+14815,B,6,232,Yes,Mobile,Northern Ireland,1
+14539,A,14,158,Yes,Mobile,Northern Ireland,1
+15083,A,4,226,No,Mobile,Northern Ireland,0
+16821,B,13,88,No,Mobile,Wales,0
+10464,B,12,341,No,Mobile,Scotland,0
+10818,B,8,338,No,Desktop,Northern Ireland,0
+16737,B,2,423,No,Mobile,Scotland,0
+18262,A,11,234,No,Desktop,Scotland,0
+14400,A,1,178,No,Mobile,Wales,0
+17703,B,6,106,No,Desktop,Wales,0
+13267,B,7,42,No,Mobile,England,0
+11140,A,12,186,No,Mobile,Wales,0
+10282,B,7,300,No,Desktop,Northern Ireland,0
+13836,A,9,435,No,Mobile,Scotland,0
+10153,A,14,256,No,Desktop,England,0
+12868,B,2,243,No,Mobile,Wales,0
+11714,A,2,61,No,Mobile,Scotland,0
+15517,B,11,366,Yes,Mobile,Wales,1
+16026,A,10,254,No,Mobile,Scotland,0
+10884,A,6,92,No,Mobile,Northern Ireland,0
+14728,B,8,367,No,Desktop,Northern Ireland,0
+12151,A,11,423,No,Desktop,Scotland,0
+19210,A,6,190,No,Mobile,England,0
+15244,A,9,137,No,Desktop,Northern Ireland,0
+11998,A,10,138,No,Mobile,Scotland,0
+10237,B,13,421,Yes,Desktop,England,1
+16130,A,7,327,No,Desktop,England,0
+18027,B,10,155,No,Desktop,Scotland,0
+18567,B,11,163,No,Desktop,Scotland,0
+18353,A,2,407,No,Mobile,Northern Ireland,0
+17922,A,1,121,No,Desktop,England,0
+15280,B,9,197,No,Mobile,Scotland,0
+15846,A,10,110,No,Mobile,Wales,0
+18735,B,3,166,No,Mobile,England,0
+14093,A,4,441,No,Desktop,Northern Ireland,0
+18146,B,12,152,Yes,Mobile,England,1
+18804,B,7,344,No,Desktop,Northern Ireland,0
+13093,B,6,431,No,Desktop,Northern Ireland,0
+13462,B,3,258,No,Desktop,England,0
+12756,B,4,94,No,Desktop,Wales,0
+19427,B,6,348,No,Desktop,Wales,0
+19156,B,12,218,No,Desktop,Scotland,0
+10886,B,6,80,No,Mobile,England,0
+10946,B,13,367,No,Desktop,Wales,0
+18932,A,7,77,No,Desktop,England,0
+15482,A,8,136,No,Mobile,Scotland,0
+13168,A,5,179,No,Mobile,Northern Ireland,0
+14759,B,7,56,No,Desktop,Northern Ireland,0
+14854,B,6,365,No,Mobile,Northern Ireland,0
+18644,A,9,63,No,Mobile,England,0
+12011,B,10,57,No,Desktop,England,0
+18519,A,3,91,Yes,Mobile,Wales,1
+17405,A,10,84,No,Mobile,Scotland,0
+10650,B,1,166,No,Desktop,Wales,0
+19775,B,8,370,No,Mobile,Northern Ireland,0
+17427,B,4,64,No,Mobile,Northern Ireland,0
+12573,A,2,424,No,Desktop,Wales,0
+18970,B,12,381,No,Mobile,Scotland,0
+14661,A,3,178,No,Desktop,England,0
+17566,A,6,388,No,Desktop,Wales,0
+14230,A,3,109,No,Mobile,England,0
+19419,B,2,442,No,Mobile,Northern Ireland,0
+10773,B,2,414,No,Mobile,Northern Ireland,0
+11225,B,2,82,Yes,Mobile,Wales,1
+12633,A,13,379,No,Mobile,Scotland,0
+11903,B,4,202,Yes,Desktop,England,1
+12328,A,2,170,No,Mobile,Northern Ireland,0
+14879,B,12,329,No,Desktop,England,0
+10372,A,12,364,No,Desktop,England,0
+18671,A,2,116,No,Desktop,Northern Ireland,0
+16423,A,7,64,No,Mobile,Northern Ireland,0
+19973,A,11,358,No,Desktop,England,0
+16515,B,1,425,No,Mobile,England,0
+14188,A,9,312,No,Mobile,Scotland,0
+18830,A,6,124,No,Mobile,Northern Ireland,0
+12288,A,13,414,No,Desktop,Northern Ireland,0
+12525,B,6,262,No,Desktop,Scotland,0
+15900,A,5,327,No,Desktop,Northern Ireland,0
+13240,A,12,63,No,Desktop,Northern Ireland,0
+10048,A,4,343,No,Desktop,Scotland,0
+19770,A,2,418,No,Mobile,Scotland,0
+16807,A,12,309,No,Mobile,Scotland,0
+10357,B,4,222,No,Mobile,Scotland,0
+15288,B,7,83,No,Desktop,Scotland,0
+15484,A,8,83,Yes,Mobile,Scotland,1
+18056,B,13,420,No,Mobile,Scotland,0
+16892,B,13,248,No,Desktop,England,0
+15182,B,4,83,No,Desktop,Northern Ireland,0
+17362,A,5,172,No,Desktop,Scotland,0
+15105,B,1,335,No,Mobile,England,0
+18634,A,4,76,No,Mobile,Scotland,0
+19537,A,3,231,No,Desktop,Wales,0
+18610,B,7,98,No,Desktop,Scotland,0
+10452,A,14,165,No,Mobile,Northern Ireland,0
+19980,A,4,290,No,Desktop,England,0
+18799,B,12,238,No,Desktop,Northern Ireland,0
+17609,B,12,132,No,Desktop,Scotland,0
+19683,A,12,75,No,Mobile,Northern Ireland,0
+10289,B,1,275,No,Mobile,Northern Ireland,0
+16978,B,6,264,No,Desktop,England,0
+10212,B,2,381,No,Mobile,England,0
+17578,B,12,408,Yes,Desktop,Wales,1
+19885,A,14,448,No,Mobile,Scotland,0
+17633,B,5,55,No,Desktop,Wales,0
+10854,B,12,110,No,Desktop,England,0
+12629,A,4,95,No,Desktop,Wales,0
+10001,A,2,214,No,Mobile,Northern Ireland,0
+10502,A,1,187,No,Desktop,Northern Ireland,0
+15454,B,14,228,No,Desktop,Wales,0
+15793,B,9,375,No,Desktop,England,0
+13498,B,6,266,No,Mobile,Wales,0
+13247,B,2,147,No,Desktop,Wales,0
+11389,A,1,228,No,Desktop,Northern Ireland,0
+12451,B,14,188,No,Desktop,Scotland,0
+19832,B,6,444,No,Mobile,England,0
+15109,B,11,67,No,Mobile,Northern Ireland,0
+16914,B,2,128,No,Desktop,Wales,0
+11833,B,5,187,No,Desktop,Northern Ireland,0
+19898,A,11,215,No,Desktop,Northern Ireland,0
+19073,B,8,314,Yes,Desktop,Scotland,1
+15976,A,9,386,No,Desktop,Wales,0
+12467,A,10,434,No,Mobile,Northern Ireland,0
+18685,A,3,442,Yes,Mobile,Northern Ireland,1
+15901,B,10,96,Yes,Mobile,Wales,1
+15504,A,7,109,No,Mobile,Wales,0
+10207,A,9,365,No,Desktop,England,0
+17465,A,11,166,No,Desktop,Scotland,0
+15488,A,12,378,No,Desktop,Northern Ireland,0
+11591,B,3,146,No,Desktop,Northern Ireland,0
+15086,A,12,236,No,Mobile,Scotland,0
+10562,B,10,303,No,Mobile,Northern Ireland,0
+13220,B,7,308,No,Desktop,Northern Ireland,0
+13792,B,14,315,No,Desktop,Northern Ireland,0
+10197,A,14,300,No,Desktop,Wales,0
+13585,B,9,44,No,Desktop,Northern Ireland,0
+18884,A,7,333,No,Desktop,Scotland,0
+18544,B,10,317,No,Desktop,Wales,0
+17301,A,1,379,No,Desktop,Wales,0
+10591,B,5,67,No,Mobile,England,0
+14314,A,11,105,No,Desktop,Scotland,0
+17747,A,14,179,No,Mobile,Wales,0
+19336,A,12,225,No,Mobile,Scotland,0
+17253,B,9,253,No,Mobile,Northern Ireland,0
+10254,A,9,181,No,Mobile,Scotland,0
+13554,B,14,78,Yes,Mobile,England,1
+15655,A,10,262,No,Mobile,England,0
+18157,A,13,124,No,Mobile,Wales,0
+15691,A,2,222,No,Desktop,England,0
+16847,A,2,207,No,Mobile,England,0
+15106,B,13,135,No,Mobile,Northern Ireland,0
+13832,B,6,115,No,Desktop,Wales,0
+19544,B,11,147,Yes,Mobile,Northern Ireland,1
+13968,A,9,69,No,Mobile,Scotland,0
+10947,B,5,302,No,Desktop,England,0
+18418,A,3,45,No,Desktop,Scotland,0
+12164,B,4,285,No,Desktop,Wales,0
+11450,A,12,303,No,Mobile,Wales,0
+12050,A,3,93,No,Desktop,Northern Ireland,0
+19108,A,7,121,No,Desktop,Wales,0
+16051,A,7,134,No,Mobile,Scotland,0
+15514,B,13,289,No,Desktop,Northern Ireland,0
+17424,B,8,88,No,Mobile,Wales,0
+15085,B,8,157,Yes,Desktop,Scotland,1
+13983,A,1,396,No,Mobile,Scotland,0
+11551,A,11,372,Yes,Mobile,Northern Ireland,1
+14512,A,2,401,No,Desktop,Northern Ireland,0
+16132,A,13,303,No,Mobile,Scotland,0
+15633,A,4,319,No,Mobile,England,0
+11748,B,10,118,Yes,Desktop,Wales,1
+14734,A,10,103,No,Desktop,Northern Ireland,0
+17767,A,2,170,No,Desktop,England,0
+16603,A,11,176,No,Desktop,Scotland,0
+15608,B,3,357,No,Mobile,England,0
+16263,A,2,307,No,Mobile,Scotland,0
+15469,B,13,213,No,Mobile,Northern Ireland,0
+16961,A,6,89,No,Desktop,Scotland,0
+16733,B,12,240,No,Mobile,Wales,0
+14267,A,9,292,Yes,Mobile,England,1
+15616,A,4,199,No,Mobile,England,0
+15262,A,2,368,No,Desktop,Scotland,0
+10629,B,14,181,No,Desktop,Northern Ireland,0
+17370,B,5,47,No,Desktop,Northern Ireland,0
+14668,B,13,104,Yes,Desktop,Wales,1
+10560,B,3,78,Yes,Mobile,Scotland,1
+12955,B,11,151,No,Mobile,Wales,0
+18434,B,3,164,No,Desktop,Scotland,0
+12057,B,10,92,No,Mobile,Northern Ireland,0
+13353,A,7,251,No,Desktop,England,0
+13309,A,13,59,No,Desktop,England,0
+18164,A,11,305,No,Mobile,Northern Ireland,0
+12795,B,14,130,No,Desktop,England,0
+10676,A,13,414,Yes,Desktop,England,1
+19637,B,13,422,No,Desktop,England,0
+19480,B,9,143,No,Desktop,Scotland,0
+16281,A,4,236,No,Desktop,England,0
+10249,B,9,139,No,Mobile,England,0
+12571,B,9,345,No,Mobile,England,0
+15631,A,5,120,No,Desktop,Northern Ireland,0
+14704,A,11,437,No,Mobile,Scotland,0
+14771,A,6,70,No,Desktop,Northern Ireland,0
+12417,B,14,122,No,Mobile,Wales,0
+17632,A,11,114,No,Desktop,Scotland,0
+17324,B,12,187,No,Desktop,England,0
+19046,A,7,72,No,Mobile,England,0
+11243,A,12,352,No,Desktop,Scotland,0
+15802,B,5,156,No,Desktop,Scotland,0
+15339,A,7,433,No,Mobile,Scotland,0
+11597,B,7,156,Yes,Desktop,England,1
+16122,A,3,40,No,Desktop,Wales,0
+19585,B,13,354,No,Mobile,Wales,0
+14531,B,3,234,No,Mobile,England,0
+10262,B,5,337,No,Mobile,England,0
+17214,A,1,55,No,Mobile,Northern Ireland,0
+12459,B,2,323,No,Mobile,Northern Ireland,0
+10647,A,6,246,No,Mobile,Northern Ireland,0
+16803,B,13,217,Yes,Desktop,Wales,1
+17051,A,11,50,No,Mobile,Scotland,0
+18258,A,1,288,No,Desktop,Northern Ireland,0
+15805,A,3,173,No,Desktop,Scotland,0
+12867,A,12,195,No,Mobile,Wales,0
+15131,A,6,119,No,Mobile,Northern Ireland,0
+16612,B,10,447,No,Mobile,Wales,0
+14937,B,9,59,No,Desktop,Wales,0
+15034,A,2,369,No,Desktop,Wales,0
+15107,A,3,166,No,Mobile,Wales,0
+18293,B,1,52,No,Mobile,Scotland,0
+17062,B,6,85,Yes,Mobile,Wales,1
+10752,A,9,111,No,Mobile,Scotland,0
+18456,A,5,303,Yes,Desktop,England,1
+11392,B,14,360,No,Desktop,Scotland,0
+13139,A,10,185,No,Desktop,Scotland,0
+16552,A,2,374,No,Mobile,Wales,0
+10316,B,11,156,No,Mobile,Wales,0
+13618,A,10,179,No,Desktop,England,0
+19813,A,3,328,No,Mobile,England,0
+16860,B,8,279,No,Mobile,Scotland,0
+18693,B,6,277,No,Mobile,Scotland,0
+11108,A,6,405,No,Desktop,Northern Ireland,0
+12003,B,4,78,Yes,Mobile,Scotland,1
+19403,A,12,447,No,Desktop,England,0
+12103,A,11,137,No,Mobile,Scotland,0
+17049,B,2,71,No,Mobile,Northern Ireland,0
+17452,A,14,225,No,Mobile,Northern Ireland,0
+17755,B,14,318,No,Mobile,Wales,0
+11663,A,7,137,No,Desktop,Northern Ireland,0
+13949,B,2,258,No,Desktop,England,0
+10177,B,2,359,No,Desktop,Northern Ireland,0
+14455,A,13,266,No,Mobile,Scotland,0
+11217,B,9,289,No,Desktop,Scotland,0
+17485,A,2,100,No,Desktop,Northern Ireland,0
+15356,A,14,197,No,Desktop,Wales,0
+12804,B,3,428,No,Desktop,Wales,0
+14041,B,5,404,Yes,Desktop,England,1
+15256,B,9,234,No,Desktop,England,0
+19393,A,5,142,No,Mobile,Wales,0
+10073,A,10,85,No,Mobile,Scotland,0
+15964,B,6,298,No,Desktop,Northern Ireland,0
+14110,B,2,110,Yes,Mobile,Wales,1
+15877,B,5,198,Yes,Desktop,Scotland,1
+10865,A,11,378,No,Desktop,Northern Ireland,0
+11594,B,8,47,No,Desktop,Northern Ireland,0
+10453,A,4,170,No,Mobile,Wales,0
+15897,B,10,239,No,Desktop,England,0
+12200,B,8,411,Yes,Desktop,England,1
+19626,B,5,274,No,Desktop,Scotland,0
+13758,A,12,81,No,Desktop,Scotland,0
+14106,B,4,218,Yes,Mobile,England,1
+12720,A,13,243,No,Desktop,Scotland,0
+18368,B,10,399,No,Mobile,Scotland,0
+10266,A,7,346,No,Mobile,Northern Ireland,0
+13510,A,14,162,No,Mobile,England,0
+12040,B,12,101,No,Desktop,Northern Ireland,0
+10122,A,10,61,No,Mobile,England,0
+10090,B,9,401,No,Desktop,Scotland,0
+13344,B,6,351,No,Mobile,Wales,0
+11577,A,1,114,No,Mobile,Scotland,0
+14924,A,2,47,No,Mobile,England,0
+19808,B,4,317,No,Mobile,England,0
+18102,A,9,365,No,Desktop,Northern Ireland,0
+16849,A,5,61,No,Mobile,Wales,0
+19175,A,6,261,Yes,Mobile,Wales,1
+11476,B,10,293,No,Desktop,Northern Ireland,0
+16666,A,4,410,No,Desktop,England,0
+11472,A,9,63,No,Desktop,Wales,0
+12123,A,8,434,No,Desktop,Northern Ireland,0
+18910,B,1,156,No,Desktop,Wales,0
+10583,B,6,394,No,Mobile,England,0
+16217,B,13,61,No,Desktop,Northern Ireland,0
+19368,A,12,167,No,Desktop,Scotland,0
+17645,A,3,199,No,Desktop,England,0
+17564,A,1,311,No,Desktop,Wales,0
+16544,B,12,275,No,Mobile,England,0
+16837,B,6,389,No,Desktop,Northern Ireland,0
+11888,B,3,287,Yes,Desktop,Scotland,1
+18004,B,1,431,No,Mobile,England,0
+19624,B,8,185,No,Mobile,Scotland,0
+17322,B,6,155,No,Mobile,Scotland,0
+10314,B,3,348,No,Mobile,Wales,0
+17016,B,2,340,No,Desktop,England,0
+14541,B,11,336,No,Desktop,Northern Ireland,0
+16935,A,3,368,No,Desktop,Wales,0
+12526,A,5,310,No,Desktop,England,0
+17025,A,14,356,No,Desktop,England,0
+12472,B,5,306,No,Mobile,Northern Ireland,0
+16005,A,4,198,No,Desktop,Scotland,0
+18987,B,11,248,Yes,Mobile,England,1
+16773,B,6,215,No,Mobile,Scotland,0
+13865,A,7,400,No,Mobile,Northern Ireland,0
+12669,B,13,291,No,Mobile,Northern Ireland,0
+17159,B,10,66,No,Mobile,England,0
+15000,B,11,227,No,Mobile,Wales,0
+11379,B,11,333,No,Desktop,Wales,0
+14286,B,1,223,Yes,Mobile,Northern Ireland,1
+18174,B,7,355,No,Mobile,Scotland,0
+13380,B,5,191,No,Desktop,Scotland,0
+16439,B,12,164,No,Mobile,Wales,0
+18226,B,2,388,No,Mobile,Scotland,0
+16542,B,12,392,No,Desktop,Wales,0
+17856,B,13,309,No,Desktop,Scotland,0
+19132,A,14,434,No,Mobile,Wales,0
+13318,A,14,76,No,Desktop,England,0
+11578,B,14,379,No,Mobile,Scotland,0
+12030,B,1,398,No,Desktop,Wales,0
+11690,A,1,219,No,Mobile,Northern Ireland,0
+13657,A,13,312,No,Desktop,Scotland,0
+17826,A,12,100,No,Desktop,England,0
+16762,B,3,176,Yes,Mobile,Scotland,1
+11595,A,10,133,No,Mobile,England,0
+15060,A,3,231,No,Mobile,Northern Ireland,0
+13920,A,13,188,Yes,Desktop,England,1
+17877,A,12,110,No,Mobile,England,0
+13009,B,11,449,No,Mobile,Wales,0
+14378,B,3,197,No,Mobile,Wales,0
+19658,B,5,58,No,Desktop,Scotland,0
+16974,A,14,209,No,Mobile,Northern Ireland,0
+10496,B,1,199,No,Desktop,Scotland,0
+11164,B,5,225,No,Mobile,Northern Ireland,0
+19056,B,5,216,No,Mobile,Scotland,0
+18185,A,4,314,No,Mobile,England,0
+15974,A,13,429,No,Mobile,Wales,0
+17063,B,8,324,No,Desktop,Scotland,0
+11304,B,10,389,No,Desktop,Scotland,0
+15073,A,4,361,No,Mobile,England,0
+12293,A,7,411,No,Mobile,Wales,0
+15944,B,6,282,Yes,Desktop,Scotland,1
+12034,B,7,138,No,Mobile,Northern Ireland,0
+17431,B,3,83,No,Desktop,Wales,0
+18211,B,7,280,No,Desktop,Scotland,0
+17679,A,12,416,No,Desktop,Northern Ireland,0
+17002,B,12,55,No,Desktop,Wales,0
+19079,A,9,46,No,Desktop,Northern Ireland,0
+14085,A,2,135,No,Mobile,England,0
+16950,B,10,233,No,Mobile,Scotland,0
+17437,B,12,124,No,Mobile,Wales,0
+15300,A,1,153,No,Mobile,England,0
+12217,B,13,132,No,Desktop,Northern Ireland,0
+13485,A,3,316,No,Desktop,Northern Ireland,0
+19651,A,7,104,No,Desktop,England,0
+10318,B,11,414,No,Desktop,Wales,0
+17893,B,11,365,No,Mobile,Wales,0
+17288,A,6,198,No,Desktop,Scotland,0
+13494,A,2,108,No,Desktop,Wales,0
+19670,A,4,112,No,Mobile,Wales,0
+10855,A,5,300,No,Mobile,Wales,0
+17518,B,4,303,Yes,Mobile,Scotland,1
+11900,B,1,369,No,Desktop,England,0
+18296,B,3,382,No,Desktop,Scotland,0
+15078,B,6,294,Yes,Mobile,Wales,1
+18432,A,10,355,No,Mobile,England,0
+17069,B,11,242,No,Desktop,Northern Ireland,0
+14183,A,8,447,No,Mobile,Wales,0
+12603,A,8,334,No,Desktop,Northern Ireland,0
+16226,B,11,351,No,Desktop,Scotland,0
+13762,B,6,222,No,Mobile,Scotland,0
+17507,B,4,79,No,Desktop,Scotland,0
+10023,A,13,78,No,Desktop,Northern Ireland,0
+16618,B,9,275,Yes,Desktop,Northern Ireland,1
+16342,B,6,50,No,Desktop,Scotland,0
+16156,B,11,369,No,Mobile,Scotland,0
+16574,A,11,405,No,Mobile,England,0
+10488,A,8,335,No,Desktop,Scotland,0
+14191,B,13,284,No,Desktop,Wales,0
+19967,B,1,274,No,Desktop,Wales,0
+18592,A,14,198,No,Desktop,Northern Ireland,0
+15511,A,10,409,No,Mobile,Scotland,0
+18710,B,4,364,No,Mobile,Wales,0
+17461,A,13,50,No,Desktop,Scotland,0
+15103,B,4,379,No,Desktop,Scotland,0
+11877,A,2,168,No,Desktop,Northern Ireland,0
+12274,A,14,379,No,Mobile,Northern Ireland,0
+12971,A,3,436,No,Desktop,Scotland,0
+18966,B,3,64,Yes,Desktop,England,1
+10283,B,1,405,No,Mobile,Northern Ireland,0
+13720,B,11,280,No,Desktop,Scotland,0
+15968,A,10,249,No,Mobile,Northern Ireland,0
+13765,B,8,185,No,Mobile,Northern Ireland,0
+11032,A,9,350,No,Desktop,Northern Ireland,0
+12252,B,8,60,No,Mobile,England,0
+11333,B,1,197,Yes,Desktop,Scotland,1
+19361,A,14,282,No,Desktop,Scotland,0
+12355,A,8,176,No,Desktop,England,0
+13919,B,13,80,No,Mobile,Scotland,0
+12592,B,7,309,Yes,Desktop,Northern Ireland,1
+11151,B,5,449,No,Mobile,Wales,0
+13372,A,1,325,Yes,Mobile,Scotland,1
+16155,A,4,137,No,Desktop,Wales,0
+18978,A,3,95,No,Mobile,England,0
+15136,A,5,64,No,Desktop,Wales,0
+17572,A,5,444,No,Mobile,Wales,0
+12768,A,13,311,No,Desktop,Northern Ireland,0
+10233,A,13,169,No,Desktop,Northern Ireland,0
+18335,B,8,306,No,Desktop,Wales,0
+14198,A,1,421,No,Desktop,Scotland,0
+15620,B,2,179,Yes,Mobile,Scotland,1
+13290,A,10,249,No,Desktop,Wales,0
+10083,B,7,247,No,Mobile,England,0
+14409,A,13,447,No,Mobile,Scotland,0
+19028,B,2,336,No,Desktop,Wales,0
+12936,B,13,280,No,Mobile,Northern Ireland,0
+19538,A,12,80,No,Mobile,Scotland,0
+19545,A,8,267,No,Desktop,Northern Ireland,0
+14139,B,4,241,No,Desktop,England,0
+19602,B,10,49,No,Desktop,Wales,0
+10535,B,9,233,No,Mobile,England,0
+19664,B,8,51,Yes,Desktop,England,1
+19474,A,6,88,No,Mobile,England,0
+18991,A,6,161,No,Desktop,England,0
+16519,B,6,224,No,Mobile,Scotland,0
+11868,A,9,145,Yes,Desktop,Scotland,1
+13159,A,12,172,No,Mobile,England,0
+15191,A,1,368,No,Mobile,England,0
+16193,A,14,291,No,Desktop,England,0
+13684,B,10,439,No,Desktop,England,0
+14985,B,8,165,No,Desktop,England,0
+13367,B,3,82,No,Desktop,Northern Ireland,0
+10013,A,8,367,No,Mobile,Scotland,0
+14646,B,10,184,No,Desktop,Northern Ireland,0
+14820,B,8,80,Yes,Mobile,Northern Ireland,1
+12373,A,8,158,No,Desktop,Northern Ireland,0
+14249,A,14,180,No,Mobile,England,0
+19318,A,14,354,No,Mobile,Northern Ireland,0
+12409,A,1,110,No,Mobile,Northern Ireland,0
+14961,A,12,403,No,Mobile,England,0
+15092,B,4,192,No,Desktop,Scotland,0
+12292,B,12,80,No,Mobile,Northern Ireland,0
+19717,A,10,170,No,Mobile,Scotland,0
+16142,B,4,212,No,Desktop,England,0
+14764,B,13,282,No,Desktop,Wales,0
+10509,B,11,326,No,Desktop,Northern Ireland,0
+10261,A,8,439,No,Desktop,Scotland,0
+18047,B,6,323,No,Desktop,England,0
+17553,A,8,156,No,Desktop,England,0
+14463,A,10,121,No,Mobile,Wales,0
+11051,B,13,237,No,Desktop,Scotland,0
+13603,B,13,118,Yes,Mobile,Scotland,1
+15200,A,5,156,No,Desktop,Northern Ireland,0
+10210,B,11,145,No,Mobile,Wales,0
+17515,A,11,130,No,Mobile,England,0
+15306,B,13,408,Yes,Desktop,Northern Ireland,1
+19780,B,6,126,No,Desktop,England,0
+19556,A,7,167,No,Desktop,Scotland,0
+18591,B,10,210,No,Mobile,Scotland,0
+17128,A,2,230,No,Mobile,Wales,0
+16622,B,10,308,No,Mobile,England,0
+16159,B,14,396,No,Desktop,Scotland,0
+12211,B,2,402,No,Mobile,Wales,0
+10809,B,6,395,No,Desktop,England,0
+16001,A,8,420,No,Desktop,England,0
+17475,B,4,105,No,Mobile,Wales,0
+13775,A,9,434,No,Mobile,England,0
+18460,B,9,265,No,Mobile,Northern Ireland,0
+16135,B,8,366,No,Mobile,England,0
+12535,B,14,442,Yes,Desktop,Scotland,1
+11673,B,10,241,No,Mobile,Northern Ireland,0
+12779,A,5,267,No,Desktop,England,0
+19162,B,2,245,No,Mobile,Wales,0
+14197,B,3,356,No,Mobile,Wales,0
+19026,A,2,185,No,Mobile,Wales,0
+11359,B,4,330,No,Desktop,England,0
+11763,A,5,175,No,Desktop,Scotland,0
+13129,A,8,99,No,Mobile,Wales,0
+14560,B,12,149,No,Mobile,England,0
+12653,B,14,50,No,Desktop,England,0
+12120,B,7,45,No,Desktop,Northern Ireland,0
+10180,A,8,313,No,Desktop,Wales,0
+12047,A,9,223,No,Desktop,Northern Ireland,0
+11195,B,11,406,No,Desktop,England,0
+15746,A,8,78,No,Desktop,England,0
+18196,B,10,443,No,Mobile,England,0
+13050,B,3,139,No,Mobile,Wales,0
+14965,B,13,347,No,Desktop,England,0
+12566,B,6,379,No,Desktop,Wales,0
+17840,B,11,257,No,Desktop,Scotland,0
+13393,A,1,191,Yes,Desktop,Wales,1
+17595,A,9,125,No,Mobile,Scotland,0
+15524,A,12,407,No,Desktop,Scotland,0
+14881,B,5,293,No,Desktop,Northern Ireland,0
+10348,B,8,397,Yes,Mobile,Northern Ireland,1
+11625,A,8,136,No,Desktop,Wales,0
+16164,A,5,378,No,Mobile,Wales,0
+15760,B,4,393,No,Desktop,Scotland,0
+13149,A,5,126,No,Mobile,England,0
+14653,B,3,260,Yes,Desktop,Wales,1
+19241,B,2,422,No,Desktop,England,0
+18048,A,8,315,No,Mobile,Scotland,0
+16591,B,6,207,No,Mobile,England,0
+18563,A,10,155,No,Mobile,Northern Ireland,0
+18547,B,10,109,Yes,Mobile,Scotland,1
+14054,A,8,53,No,Mobile,England,0
+15322,B,6,276,No,Desktop,England,0
+12145,A,2,258,No,Desktop,Scotland,0
+11518,A,1,312,No,Mobile,Scotland,0
+10091,B,13,288,Yes,Mobile,Northern Ireland,1
+19442,A,14,295,No,Desktop,Wales,0
+10936,A,14,446,No,Desktop,Northern Ireland,0
+12922,B,3,120,Yes,Desktop,Northern Ireland,1
+12943,A,3,397,No,Mobile,Northern Ireland,0
+14073,A,6,398,No,Mobile,Northern Ireland,0
+16573,B,8,253,No,Mobile,England,0
+10242,A,2,130,No,Desktop,Wales,0
+17108,A,13,231,No,Mobile,England,0
+14112,B,8,296,No,Mobile,Wales,0
+13177,A,12,78,No,Desktop,Scotland,0
+18472,A,3,63,No,Mobile,Northern Ireland,0
+12808,A,8,354,No,Desktop,Wales,0
+11886,B,4,369,No,Mobile,Wales,0
+12479,A,14,437,No,Mobile,England,0
+11173,A,7,359,No,Mobile,Northern Ireland,0
+17584,B,12,148,No,Mobile,Northern Ireland,0
+13521,B,2,260,Yes,Desktop,England,1
+17034,A,5,446,No,Desktop,Wales,0
+15913,A,9,333,No,Mobile,Wales,0
+14113,B,9,295,No,Desktop,Scotland,0
+15040,B,11,230,No,Mobile,Northern Ireland,0
+17186,B,1,177,No,Desktop,Scotland,0
+11704,A,4,359,Yes,Desktop,Wales,1
+19251,B,9,222,Yes,Desktop,Wales,1
+12420,B,8,175,No,Mobile,Northern Ireland,0
+18887,A,9,180,No,Desktop,England,0
+16597,B,8,344,No,Mobile,Wales,0
+18423,A,2,357,No,Mobile,Wales,0
+16970,A,6,102,No,Mobile,Scotland,0
+13064,B,8,286,No,Desktop,Scotland,0
+17967,A,6,187,No,Desktop,England,0
+14437,A,12,252,No,Mobile,England,0
+19045,B,3,121,No,Desktop,Scotland,0
+17616,B,7,318,No,Desktop,Northern Ireland,0
+15459,A,11,277,No,Mobile,Wales,0
+12165,A,11,198,No,Desktop,Scotland,0
+17363,B,1,158,No,Desktop,England,0
+13143,B,8,214,Yes,Desktop,Northern Ireland,1
+12028,B,5,262,Yes,Mobile,Northern Ireland,1
+11745,A,11,424,No,Desktop,England,0
+10353,A,1,347,No,Desktop,England,0
+11670,A,13,402,No,Desktop,Northern Ireland,0
+17692,A,12,83,No,Mobile,Wales,0
+16852,A,13,444,No,Mobile,Northern Ireland,0
+16766,A,7,217,No,Desktop,Wales,0
+13312,A,11,152,No,Desktop,Wales,0
+19116,B,8,435,Yes,Desktop,England,1
+10436,B,11,41,No,Desktop,England,0
+15278,A,6,224,No,Desktop,England,0
+11921,A,10,138,No,Mobile,Scotland,0
+15606,A,1,248,No,Mobile,Wales,0
+12816,A,12,127,No,Mobile,Northern Ireland,0
+19174,B,3,136,No,Mobile,England,0
+10460,B,13,231,No,Desktop,England,0
+19738,B,14,111,No,Desktop,England,0
+10939,B,8,51,No,Mobile,Scotland,0
+10874,A,4,113,No,Desktop,Scotland,0
+12361,A,4,369,No,Mobile,Scotland,0
+12856,B,4,149,No,Mobile,Northern Ireland,0
+17748,B,10,395,No,Mobile,Scotland,0
+13769,A,14,145,No,Mobile,Scotland,0
+13158,A,10,240,No,Mobile,England,0
+13856,A,9,178,No,Desktop,Northern Ireland,0
+14130,A,11,174,No,Desktop,England,0
+14601,A,2,176,No,Desktop,Scotland,0
+17772,A,6,247,No,Mobile,Scotland,0
+15470,A,1,221,Yes,Desktop,Scotland,1
+12382,B,11,225,No,Mobile,Wales,0
+14318,B,10,214,No,Desktop,Northern Ireland,0
+19148,A,3,319,No,Desktop,Wales,0
+14283,A,13,269,No,Mobile,Wales,0
+10477,B,4,256,No,Desktop,England,0
+19365,B,7,210,No,Mobile,Wales,0
+15650,B,7,205,No,Desktop,England,0
+15293,B,10,47,No,Mobile,Wales,0
+10298,B,6,282,No,Desktop,Scotland,0
+15782,A,3,64,No,Mobile,Scotland,0
+11925,A,4,357,No,Desktop,Scotland,0
+10287,A,4,105,No,Mobile,Wales,0
+19883,A,11,76,No,Mobile,Scotland,0
+12477,B,10,48,No,Mobile,Wales,0
+12763,A,1,310,Yes,Desktop,Northern Ireland,1
+11974,B,9,87,Yes,Mobile,England,1
+10580,B,2,46,No,Mobile,Northern Ireland,0
+15548,A,2,280,No,Desktop,Wales,0
+19536,B,11,192,No,Mobile,Wales,0
+13204,B,9,128,No,Desktop,England,0
+19041,A,6,108,No,Mobile,Scotland,0
+18182,B,10,204,No,Desktop,Scotland,0
+14620,B,3,107,No,Desktop,England,0
+13398,B,1,63,No,Desktop,Wales,0
+17552,A,11,439,No,Mobile,Wales,0
+17727,A,4,329,No,Desktop,Wales,0
+13429,A,7,323,No,Mobile,Northern Ireland,0
+16457,B,11,379,No,Mobile,Scotland,0
+12670,A,14,397,No,Desktop,Wales,0
+17254,A,6,370,No,Desktop,Wales,0
+16577,A,3,370,No,Desktop,England,0
+17982,A,8,314,No,Desktop,Wales,0
+12065,A,4,416,No,Desktop,England,0
+12195,A,7,138,No,Desktop,Scotland,0
+11395,A,8,399,No,Desktop,Scotland,0
+19473,B,11,296,No,Desktop,Wales,0
+10205,A,8,174,No,Mobile,Wales,0
+18268,B,1,295,Yes,Mobile,Northern Ireland,1
+17962,B,8,389,Yes,Mobile,Northern Ireland,1
+13430,A,14,59,No,Desktop,Scotland,0
+19565,B,10,197,No,Desktop,Scotland,0
+16680,A,11,257,No,Desktop,Northern Ireland,0
+13712,B,2,155,Yes,Desktop,England,1
+14752,A,9,238,No,Desktop,Scotland,0
+19561,B,2,399,No,Mobile,Scotland,0
+10935,A,2,101,No,Mobile,Northern Ireland,0
+11171,B,10,248,No,Desktop,Northern Ireland,0
+15718,B,5,51,No,Desktop,Scotland,0
+13893,B,2,143,Yes,Mobile,Scotland,1
+11766,B,12,318,No,Desktop,Wales,0
+18850,A,4,54,No,Desktop,Wales,0
+19920,B,4,227,No,Mobile,Wales,0
+13601,A,9,157,No,Mobile,Scotland,0
+14537,B,6,406,No,Desktop,England,0
+15331,B,4,436,No,Desktop,Scotland,0
+12340,B,3,41,No,Mobile,Wales,0
+16461,B,4,262,No,Mobile,Scotland,0
+10288,A,9,88,No,Desktop,England,0
+17032,B,5,198,No,Mobile,Wales,0
+13371,B,10,146,No,Desktop,Wales,0
+13260,B,11,225,No,Desktop,Northern Ireland,0
+18390,A,12,377,No,Desktop,Wales,0
+15721,A,7,439,Yes,Desktop,Wales,1
+19214,A,1,386,No,Desktop,Scotland,0
+13809,B,5,436,Yes,Mobile,Northern Ireland,1
+17891,A,9,209,No,Mobile,Scotland,0
+14155,B,5,213,No,Mobile,Scotland,0
+11679,B,1,403,No,Mobile,Northern Ireland,0
+16029,A,11,178,No,Desktop,Wales,0
+10627,A,8,75,No,Desktop,Scotland,0
+10607,B,8,149,No,Desktop,Northern Ireland,0
+19865,A,8,104,No,Mobile,Northern Ireland,0
+16362,A,7,261,No,Desktop,Wales,0
+12257,A,12,236,No,Mobile,Northern Ireland,0
+12302,A,11,40,No,Desktop,Scotland,0
+13099,A,3,426,No,Desktop,England,0
+19160,B,8,403,No,Desktop,Northern Ireland,0
+10814,A,14,93,No,Desktop,Northern Ireland,0
+11668,B,6,189,No,Mobile,Scotland,0
+17796,B,4,375,No,Desktop,Northern Ireland,0
+15768,B,1,192,No,Mobile,Scotland,0
+19001,A,2,437,No,Desktop,Scotland,0
+14057,B,10,89,Yes,Desktop,England,1
+11806,A,3,381,No,Desktop,Scotland,0
+19337,B,6,354,Yes,Mobile,Wales,1
+17674,B,10,403,No,Mobile,Northern Ireland,0
+12392,B,10,311,No,Mobile,England,0
+13447,B,5,61,No,Mobile,Wales,0
+18503,B,7,108,No,Desktop,England,0
+19583,B,5,313,No,Mobile,Wales,0
+18413,A,1,293,No,Mobile,Northern Ireland,0
+18367,B,5,93,No,Desktop,Wales,0
+19837,B,7,449,Yes,Mobile,Scotland,1
+12999,B,4,289,No,Desktop,Northern Ireland,0
+17561,A,5,445,No,Mobile,England,0
+18310,B,4,348,No,Mobile,England,0
+15747,A,14,40,No,Mobile,Northern Ireland,0
+12384,B,10,138,No,Mobile,England,0
+18488,A,10,139,No,Desktop,Scotland,0
+16897,A,5,306,No,Desktop,Wales,0
+14912,A,1,114,Yes,Desktop,Northern Ireland,1
+15529,B,9,341,No,Mobile,Northern Ireland,0
+13899,B,4,84,No,Desktop,Wales,0
+13843,B,8,396,No,Desktop,Scotland,0
+16827,A,13,312,No,Desktop,England,0
+17513,B,7,114,No,Desktop,Scotland,0
+15114,B,12,112,Yes,Desktop,England,1
+16868,B,9,232,Yes,Mobile,Wales,1
+12540,A,10,402,No,Mobile,Scotland,0
+18625,B,1,173,No,Desktop,Northern Ireland,0
+18451,B,12,426,Yes,Mobile,England,1
+15447,A,2,230,No,Mobile,Northern Ireland,0
+13445,B,13,339,No,Desktop,Scotland,0
+13586,A,2,286,No,Desktop,Scotland,0
+10779,B,11,325,No,Mobile,England,0
+16383,B,10,114,No,Mobile,England,0
+14049,A,11,308,No,Desktop,Wales,0
+14579,A,9,274,No,Desktop,Wales,0
+11801,A,12,406,No,Mobile,Northern Ireland,0
+16319,A,8,78,No,Desktop,Wales,0
+15132,A,5,401,No,Desktop,Scotland,0
+12704,A,1,105,No,Desktop,Scotland,0
+14424,A,8,397,No,Desktop,Northern Ireland,0
+19989,B,9,433,Yes,Mobile,Scotland,1
+15303,B,10,141,No,Mobile,England,0
+19635,A,4,292,No,Desktop,Northern Ireland,0
+17142,B,11,130,No,Desktop,Wales,0
+11521,B,10,114,No,Mobile,Wales,0
+16707,A,12,164,No,Mobile,England,0
+13238,A,6,391,No,Desktop,Wales,0
+11254,B,12,211,No,Mobile,Northern Ireland,0
+12702,A,2,286,Yes,Mobile,Northern Ireland,1
+16357,A,4,423,No,Desktop,Scotland,0
+12569,A,4,391,No,Mobile,Wales,0
+13886,A,8,94,No,Mobile,Northern Ireland,0
+10521,A,1,185,No,Desktop,Scotland,0
+18573,B,3,422,Yes,Desktop,Northern Ireland,1
+13734,B,12,377,No,Mobile,Northern Ireland,0
+10040,A,3,112,No,Desktop,England,0
+17488,B,10,445,Yes,Desktop,Scotland,1
+12812,B,3,261,No,Desktop,Wales,0
+12743,A,13,428,No,Desktop,England,0
+10155,B,10,266,No,Mobile,Scotland,0
+11259,B,1,279,No,Desktop,Northern Ireland,0
+11515,A,14,258,No,Mobile,Scotland,0
+12156,B,2,272,No,Desktop,Wales,0
+14316,A,11,149,No,Mobile,Wales,0
+14559,A,1,320,No,Mobile,Wales,0
+18549,B,7,326,No,Mobile,Scotland,0
+13435,B,12,162,No,Mobile,Wales,0
+18821,B,7,351,No,Desktop,Scotland,0
+12872,A,7,129,No,Mobile,Scotland,0
+15075,A,7,359,No,Desktop,Wales,0
+18608,A,13,105,Yes,Mobile,Wales,1
+14787,A,7,158,No,Desktop,Wales,0
+11857,B,8,239,No,Desktop,Wales,0
+18329,A,6,109,No,Desktop,Northern Ireland,0
+14558,B,1,64,Yes,Mobile,England,1
+19395,B,10,114,No,Mobile,Scotland,0
+13644,A,3,189,Yes,Mobile,England,1
+18446,B,4,181,No,Desktop,Wales,0
+17293,A,13,381,No,Desktop,England,0
+18057,A,10,188,No,Desktop,England,0
+10427,A,4,213,No,Desktop,England,0
+16881,A,11,223,No,Mobile,Northern Ireland,0
+17080,B,6,169,Yes,Desktop,Wales,1
+19600,A,13,401,No,Mobile,Scotland,0
+18151,B,12,436,No,Mobile,England,0
+18338,A,2,211,No,Mobile,England,0
+13811,B,4,127,No,Mobile,Northern Ireland,0
+12029,B,5,263,No,Mobile,England,0
+13053,A,13,144,No,Desktop,Northern Ireland,0
+15723,A,7,373,No,Desktop,Wales,0
+17993,A,7,314,No,Mobile,Wales,0
+19652,A,13,302,No,Mobile,Wales,0
+13979,B,2,386,No,Desktop,Northern Ireland,0
+18886,A,1,434,No,Mobile,Wales,0
+15710,B,11,61,No,Desktop,Scotland,0
+19869,B,13,59,No,Desktop,Scotland,0
+13048,B,14,204,No,Desktop,Northern Ireland,0
+19341,B,5,315,No,Mobile,Northern Ireland,0
+17378,B,14,310,Yes,Mobile,Scotland,1
+16676,A,9,418,No,Desktop,England,0
+19091,B,3,346,No,Mobile,Scotland,0
+10812,B,6,53,No,Mobile,England,0
+16039,B,9,308,No,Mobile,Wales,0
+12749,B,5,175,No,Desktop,Wales,0
+15497,A,11,195,No,Mobile,Northern Ireland,0
+17998,B,11,341,No,Mobile,Northern Ireland,0
+18407,A,8,75,No,Mobile,England,0
+12545,A,10,156,No,Mobile,Northern Ireland,0
+15126,A,9,412,No,Desktop,Wales,0
+19592,B,11,140,No,Mobile,Scotland,0
+18824,A,2,45,No,Desktop,Wales,0
+15366,A,12,314,No,Mobile,Wales,0
+11659,A,8,230,No,Mobile,Wales,0
+18019,B,5,185,Yes,Mobile,England,1
+18721,B,1,98,No,Desktop,Scotland,0
+10409,A,5,396,No,Mobile,Scotland,0
+15535,B,6,210,No,Mobile,England,0
+18504,A,11,225,No,Mobile,Scotland,0
+19234,A,1,270,No,Desktop,Scotland,0
+17440,A,4,132,Yes,Desktop,Scotland,1
+16981,A,2,278,No,Mobile,Wales,0
+14387,A,12,277,No,Desktop,Northern Ireland,0
+17207,A,5,424,No,Mobile,England,0
+14626,B,10,236,No,Desktop,England,0
+13959,B,14,80,No,Mobile,Northern Ireland,0
+11360,A,2,138,No,Mobile,Wales,0
+10659,A,7,338,No,Mobile,England,0
+19209,B,7,216,Yes,Desktop,England,1
+10534,B,6,373,No,Desktop,Northern Ireland,0
+17137,A,11,312,No,Desktop,Wales,0
+16743,A,1,424,No,Mobile,England,0
+19735,B,12,195,No,Mobile,Scotland,0
+13066,B,12,296,No,Desktop,Northern Ireland,0
+17457,A,12,328,No,Desktop,Northern Ireland,0
+13849,A,12,278,No,Mobile,Northern Ireland,0
+13216,B,6,242,No,Desktop,England,0
+13157,B,2,52,No,Mobile,England,0
+14259,B,7,167,No,Desktop,Wales,0
+11406,A,13,340,No,Mobile,Scotland,0
+14501,B,6,438,Yes,Desktop,England,1
+18715,B,2,189,No,Desktop,England,0
+14800,A,11,429,No,Mobile,Wales,0
+19968,B,1,291,No,Desktop,Northern Ireland,0
+17154,B,11,437,No,Desktop,England,0
+12314,A,4,63,No,Mobile,Northern Ireland,0
+19546,A,14,393,No,Mobile,England,0
+14916,A,7,343,No,Desktop,England,0
+13255,B,3,56,No,Desktop,Scotland,0
+18745,B,3,334,No,Mobile,Wales,0
+10009,B,10,277,Yes,Desktop,England,1
+17018,B,2,361,No,Mobile,Wales,0
+12508,B,6,298,No,Desktop,Northern Ireland,0
+16348,B,14,204,No,Mobile,Wales,0
+10304,A,1,64,No,Mobile,Wales,0
+11439,B,13,114,Yes,Mobile,England,1
+13349,B,1,306,No,Desktop,Wales,0
+11982,A,5,332,No,Mobile,Scotland,0
+11175,A,11,44,No,Mobile,England,0
+11121,B,2,357,No,Mobile,Northern Ireland,0
+18870,A,13,327,No,Mobile,England,0
+18676,A,9,366,No,Mobile,Wales,0
+12549,A,10,292,Yes,Desktop,Scotland,1
+10754,B,6,391,No,Desktop,England,0
+14042,B,3,58,No,Desktop,Northern Ireland,0
+11698,A,9,281,No,Desktop,Wales,0
+14227,B,12,152,No,Desktop,Scotland,0
+10264,A,3,200,No,Desktop,Scotland,0
+18266,A,7,106,No,Desktop,Northern Ireland,0
+13126,B,1,151,No,Desktop,Scotland,0
+11623,B,8,182,No,Mobile,Scotland,0
+19941,A,6,312,No,Desktop,Wales,0
+13464,B,7,182,No,Mobile,Wales,0
+10565,A,9,407,Yes,Desktop,Northern Ireland,1
+13401,B,13,269,No,Desktop,England,0
+12015,B,12,95,No,Desktop,Scotland,0
+13173,B,5,323,No,Desktop,Wales,0
+13077,A,5,319,No,Desktop,Wales,0
+11937,A,14,162,No,Mobile,Northern Ireland,0
+10903,A,2,327,No,Mobile,Wales,0
+12835,A,9,114,No,Mobile,Northern Ireland,0
+18631,A,1,429,No,Mobile,Northern Ireland,0
+13891,A,7,113,No,Mobile,Northern Ireland,0
+11239,A,11,323,No,Mobile,Scotland,0
+17665,A,7,151,No,Mobile,England,0
+16639,B,14,218,No,Desktop,Scotland,0
+14818,B,11,280,Yes,Desktop,Wales,1
+19464,B,4,327,No,Mobile,England,0
+10617,A,1,374,No,Desktop,Northern Ireland,0
+11558,A,13,202,Yes,Mobile,England,1
+18548,B,10,198,No,Mobile,Northern Ireland,0
+15851,A,14,101,No,Desktop,England,0
+14379,B,3,388,No,Mobile,Scotland,0
+11296,B,2,157,No,Mobile,England,0
+11864,B,8,322,No,Desktop,Northern Ireland,0
+10761,A,6,264,No,Mobile,England,0
+12620,A,7,308,No,Mobile,Northern Ireland,0
+11494,B,6,140,Yes,Desktop,Northern Ireland,1
+13986,B,3,76,No,Mobile,Scotland,0
+13881,B,2,387,No,Mobile,Wales,0
+13973,B,7,402,No,Desktop,Wales,0
+11290,B,1,145,No,Mobile,Scotland,0
+15044,A,1,178,No,Mobile,Northern Ireland,0
+19499,B,14,238,Yes,Mobile,England,1
+10805,A,5,152,No,Mobile,Northern Ireland,0
+13205,B,13,120,No,Mobile,Scotland,0
+15724,A,6,212,No,Desktop,Scotland,0
+13837,B,2,407,No,Mobile,Wales,0
+16352,A,11,411,No,Mobile,Wales,0
+14090,B,13,115,No,Desktop,Scotland,0
+16965,B,7,233,No,Mobile,England,0
+12618,A,12,309,No,Mobile,Scotland,0
+12100,A,2,232,No,Mobile,England,0
+16329,A,1,312,No,Mobile,Northern Ireland,0
+14898,A,7,63,No,Mobile,England,0
+19517,A,5,360,No,Mobile,England,0
+17226,B,9,348,No,Desktop,Wales,0
+13161,A,10,141,No,Desktop,Northern Ireland,0
+19933,B,4,64,No,Mobile,England,0
+17326,B,13,327,No,Mobile,Wales,0
+13019,A,1,98,No,Mobile,Scotland,0
+12760,A,5,307,No,Mobile,England,0
+14566,B,9,315,No,Desktop,England,0
+12588,A,9,372,No,Desktop,Northern Ireland,0
+13516,A,10,295,No,Desktop,Wales,0
+15705,B,6,98,Yes,Desktop,Scotland,1
+10141,B,5,266,No,Desktop,Scotland,0
+12919,B,1,274,Yes,Mobile,Wales,1
+16713,B,13,440,No,Mobile,Scotland,0
+14156,A,13,275,Yes,Mobile,England,1
+12121,B,4,419,No,Desktop,Northern Ireland,0
+18857,B,3,66,No,Desktop,England,0
+19824,A,8,320,No,Desktop,Wales,0
+18118,A,3,73,No,Desktop,England,0
+15127,A,2,51,No,Desktop,Scotland,0
+17421,A,3,333,Yes,Desktop,England,1
+18546,B,3,312,No,Mobile,England,0
+15214,A,14,146,No,Desktop,Northern Ireland,0
+13588,B,14,353,No,Desktop,Wales,0
+13912,B,9,298,No,Desktop,England,0
+16382,B,7,171,No,Mobile,England,0
+10406,A,4,247,No,Desktop,Wales,0
+17263,B,2,174,No,Desktop,Scotland,0
+11928,A,5,429,No,Desktop,Scotland,0
+11342,B,13,272,No,Mobile,Wales,0
+14100,B,14,132,No,Desktop,Scotland,0
+15605,B,11,349,No,Desktop,Wales,0
+17053,A,9,243,No,Desktop,Scotland,0
+13514,B,3,105,No,Desktop,England,0
+15953,B,11,384,No,Desktop,England,0
+11154,B,7,334,Yes,Desktop,Wales,1
+13449,B,10,185,Yes,Desktop,Scotland,1
+19478,B,4,42,No,Mobile,Northern Ireland,0
+13262,B,5,229,Yes,Mobile,Wales,1
+16428,B,8,82,No,Mobile,Northern Ireland,0
+14445,B,3,322,No,Desktop,Wales,0
+16684,B,8,336,No,Mobile,Northern Ireland,0
+11954,A,14,401,No,Mobile,Northern Ireland,0
+18816,A,1,225,No,Desktop,Wales,0
+16839,B,13,262,No,Desktop,Wales,0
+14827,A,4,76,No,Desktop,Wales,0
+14687,A,12,290,No,Mobile,England,0
+12227,B,1,345,No,Mobile,Wales,0
+16251,A,12,407,Yes,Desktop,Scotland,1
+12584,B,3,159,No,Desktop,Wales,0
+11370,B,8,227,No,Desktop,Northern Ireland,0
+12335,B,13,443,No,Desktop,Northern Ireland,0
+14576,A,7,110,No,Mobile,Wales,0
+13803,B,8,47,Yes,Desktop,England,1
+14608,B,5,89,No,Mobile,England,0
+14255,B,10,258,No,Desktop,Wales,0
+16360,B,12,313,No,Mobile,Wales,0
+18084,B,10,313,No,Desktop,Northern Ireland,0
+12063,A,11,156,No,Desktop,England,0
+18647,B,13,346,No,Desktop,Wales,0
+16686,A,11,208,No,Desktop,Northern Ireland,0
